@@ -1,0 +1,29 @@
+<!-- <body> -->
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  
+    <header class="header"  *ngIf="shouldShowHeader()">
+       <a href="#" class="logo"><img src="../../../../assets/images/Imagen2.png" alt=""></a>
+       <input type="checkbox" id="check">
+        <label for="check" class="icons">
+         <i class='bx bx-menu' id="menu-icon"></i>
+         <i class='bx bx-x' id="close-icon"></i>
+        </label>
+        <nav class="navbar">
+          <a routerLink="/index" routerLinkActive="active" style="--i:0;">Home</a>
+          <a routerLink="/perfumes" routerLinkActive="active" style="--i:1;">Perfumes</a>
+          <a routerLink="/perfumes/hombre" routerLinkActive="active" style="--i:2;">Hombre</a>
+          <a routerLink="/perfumes/mujer" routerLinkActive="active" style="--i:3;">Mujer</a>
+          <a routerLink="/perfumes/unisex" routerLinkActive="active" style="--i:4;">Unisex</a>
+          <a routerLink="/aboutus" routerLinkActive="active" style="--i:5;">About</a>
+          <a routerLink="/contact" routerLinkActive="active" style="--i:6;">Contacto</a>
+          <!-- <a routerLink="/profile" *ngIf="existsToken()" routerLinkActive="active" style="--i:6;">| Hola X, Perfil</a> -->
+          <a routerLink="/profile" *ngIf="existsToken()" routerLinkActive="active" style="--i:6;">| Perfil</a>
+          <a routerLink="/cart" *ngIf="existsToken()" routerLinkActive="active" style="--i:6;"><i class="fa-solid fa-cart-shopping"></i> |</a>
+          <a routerLink="/signin" *ngIf="!existsToken()" routerLinkActive="active" id="icoc" style="--i:7;"><img src="../../../../assets/images/sesion.png" alt="sesion"></a>
+          <a (click)="logout()" *ngIf="existsToken()" routerLinkActive="active" style="--i:6; margin-right: 20px">Logout</a>
+          
+        </nav>
+    </header>
+  
+<!-- </body> -->

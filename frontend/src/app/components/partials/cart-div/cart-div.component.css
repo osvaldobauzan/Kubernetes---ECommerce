@@ -1,0 +1,39 @@
+/* Estilos CSS */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+.cart-dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: none;
+}
+.cart-dropdown.visible {
+    display: block;
+}
+.cart-item {
+    margin-bottom: 10px;
+}
+.cart-item-title {
+    font-weight: bold;
+}
+.subtotal {
+    margin-top: 10px;
+    font-weight: bold;
+}
+.total {
+    font-size: 18px;
+    margin-top: 10px;
+}

@@ -1,0 +1,41 @@
+/* Estilos para el formulario de login */
+
+h1 {
+    text-align: center; /* Centra el texto horizontalmente */
+    font-family: Arial, sans-serif; /* Fuente similar a la del footer */
+    color: #333; /* Color de texto similar al del footer */
+    border-bottom: 2px solid #ff9800; /* Línea inferior con color similar al botón */
+    padding-bottom: 10px; /* Espacio entre el texto y la línea */
+    margin-bottom: 20px; /* Espacio inferior para separarlo del formulario */
+}
+form {
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: center; /* Centra el formulario horizontalmente */
+  }
+  
+  form input[type="text"],
+  form input[type="email"],
+  form input[type="password"],
+  form select,
+  form textarea {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  form button {
+    padding: 10px 20px;
+    background-color: #ff9800;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  form button:hover {
+    background-color: #f57c00;
+  }
+  

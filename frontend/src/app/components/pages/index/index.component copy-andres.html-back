@@ -1,0 +1,174 @@
+<!-- <head>
+    <meta charset="UTF-8">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head> -->
+
+<!-- <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"> -->
+
+<!-- <body> -->
+<div class="divbody">
+  <div class="welcome">
+    <span class="text1" id="welcomeText">Bienvenidos</span>
+  </div>
+  <form action="" method="GET">
+
+    <div class="buscador">
+      <input type="text" placeholder="Buscador">
+      <button type="submit" class="hm-btn-round"><i class="far fa-paper-plane"></i></button>
+    </div>
+  </form>
+
+  <section class="noticias">
+    <div class="noticia">
+      <img src="assets/images/social.7426-1024x536.jpg" alt="Noticia 1">
+      <h2>Yves Saint Laurent Y Elixir</h2>
+      <h4>Nuevas Fragancias de <em>Igor Masyukov</em></h4>
+      <p></p>
+      <p>La más sensual y lujosa de las fragancias de la colección Y. <em>Y Elixir</em> es un perfume sensual basado en
+        una intrigante combinación de notas especiadas y amaderadas.</p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <img src="assets/images/social.7423-1024x536.jpg" alt="Noticia 2">
+      <h2>Tom Ford Oud Wood Parfum</h2>
+      <h4>Nuevas Fragancias de <em>Sanja Pekic</em></h4>
+      <p></p>
+      <p>TOM FORD BEAUTY lanzará la última incorporación a su colección Private Blend en marzo de 2024: la nueva edición
+        de Oud Wood Eau de Parfum, llamada Oud Wood Parfum.</p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <img src="assets/images/o.Q4mex8DBZOg.jpg" alt="Noticia 3">
+      <h2>K by Dolce & Gabbana Eau de Parfum Intense</h2>
+      <h4>Nuevas fragancias</h4>
+      <p></p>
+      <p>Tras el éxito de las primeras creaciones K by Dolce&Gabbana Eau de Toilette, lanzada en 2019, y K by
+        Dolce&Gabbana Eau de Parfum, lanzada en 2020, creadas para celebrar la belleza de los acordes mediterráneos
+        aromáticos, cítricos y amaderados, Dolce&Gabbana toma ahora otra dirección y compone una fragancia especiada,
+        afrutada y de cuero.</p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <iframe src="https://www.youtube.com/embed/dzOqyG73KuE?mute=1&autoplay=1" frameborder="0"
+        allowfullscreen></iframe>
+      <h2>Prada Paradoxe </h2>
+      <h4>Fragancia de mujer</h4>
+      <p></p>
+      <p>Es un perfume vanguardista e innovador que consigue crear una fragancia atemporal y sutil para diario.
+        Pertenece a la familia olfativa Ámbar Floral y tiene una intensidad media sobre la piel. Es un acierto si buscas
+        un perfume con carácter que no deje de lado la sutileza de un perfume clásico.</p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <img src="assets/images/noticiadigio.jpg" alt="Noticia 4">
+      <h2>Armani Acqua di Giò Parfum</h2>
+      <h4>Nuevas fragancias</h4>
+      <p></p>
+      <p>Giorgio Armani lanza <em>di Giò Parfum</em> como una fragancia que añade una dimensión fuerte e intensa a la
+        identidad atemporal del Acqua di Giò original. La nueva fragancia se describe como una experiencia refrescante e
+        intensa que explora la entrelazada relación entre el hombre y la naturaleza. </p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <img src="assets/images/noticialibre.jpg" alt="Noticia 5">
+      <h2>Yves Saint Laurent Libre L'Absolu Platine</h2>
+      <h4>Nuevas fragancias</h4>
+      <p></p>
+      <p>Yves Saint Laurent lanza una nueva iteración de su fragancia de 2019, Libre, en forma de <em>Libre L'Absolu
+          Platine</em>, una nueva visión de la feminidad moderna de la marca y que anima a las mujeres a abrazar su
+        individualidad. Como complemento de la original, esta fragancia sigue celebrando el concepto de libertad,
+        haciendo hincapié en la libertad de ser una misma, tomar decisiones y encontrar el equilibrio. </p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <img src="assets/images/noticia idole.jpg" alt="Noticia 6">
+      <h2>Lancôme Idôle Now</h2>
+      <h4>Nuevas fragancias</h4>
+      <p></p>
+      <p><em>Idôle Now Eau De Parfum</em> es una fragancia floral que, según Lancôme, interactúa con el aura de quien la
+        lleva para convertirse en un reflejo de su verdadero yo, transformándola en su propio ídolo. El marketing de
+        esta fragancia se dirige a personas audaces y seguras de sí mismas.</p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <img src="assets/images/noticiasauvage.jpg" alt="Noticia 7">
+      <h2>Sauvage Elixir Dior</h2>
+      <h4>Nuevas fragancias</h4>
+      <p></p>
+      <p>Dior Sauvage Elixir es una fragancia masculina de la reconocida casa de moda Dior, lanzada como una variante
+        intensa y seductora de su famoso perfume Sauvage. Esta versión Elixir presenta una interpretación más profunda y
+        audaz de la fragancia original, capturando la esencia del hombre moderno y carismático.</p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <img src="assets/images/perfume-hombre-myslf-ysl-3.jpg" alt="Noticia 8">
+      <h2>MYSLF:la nueva fragancia de YSL</h2>
+      <h4>Nuevas fragancias</h4>
+      <p></p>
+      <p>La nueva fragancia MYSLF mezcla notas frescas de bergamota y absoluto de azahar con maderas cálidas, pachulí y
+        la molécula amaderada almizclada Ambrofix para aportar tenacidad y difusión.</p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <img src="assets/images/noticiaprada.jpg" alt="Noticia 9">
+      <h2>Perfumes Hombre Prada</h2>
+      <h4>Tendencias fragancias hombre</h4>
+      <p></p>
+      <p>Los perfumes para hombre de la marca Prada son conocidos por su elegancia, sofisticación y calidad. Prada es
+        una marca de lujo italiana que ha logrado establecerse como una referencia en la industria de la moda y la
+        perfumería. Sus fragancias para hombres suelen combinar notas frescas, amaderadas y especiadas, creando aromas
+        distintivos y envolventes que reflejan el estilo moderno y refinado de la marca.</p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <img src="assets/images/noticia armanicode.png" alt="Noticia 10">
+      <h2>Armani Code Parfum Giorgio Armani</h2>
+      <h4>Tendencias fragancias hombre</h4>
+      <p></p>
+      <p>Armani Code es una línea de fragancias para hombres creada por la reconocida marca de moda italiana Giorgio
+        Armani. Estas fragancias se caracterizan por su elegancia, sensualidad y misterio. Armani Code ofrece una
+        variedad de aromas que van desde notas cítricas y frescas hasta acordes más intensos y seductores.</p>
+      <a href="#">Leer más</a>
+    </div>
+    <div class="noticia">
+      <img src="assets/images/noticia jadore.jpg" alt="Noticia 11">
+      <h2>J'adore Dior</h2>
+      <h4>Tendencias fragancias Mujer</h4>
+      <p></p>
+      <p>J'adore es una icónica línea de fragancias femeninas creada por la prestigiosa casa de moda francesa Dior. Esta
+        fragancia es conocida por su elegancia atemporal y su sensualidad envolvente. Con una mezcla exquisita de notas
+        florales y afrutadas, J'adore captura la esencia de la feminidad moderna y sofisticada.</p>
+      <a href="#">Leer más</a>
+    </div>
+
+    <!-- Agrega más noticias según sea necesario -->
+  </section>
+  <div class="galeria">
+    <img src="assets/images/YSL.jpg" alt="">
+    <img src="assets/images/sauvage.jpg" alt="">
+    <img src="assets/images/prada black.jpg" alt="">
+    <img src="assets/images/le beau parfum.jpg" alt="">
+    <img src="assets/images/stronger with you.webp" alt="">
+    <img src="assets/images/image-product-1.jpg" alt="">
+    <img src="assets/images/libre.jpg" alt="">
+    <img src="assets/images/laviebelle.jpg" alt="">
+    <img src="assets/images/paradoxe.jpg" alt="">
+    <img src="assets/images/black opium.jpg" alt="">
+    <img src="assets/images/tacon.jpg" alt="">
+    <img src="assets/images/jadore.jpg" alt="">
+    <img src="assets/images/codeabsolu.jpg" alt="">
+    <img src="assets/images/codeparfum.jpg" alt="">
+    <img src="assets/images/versace.jpg" alt="">
+    <img src="assets/images/scandal.jpg" alt="">
+    <img src="assets/images/onemillion.jpg" alt="">
+    <img src="assets/images/chance.jpg" alt="">
+    <img src="assets/images/coco.jpg" alt="">
+    <img src="assets/images/aromes.jpg" alt="">
+    <img src="assets/images/gioparfum.jpg" alt="">
+  </div>
+</div>
+<!-- </body> -->

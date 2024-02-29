@@ -1,0 +1,128 @@
+<!-- <script src="https://kit.fontawesome.com/a2c2ab77fe.js" crossorigin="anonymous"></script>
+<script>
+    function openTab(evt, tabName) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.getElementsByClassName("tablinks");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }
+      document.getElementById(tabName).style.display = "block";
+      evt.currentTarget.className += " active";
+    }
+    function previewAvatar(event) {
+const preview = document.getElementById('avatar-preview');
+const file = event.target.files[0];
+const reader = new FileReader();
+
+reader.onload = function() {
+  preview.src = reader.result;
+}
+
+if (file) {
+  reader.readAsDataURL(file);
+}
+}
+  </script> -->
+
+
+
+
+    <div class="user-profile">
+        <div class="user-avatar">
+            <img id="avatar-preview" src="#" alt="Avatar">
+            <input type="file" id="avatar" name="avatar" accept="image/*" onchange="previewAvatar(event)">
+        </div>
+        <div class="user-info">
+            <div class="tabs">
+                <button class="tablinks active" (click)="openTab($event, 'datos')">Datos Personales</button>
+                <button class="tablinks" (click)="openTab($event, 'password')">Cambiar Contraseña</button>
+                <button class="tablinks" (click)="openTab($event, 'compras')">Últimas Compras</button>
+                <button class="tablinks" (click)="openTab($event, 'reviews')">Últimas Reviews</button>
+            </div>
+            <div id="datos" class="tabcontent" style="display: block;">
+                <h2>Datos Personales</h2>
+                <form (submit)="updateProfile()" class="profile-form">
+                    <div class="form-group">
+                        <label for="nombre">Nombre:</label>
+                        <input type="text" id="name" [(ngModel)]="user.name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="apellido">Apellido:</label>
+                        <input type="text" id="lastname" [(ngModel)]="user.lastname" name="lastname">
+                    </div>
+                    <div class="form-group">
+                        <label for="mail">Correo electrónico:</label>
+                        <input type="email" id="email" [(ngModel)]="user.email" name="email" disabled="true">
+                    </div>
+                    <div class="form-group">
+                        <label for="domicilio">Teléfono:</label>
+                        <input type="text" id="phone" [(ngModel)]="user.phone" name="phone">
+                    </div>
+                    <div class="form-group">
+                        <label for="address">Domicilio:</label>
+                        <input type="text" id="address" [(ngModel)]="user.address" name="address">
+                    </div>
+                    <div class="form-group">
+                        <label for="address">Código Postal:</label>
+                        <input type="text" id="postalCode" [(ngModel)]="user.postalCode" name="postalCode">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="community">Ciudad:</label>
+                        <select id="community" [(ngModel)]="user.community" name="community">
+                            <option *ngFor="let community of communities" [value]="community.id">{{ community['name'] }}
+                            </option>
+                        </select>
+                    </div>
+                    <button type="submit" class="guardar-cambios-btn">Guardar cambios</button>
+                </form>
+            </div>
+            <div id="password" class="tabcontent">
+                <h2>Cambiar Contraseña</h2>
+                <app-change-password></app-change-password>
+                <!-- <form>
+                    <div class="form-group">
+                        <label for="current-password">Contraseña actual:</label>
+                        <input type="password" id="current-password" name="current-password" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="new-password">Nueva Contraseña:</label>
+                        <input type="password" id="new-password" name="new-password" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="confirm-password">Confirmar Nueva Contraseña:</label>
+                        <input type="password" id="confirm-password" name="confirm-password" required>
+                    </div>
+                    <button type="submit" class="guardar-cambios-btn">Guardar cambios</button>
+                </form> -->
+            </div>
+            <div id="compras" class="tabcontent">
+                <h2>Últimas Compras</h2>
+                <div class="reseña">
+                    <app-orders-history></app-orders-history>
+                </div>
+
+            </div>
+
+            <div id="reviews" class="tabcontent">
+                <section id="user-reviews">
+                    <app-user-reviews></app-user-reviews>
+                </section>
+            </div>
+        </div>
+    </div>
+
+
+        <!-- <div class="form-group">
+        <label for="newPassword">Nueva Contraseña:</label>
+        <input type="password" id="newPassword">
+    </div>
+    
+    <div class="form-group">
+        <label for="confirmPassword">Confirme Contraseña:</label>
+        <input type="password" id="confirmPassword">
+    </div> -->

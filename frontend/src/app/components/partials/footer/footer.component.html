@@ -1,0 +1,69 @@
+<!-- <div style="text-align: center;">
+    <div> Footer</div>
+    <div>
+        <ul>
+            <li> texto 1</li>
+            <li> texto 2</li>
+            <li> texto 2</li>
+            <li> texto 2</li>
+            <li> texto 2</li>
+            <li> texto 2</li>
+            <li> texto 2</li>
+            <li> texto 2</li>
+            <li> texto 2</li>
+        </ul>
+    </div>
+</div> -->
+
+<footer *ngIf="shouldShowFooter()">
+
+  <div class="newsletter">
+    <h4>¡Suscríbete a nuestro boletín!</h4>
+    <p>Entérate de las últimas novedades, ofertas exclusivas y <br>
+      consejos de belleza directamente en tu bandeja de entrada. <br>
+      ¡No te pierdas nada!</p>
+    <form action="#" method="post">
+      <input type="email" name="email" placeholder="Dirección de correo electrónico" required>
+      <button type="submit">Suscribirse</button>
+    </form>
+  </div>
+  <div class="social-links">
+    <h4>Síguenos en redes sociales</h4>
+    <ul>
+      <li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+      <li><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+      <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+      <li><a href="#" target="_blank"><i class="fab fa-pinterest"></i></a></li>
+    </ul>
+  </div>
+  <div class="information-links">
+    <h4>Información</h4>
+    <ul>
+      <li><a routerLink="/aboutus">Sobre nosotros</a></li>
+      <li><a routerLink="/terms-conditions" >Términos y condiciones</a></li>
+      <li><a routerLink="/privacy">Política de privacidad</a></li>
+      <li><a href="#">Preguntas frecuentes</a></li>
+    </ul>
+  </div>
+  <div class="support-links">
+    <h4>Ayuda y Soporte</h4>
+    <ul>
+      <li><a routerLink="/contact">Contáctanos</a></li>
+      <li><a href="#">Envíos y devoluciones</a></li>
+      <li><a href="#">Guía de tallas</a></li>
+      <li><a href="#">Estado del pedido</a></li>
+    </ul>
+  </div>
+  <div class="shop-links">
+    <h4>Nuestra tienda</h4>
+    <ul>
+      <li><a routerLink="/perfumes/mujer">Perfumes para ella</a></li>
+      <li><a routerLink="/perfumes/hombre">Perfumes para él</a></li>
+      <li><a routerLink="/perfumes/unisex">Perfumes unisex</a></li>
+      <li><a routerLink="/perfumes">Ofertas especiales</a></li>
+    </ul>
+  </div>
+</footer>
+<div class="copyright">
+  <p>&copy; 2024 BetAroma. Todos los derechos reservados.</p>
+</div>

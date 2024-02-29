@@ -1,0 +1,87 @@
+<!-- <head>
+    <meta charset="UTF-8">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head> -->
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+<!-- <body> -->
+<div class="div-body">
+  <div class="welcome">
+    <span class="text1" id="welcomeText">Bienvenidos</span>
+  </div>
+  <form (submit)="searchProducts()">
+
+    <div class="buscador">
+      <input type="text" name="searchText" [(ngModel)]="searchText" placeholder="Buscador" required autofocus>
+      <button type="submit" class="hm-btn-round"><i class="far fa-paper-plane"></i></button>
+    </div>
+  </form>
+
+  <section class="noticias">
+    <div class="noticia">
+      <iframe src="https://www.youtube.com/embed/dzOqyG73KuE?mute=1&autoplay=1" frameborder="0"
+        allowfullscreen></iframe>
+      <h2>Prada Paradoxe </h2>
+      <h4>Fragancia de mujer</h4>
+      <p></p>
+      <p>Es un perfume vanguardista e innovador que consigue crear una fragancia atemporal y sutil para diario.
+        Pertenece a la familia olfativa Ámbar Floral y tiene una intensidad media sobre la piel. Es un acierto si buscas
+        un perfume con carácter que no deje de lado la sutileza de un perfume clásico.</p>
+      
+    </div>
+    <div class="noticia" *ngFor="let article of articles">
+      <a [routerLink]="['/blog-article', article['id']]">
+      <img *ngIf="article['imageMini'] ; else noimage " src="{{ article['imageMini'] }}" alt="Noticia 1">
+      <ng-template #noimage>
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/beta-shopping-fa365.appspot.com/o/articles%2FgenericImage.JPG?alt=media&token=d5f5ef1c-11db-496e-8d1a-b4bd9f45fa73"
+          alt="Noticia 1">
+      </ng-template></a>
+      <!-- <img src="assets/images/perfumearticle.jpg" alt="Noticia 1"> -->
+      <!-- <h2><a [routerLink]="['/blog-article', article['id']]">{{ article['title'] }}</a></h2> -->
+      <h2>{{ article['title'] }}</h2>
+      <h5>{{ article['description'] }}</h5>
+      <!-- <h4><em>{{ article['description'] }}</em></h4> -->
+      <p></p>
+      <p>{{ article.article.length > 300 ? article.article.slice(0, 300) + '...' : article.article }}</p>
+      <!-- <a href="#">Leer más</a> -->
+      <a [routerLink]="['/blog-article', article['id']]"> Leer más...</a>
+    </div>
+  </section>
+
+
+
+
+  
+
+    <!-- Agrega más noticias según sea necesario -->
+  
+  <div class="galeria">
+    <img src="assets/images/YSL.jpg" alt="">
+    <img src="assets/images/sauvage.jpg" alt="">
+    <img src="assets/images/prada black.jpg" alt="">
+    <img src="assets/images/le beau parfum.jpg" alt="">
+    <img src="assets/images/stronger with you.webp" alt="">
+    <img src="assets/images/image-product-1.jpg" alt="">
+    <img src="assets/images/libre.jpg" alt="">
+    <img src="assets/images/laviebelle.jpg" alt="">
+    <img src="assets/images/paradoxe.jpg" alt="">
+    <img src="assets/images/black opium.jpg" alt="">
+    <img src="assets/images/tacon.jpg" alt="">
+    <img src="assets/images/jadore.jpg" alt="">
+    <img src="assets/images/codeabsolu.jpg" alt="">
+    <img src="assets/images/codeparfum.jpg" alt="">
+    <img src="assets/images/versace.jpg" alt="">
+    <img src="assets/images/scandal.jpg" alt="">
+    <img src="assets/images/onemillion.jpg" alt="">
+    <img src="assets/images/chance.jpg" alt="">
+    <img src="assets/images/coco.jpg" alt="">
+    <img src="assets/images/aromes.jpg" alt="">
+    <img src="assets/images/gioparfum.jpg" alt="">
+  </div>
+</div>
+<!-- </body> -->

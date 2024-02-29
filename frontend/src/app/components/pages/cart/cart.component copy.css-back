@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+h1 {
+    text-align: center; /* Centra el texto horizontalmente */
+    font-family: Arial, sans-serif; /* Fuente similar a la del footer */
+    color: #333; /* Color de texto similar al del footer */
+    border-bottom: 2px solid #ff9800; /* Línea inferior con color similar al botón */
+    padding-bottom: 10px; /* Espacio entre el texto y la línea */
+    margin-bottom: 20px; /* Espacio inferior para separarlo del formulario */
+  }
+
+
+/* Estilos para el contenido del componente Angular */
+/* Estilos para el contenido del componente Angular */
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.order-details {
+  margin-top: 40px;
+  background-color: #f8f8f8;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow-x: auto; /* Agregar desbordamiento horizontal */
+}
+
+.order-details h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.order-details table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.order-details th, .order-details td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.order-details th {
+  background-color: #f2f2f2;
+}
+
+.order-details th:first-child, .order-details td:first-child {
+  padding-left: 20px;
+}
+
+.order-details th:last-child, .order-details td:last-child {
+  padding-right: 20px;
+}
+
+.order-details .order-items h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+/*** 
+*/
+.tracking-form {
+  max-width: 400px;
+  margin: 0%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  max-width: 250px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
+select,
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 250px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ff9800;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/*
+Payment
+*/
+
+
+
+/***** ELDO ****/
+

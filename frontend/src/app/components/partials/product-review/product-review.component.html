@@ -1,0 +1,102 @@
+<!-- <div class="container">
+    <div *ngFor="let review of reviews" class="review">
+        <h2 class="review-title">{{ review.title }}</h2>
+        <p class="review-content">{{ review.review }}</p>
+        <p class="review-rating">Valoración: {{ review.rating }}/5</p>
+        <p class="review-likes">Likes: {{ review.likes }}</p>
+    </div>
+</div>
+
+
+<form (ngSubmit)="submitReview()" class="new-review-form">
+    <div *ngIf="userId; else loggedOut">
+        <h2>Agregar Nueva Reseña</h2>
+        <div>
+            <label>Título:</label>
+            <input type="text" [(ngModel)]="newReview.title" name="title" required>
+        </div>
+        <div>
+            <label>Reseña:</label>
+            <textarea [(ngModel)]="newReview.review" name="review" required></textarea>
+        </div>
+        <div>
+            <div>
+                <input type="file" (change)="createFormData($event)">
+            </div>
+        </div>
+        <div>
+            <label>Valoración:</label>
+            <select [(ngModel)]="newReview.rating" name="rating" required>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+        <button type="submit">Enviar Reseña</button>
+    </div>
+    <ng-template #loggedOut>
+        Para realizar una review, inicie sesión.
+    </ng-template>
+</form> -->
+
+
+<!-- Sección de revisiones -->
+<div class="container">
+    <div *ngFor="let review of reviews" class="review">
+      <h2 class="review-title">{{ review.title }}</h2>
+      <div class="review-rating">
+        <!-- <span class="stars">
+            <span *ngFor="let i of getStarsArray(5)" class="star"
+              [ngClass]="{'filled-star': i <= review.rating, 'empty-star': i > review.rating}">
+              &#9733;
+            </span>
+          </span> -->
+
+          <span class="stars">
+            <ng-container *ngFor="let i of getStarsArray(5)">
+              <span *ngIf="i <= review.rating" class="star filled-star">&#9733;</span>
+              <ng-container *ngIf="i > review.rating && i - 1 < review.rating" class="star filled-star">&#9734;</ng-container>
+              <span *ngIf="i > review.rating && i - 1 >= review.rating" class="star empty-star">&#9734;</span>
+            </ng-container>
+          </span>
+          
+          
+
+      </div>
+      <p class="review-content">{{ review.review }}</p>
+      
+      <!-- <p class="review-likes">Likes: {{ review.likes }}</p> -->
+    </div>
+  
+  
+  <!-- Formulario para agregar una nueva reseña -->
+  <form (ngSubmit)="submitReview()" class="new-review-form">
+    <div *ngIf="userId; else loggedOut">
+      <h2>Agregar Nueva Reseña</h2>
+      <div>
+        <label for="title">Título:</label>
+        <input type="text" id="title" [(ngModel)]="newReview.title" name="title" required>
+      </div>
+      <div>
+        <label for="review">Reseña:</label>
+        <textarea id="review" [(ngModel)]="newReview.review" name="review" required></textarea>
+      </div>
+      <div>
+        <label for="rating">Valoración:</label>
+        <select id="rating" [(ngModel)]="newReview.rating" name="rating" required>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <button type="submit">Enviar Reseña</button>
+    </div>
+    <ng-template #loggedOut>
+      Para realizar una review, inicie sesión.
+    </ng-template>
+  </form>
+</div>

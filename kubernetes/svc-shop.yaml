@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: shop
+  name: shop
+  # namespace: ecommerce
+spec:
+  ports:
+  - nodePort: 32703
+    port: 8003
+    protocol: TCP
+    targetPort: 8003
+  selector:
+    app: shop
+  sessionAffinity: None
+  type: NodePort

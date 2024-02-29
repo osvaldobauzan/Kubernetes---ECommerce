@@ -1,0 +1,79 @@
+/* Estilos para la clase order-details */
+.order-details,
+.order-send,
+.order-items {
+    width: 70%;
+    margin: 0 auto; /* Centrar horizontalmente */
+}
+
+
+.order-details {
+    padding-top: 100px;
+    margin-bottom: 20px;
+}
+
+.order-details h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+/* .order-info {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+} */
+
+.order-info {
+    margin-bottom: 20px;
+    background-color: rgba(249, 249, 249, 0.5); /* Fondo semi-transparente */
+    padding: 20px; /* Ajuste de espaciado */
+    border-radius: 5px; /* Borde redondeado */
+}
+
+
+.order-info div {
+    margin-bottom: 5px;
+}
+
+.order-info div strong {
+    font-weight: bold;
+}
+
+/* Estilos para la clase order-send */
+.order-send {
+    margin-bottom: 20px;
+}
+
+/* Estilos para la clase order-items */
+.order-items {
+    margin-top: 10px;
+    padding-bottom: 5px;
+}
+
+.order-items h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.order-items table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.order-items th,
+.order-items td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.order-items th {
+    /* background-color: #f2f2f2; */
+    background-color: rgba(249, 249, 249, 0.464); /* Fondo semi-transparente */
+}
+
+.order-items tr:hover {
+    /* background-color: #f9f9f9; */
+    background-color: rgba(249, 249, 249, 0.5); /* Fondo semi-transparente */
+}

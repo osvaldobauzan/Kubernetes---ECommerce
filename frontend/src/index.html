@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>BetAromas - Perfumes</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <script src="https://kit.fontawesome.com/a2c2ab77fe.js" crossorigin="anonymous"></script>
+  <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+  <script>
+
+    // document.addEventListener("DOMContentLoaded", function() {
+    //       var lastScrollTop = 0;
+    //       var navbar = document.querySelector('.header');
+    //       var container = document.querySelector('.container');
+
+    //       window.addEventListener("scroll", function() {
+    //           var currentScroll = window.pageYOffset || document.documentElement.scrollTop;
+
+    //           if (currentScroll > lastScrollTop) {
+    //               navbar.style.top = "-100px"; // Oculta el navbar cuando se desplaza hacia abajo
+    //           } else {
+    //               navbar.style.top = "0"; // Muestra el navbar cuando se desplaza hacia arriba
+    //           }
+
+    //           lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
+
+    //           // container.style.top = Math.max(93 - currentScroll, 0) + "1"; // Fija el texto "Bienvenidos"
+    //           container.style.top = Math.max(93 - currentScroll, 0) + "px"; // Fija el texto "Bienvenidos"
+
+    //       });
+    //   });
+
+    document.addEventListener("DOMContentLoaded", function () {
+      var lastScrollTop = 0;
+      var navbar = document.querySelector('.header');
+      var container = document.querySelector('.container');
+
+      window.addEventListener("scroll", function () {
+        var currentScroll = window.pageYOffset || document.documentElement.scrollTop;
+
+        if (currentScroll > lastScrollTop) {
+          navbar.style.top = "-100px"; // Oculta el navbar cuando se desplaza hacia abajo
+        } else {
+          navbar.style.top = "0"; // Muestra el navbar cuando se desplaza hacia arriba
+        }
+
+        lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
+
+        if (container) {
+          container.style.top = Math.max(93 - currentScroll, 0) + "px"; // Fija el texto "Bienvenidos"
+        }
+      }, { passive: true }); // Marcar el event listener como pasivo);
+    });
+
+  
+     // * MOVIDO A index.component.js OnInit
+ 
+    // window.addEventListener('scroll', function () {
+    //   console.log("============================================================");
+    //   console.log("============================================================");
+    //   console.log("============================================================");
+    //   console.log("============================================================");
+    //   console.log("============================================================");
+    //   console.log("============================================================");
+    //   console.log("============================================================");
+    //   var welcomeText = document.getElementById('welcomeText');
+    //   var header = document.querySelector('.header');
+    //   if (window.scrollY > 50) {
+    //     header.classList.add('hide');
+    //     welcomeText.style.visibility = 'hidden';
+    //   } else {
+    //     header.classList.remove('hide');
+    //     welcomeText.style.visibility = 'visible';
+    //   }
+    // }, { passive: true });
+
+  </script>
+  
+  
+  
+</head>
+
+<body>
+  <app-root></app-root>
+</body>
+</html>
+

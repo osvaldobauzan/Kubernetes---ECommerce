@@ -1,0 +1,101 @@
+Categoria,Precio,Nombre_Perfume,Marca,Nombre_Cliente,Apellido_Cliente,Edad,Fecha_Compra,Email,Total,Cesta
+Unisex,126,More Than Words,Tom Ford,Will,Clooney,26,2024-01-14,josue34@example.org,42,10
+Unisex,287,Oud Minerale,Prada,Ben,Diesel,26,2024-01-24,sanmartinsaturnino@example.net,76,10
+Unisex,467,Infusion Vanille - Prada,Tom Ford,Vin,Bale,23,2024-02-15,valverdeaaron@example.net,51,2
+Unisex,133,Erba Pura,Xerjoff,Heath,Jackman,28,2024-01-30,maximiliano31@example.com,75,11
+Unisex,321,Infusion Vanille - Prada,Tom Ford,Matt,Bale,19,2024-01-13,adrianescriva@example.net,3,7
+Unisex,133,Erba Pura,Creed,Leonardo,Cruise,19,2024-02-26,wcordoba@example.com,50,3
+Unisex,419,Infusion Vanille - Prada,Xerjoff,Tom,Jackman,33,2024-02-27,celiaacosta@example.net,69,3
+Unisex,188,More Than Words,Tom Ford,Heath,Smith,21,2024-02-10,lara21@example.com,68,14
+Unisex,266,Infusion Vanille - Prada,Xerjoff,Will,Diesel,19,2024-01-12,fporras@example.com,50,3
+Unisex,260,Oud Minerale,Xerjoff,George,Washington,22,2024-01-07,coboadelina@example.net,80,11
+Unisex,85,Millesime Imperial,Creed,Jake,Bale,29,2024-01-15,cerdaanacleto@example.net,25,6
+Unisex,344,Millesime Imperial,Xerjoff,Russell,Gyllenhaal,34,2024-02-21,juan-bautista51@example.com,71,7
+Unisex,54,Accento,Prada,Tom,Stiller,29,2024-01-30,ninojose-angel@example.org,47,3
+Unisex,363,Accento,Xerjoff,Matt,Ledger,25,2024-02-21,jose-mari24@example.net,54,14
+Unisex,215,Millesime Imperial,Tom Ford,Johnny,Depp,18,2024-01-26,bernadjose-luis@example.com,54,9
+Unisex,57,Millesime Imperial,Tom Ford,Robert,Jackman,24,2024-01-04,candida52@example.com,26,12
+Unisex,201,Millesime Imperial,Creed,Jake,Clooney,31,2024-01-31,mazaeligio@example.org,69,9
+Unisex,466,Oud Minerale,Tom Ford,Jake,Downey,18,2024-02-04,bpacheco@example.com,11,14
+Unisex,66,Erba Pura,Xerjoff,Matt,Jackman,27,2024-01-30,dominguezeleuterio@example.net,53,7
+Unisex,191,More Than Words,Creed,Russell,Depp,29,2024-01-03,tamaritcarmelo@example.com,53,13
+Unisex,338,Millesime Imperial,Tom Ford,Tom,Ledger,27,2024-02-04,florenciobarcelo@example.com,4,14
+Unisex,327,Naxos,Creed,Robert,Pitt,20,2024-01-14,vicensgeorgina@example.net,35,10
+Unisex,97,Naxos,Tom Ford,Tom,Jackman,33,2024-01-03,piedad93@example.com,80,7
+Unisex,231,Infusion Vanille - Prada,Creed,Robert,Carrey,27,2024-02-04,coellonatanael@example.org,55,3
+Unisex,358,Oud Minerale,Xerjoff,Vin,Gyllenhaal,28,2024-01-24,tosorio@example.org,74,2
+Unisex,231,Infusion Vanille - Prada,Xerjoff,Will,Washington,29,2024-01-05,eulalia02@example.org,23,9
+Unisex,86,More Than Words,Prada,Denzel,Clooney,24,2024-02-12,rosauraseco@example.net,48,5
+Unisex,58,Erba Pura,Creed,Tom,Diesel,33,2024-02-13,isabelcazorla@example.com,75,4
+Unisex,385,Infusion Vanille - Prada,Prada,Jake,Hanks,21,2024-01-06,leyreberenguer@example.com,46,14
+Unisex,329,Oud Minerale,Creed,Johnny,Damon,31,2024-02-25,eugeniapi@example.net,18,14
+Unisex,275,Millesime Imperial,Xerjoff,Tom,Clooney,32,2024-01-25,kherrera@example.net,59,12
+Unisex,239,Infusion Vanille - Prada,Tom Ford,Tom,Reeves,20,2024-01-06,marc48@example.com,14,12
+Unisex,347,More Than Words,Creed,Jake,Diesel,19,2024-02-27,soraya39@example.net,34,5
+Unisex,334,More Than Words,Xerjoff,Robert,Diesel,33,2024-02-25,bmoraleda@example.com,33,1
+Unisex,73,Infusion Vanille - Prada,Xerjoff,Brad,Downey,22,2024-02-27,cmesa@example.com,1,12
+Unisex,96,More Than Words,Prada,Heath,Clooney,34,2024-01-27,pererasilvia@example.net,76,8
+Unisex,167,More Than Words,Xerjoff,Robert,Jackman,34,2024-01-20,ibarraleonor@example.org,46,6
+Unisex,274,Accento,Prada,George,Bale,18,2024-01-15,pacablanca@example.org,8,14
+Unisex,387,Millesime Imperial,Prada,Brad,Ledger,27,2024-01-05,zalmansa@example.net,50,6
+Unisex,205,Naxos,Tom Ford,Daniel,Crowe,28,2024-02-02,eribes@example.com,39,9
+Unisex,352,Erba Pura,Prada,Russell,Bale,20,2024-02-22,camat@example.net,41,7
+Unisex,290,Oud Minerale,Tom Ford,George,Smith,20,2024-02-15,fabio35@example.net,61,4
+Unisex,320,Millesime Imperial,Xerjoff,Tom,Jackman,33,2024-02-16,lupita48@example.net,50,8
+Unisex,120,Millesime Imperial,Creed,Will,Reeves,25,2024-01-23,guadalupegalvez@example.org,27,14
+Unisex,285,Infusion Vanille - Prada,Creed,Matt,Downey,27,2024-01-23,jsebastian@example.net,42,6
+Unisex,266,Oud Minerale,Tom Ford,Hugh,Diesel,28,2024-02-03,natalia23@example.org,0,3
+Unisex,433,Erba Pura,Xerjoff,Matt,Ledger,27,2024-02-16,tellezgertrudis@example.net,19,14
+Unisex,261,Erba Pura,Prada,Will,Pitt,31,2024-02-08,zorrillaariel@example.org,13,1
+Unisex,331,Accento,Creed,Denzel,Hanks,28,2024-01-25,moratacarlota@example.com,14,14
+Unisex,456,More Than Words,Tom Ford,Hugh,Washington,29,2024-02-05,teodora69@example.org,68,5
+Unisex,169,Erba Pura,Tom Ford,Jim,Gyllenhaal,26,2024-01-15,rosario55@example.net,43,9
+Unisex,355,Oud Minerale,Prada,George,Hanks,29,2024-02-05,zalmansa@example.org,8,1
+Unisex,283,Millesime Imperial,Tom Ford,Russell,Cruise,35,2024-01-14,espanaregina@example.org,76,1
+Unisex,84,Oud Minerale,Tom Ford,Matt,Gyllenhaal,23,2024-02-18,felicianariba@example.org,79,5
+Unisex,132,More Than Words,Xerjoff,Keanu,Craig,21,2024-01-09,galvezbernarda@example.org,71,5
+Unisex,274,Millesime Imperial,Prada,Jake,Downey,30,2024-01-27,ofeliavalentin@example.org,53,1
+Unisex,397,Millesime Imperial,Prada,Hugh,Bale,24,2024-01-01,ubilbao@example.com,21,10
+Unisex,132,Erba Pura,Tom Ford,Russell,Bale,19,2024-01-26,carmelitagual@example.org,54,14
+Unisex,418,Oud Minerale,Prada,Jim,Crowe,32,2024-01-13,paulino50@example.org,38,1
+Unisex,398,Accento,Xerjoff,Vin,Stiller,22,2024-01-09,teofilodomenech@example.org,26,9
+Unisex,397,Infusion Vanille - Prada,Creed,George,Damon,33,2024-02-09,franciscoballesteros@example.org,44,14
+Unisex,154,Infusion Vanille - Prada,Creed,Heath,Crowe,32,2024-02-03,djauregui@example.net,0,2
+Unisex,223,Infusion Vanille - Prada,Tom Ford,Keanu,Reeves,21,2024-02-09,lupe35@example.org,10,8
+Unisex,207,Millesime Imperial,Prada,Leonardo,Crowe,30,2024-02-21,hjimenez@example.net,41,9
+Unisex,342,Naxos,Creed,Keanu,Clooney,18,2024-02-11,cortesxiomara@example.com,15,5
+Unisex,84,Naxos,Prada,Brad,Clooney,25,2024-01-18,mosqueraeustaquio@example.net,59,9
+Unisex,375,Erba Pura,Tom Ford,Denzel,Hanks,24,2024-02-20,hmiro@example.net,61,14
+Unisex,204,Oud Minerale,Xerjoff,Daniel,Ledger,28,2024-01-10,maria-carmenmartorell@example.com,24,3
+Unisex,323,More Than Words,Xerjoff,Matt,Pitt,33,2024-02-09,aortiz@example.org,16,14
+Unisex,308,Oud Minerale,Creed,Ben,Cruise,24,2024-02-06,beltranroman@example.net,30,7
+Unisex,159,Oud Minerale,Prada,Christian,Smith,35,2024-01-30,salud12@example.org,2,4
+Unisex,140,Infusion Vanille - Prada,Creed,Johnny,Gyllenhaal,34,2024-02-25,aguilarjuan-carlos@example.com,18,9
+Unisex,458,Millesime Imperial,Creed,Denzel,Diesel,30,2024-01-16,ibru@example.org,74,8
+Unisex,321,Infusion Vanille - Prada,Creed,Johnny,Clooney,35,2024-01-02,zmorillo@example.net,51,11
+Unisex,379,Naxos,Creed,Johnny,Bale,22,2024-01-02,abellanliliana@example.org,72,2
+Unisex,318,Millesime Imperial,Tom Ford,Tom,Clooney,33,2024-02-12,tiradopascual@example.org,8,10
+Unisex,406,Naxos,Prada,Denzel,Downey,21,2024-02-20,mborrego@example.org,0,5
+Unisex,357,Millesime Imperial,Creed,Tom,Carrey,29,2024-02-03,gervasioquintanilla@example.org,25,9
+Unisex,392,Accento,Creed,Will,Jackman,32,2024-01-13,ainoa16@example.org,0,11
+Unisex,361,Millesime Imperial,Prada,Christian,Ledger,28,2024-01-12,carlitocabezas@example.org,69,11
+Unisex,326,More Than Words,Tom Ford,Daniel,Reeves,31,2024-01-26,tonopintor@example.net,56,8
+Unisex,433,More Than Words,Creed,Leonardo,Stiller,28,2024-01-22,reinaldocabanas@example.org,59,8
+Unisex,238,Infusion Vanille - Prada,Prada,Ben,Pitt,27,2024-01-31,guardiajuan-luis@example.net,76,8
+Unisex,158,Millesime Imperial,Tom Ford,Christian,Hanks,23,2024-02-07,corona83@example.net,37,14
+Unisex,141,Infusion Vanille - Prada,Prada,Matt,Bale,35,2024-02-12,ester87@example.net,70,4
+Unisex,328,Naxos,Creed,Denzel,Stiller,19,2024-01-14,artemio16@example.com,12,3
+Unisex,104,Infusion Vanille - Prada,Prada,Tom,Hanks,20,2024-02-06,rodrigorafa@example.net,21,7
+Unisex,392,Infusion Vanille - Prada,Xerjoff,Vin,Gyllenhaal,26,2024-02-14,yvalverde@example.net,69,5
+Unisex,72,Erba Pura,Prada,Tom,Diesel,18,2024-01-06,maricela34@example.com,25,10
+Unisex,150,Accento,Xerjoff,Russell,Jackman,24,2024-02-19,hipolito26@example.net,28,8
+Unisex,89,Oud Minerale,Xerjoff,Leonardo,Reeves,30,2024-01-31,amaliaugarte@example.org,40,14
+Unisex,334,More Than Words,Tom Ford,Leonardo,Damon,25,2024-01-26,qparedes@example.com,70,2
+Unisex,344,More Than Words,Creed,Tom,Reeves,30,2024-02-01,bertranpiedad@example.org,11,2
+Unisex,72,Millesime Imperial,Creed,Daniel,Damon,18,2024-01-31,inigo66@example.org,59,3
+Unisex,230,Oud Minerale,Creed,Brad,Hanks,35,2024-02-14,gertrudisalmansa@example.com,0,3
+Unisex,451,Millesime Imperial,Tom Ford,Tom,Cruise,23,2024-01-02,jose-manuel82@example.com,48,6
+Unisex,333,Millesime Imperial,Creed,Heath,Smith,23,2024-02-14,qcruz@example.org,79,4
+Unisex,388,Infusion Vanille - Prada,Tom Ford,Vin,Crowe,20,2024-01-18,haydeedieguez@example.com,28,7
+Unisex,95,Oud Minerale,Tom Ford,Denzel,Pitt,20,2024-02-21,ubalaguer@example.com,74,5
+Unisex,292,Erba Pura,Xerjoff,Vin,Damon,31,2024-01-21,fescriva@example.com,2,2

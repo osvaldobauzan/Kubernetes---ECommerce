@@ -1,0 +1,80 @@
+<!-- Estructura para la clase Order -->
+<div class="order-details">
+    <h2>Detalles de la Orden</h2>
+    <div class="order-info">
+        <div><strong>ID Seguimiento:</strong> {{ order.id }}</div>
+        <div><strong>Creado:</strong> {{ order.createdAt }}</div>
+        <div><strong>Ordenado:</strong> {{ order.orderedAt }}</div>
+        <div><strong>Pagado:</strong> {{ order.paidAt }}</div>
+        <div><strong>Total:</strong> {{ order.total }}</div>
+        <div><strong>Estado de la Orden:</strong> {{ order.statusOrder }}</div>
+        <div><strong>ID de Pago:</strong> {{ order.paymentId }}</div>
+        <div><strong>Estado de Pago:</strong> {{ order.paymentStatus }}</div>
+        <div><strong>Contacto Telefónico:</strong> {{ order.phoneContact }}</div>
+    </div>
+</div>
+
+<div class="order-send">
+    <h2>Detalles del envío</h2>
+    <div class="order-info">
+        <div><strong>Enviado:</strong> {{ order.sendedAt }}</div>
+        <div><strong>Estado de la Orden:</strong> {{ order.statusOrder }}</div>
+        <div><strong>ID de Pago:</strong> {{ order.paymentId }}</div>
+        <div><strong>Estado de Pago:</strong> {{ order.paymentStatus }}</div>
+        <div><strong>Transportista:</strong> {{ order.carrier }}</div>
+        <div><strong>Dirección:</strong> {{ order.address }}</div>
+        <div><strong>Código Postal:</strong> {{ order.postalCode }}</div>
+        <div><strong>Comunidad:</strong> {{ order.community }}</div>
+        <div><strong>Contacto Telefónico:</strong> {{ order.phoneContact }}</div>
+    </div>
+</div>
+
+<!-- Estructura para los items de la orden -->
+<div class="order-items">
+    <h2>Detalle compra</h2>
+    <table>
+        <thead>
+            <tr>
+                <!-- <th>ID</th>
+                <th>Order ID</th>
+                <th>Product ID</th> -->
+                <th>Imagen del Producto</th>
+                <th>Nombre del Producto</th>
+                <th>Precio Unitario</th>
+                <th>Cantidad</th>
+                <th>Tamaño</th>
+                <th>Subtotal</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Aquí puedes iterar sobre los items de la orden y mostrar cada uno en una fila de la tabla -->
+            <!-- Ejemplo de fila para un item de orden -->
+            <tr *ngFor="let item of items">
+                <!-- <td>{{ item.id }}</td>
+                <td>{{ item.orderId }}</td>
+                <td>{{ item.productId }}</td> -->
+                <td>
+                    <a [routerLink]="['/shop-product', item['productId']]"
+                        style="text-decoration: none; color: inherit; cursor: pointer;">
+                        <img src="{{ item.productImage }}" style="width: 50px; height: 50px;">
+                    </a>
+                </td>
+                <td>
+                    <a [routerLink]="['/shop-product', item['productId']]"
+                        style="text-decoration: none; color: inherit; cursor: pointer;">
+                        {{ item.productName }}
+                    </a>
+                </td>
+                <td>{{ item.unitPrice }}</td>
+                <td>{{ item.quantity }}</td>
+                <td>{{ item.size }}</td>
+                <td>{{ item.subTotal }}</td>
+
+            </tr>
+            <!-- Puedes repetir esta estructura para cada item de la orden -->
+        </tbody>
+    </table>
+    <br>
+    <br>
+    <!-- <a routerLink="/orders-history" routerLinkActive="active" style="color: aliceblue;">Regresar</a> -->
+</div>

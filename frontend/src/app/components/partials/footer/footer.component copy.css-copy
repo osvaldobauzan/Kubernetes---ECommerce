@@ -1,0 +1,83 @@
+/* Estilos para el footer */
+footer {
+    margin-top: 40px;
+    background-color: #f8f8f8;
+    padding: 50px 0;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row; /* Alinea los elementos en una fila horizontal */
+  }
+  
+  footer > div {
+    flex: 1 1 auto; /* Permitir que los elementos ocupen todo el ancho disponible */
+  }
+  
+  footer h4 {
+    margin-bottom: 20px;
+  }
+  
+  footer p {
+    margin-bottom: 20px;
+  }
+  
+  footer form {
+    margin-bottom: 20px;
+  }
+  
+  footer input[type="email"] {
+    padding: 10px;
+    width: 250px;
+  }
+  
+  footer button {
+    padding: 10px 20px;
+    background-color: #ff9800;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  footer .social-links ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  footer .social-links ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  footer .social-links ul li a {
+    color: #333;
+    font-size: 20px;
+  }
+  
+  footer .information-links ul,
+  footer .support-links ul,
+  footer .shop-links ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  footer .information-links ul li,
+  footer .support-links ul li,
+  footer .shop-links ul li {
+    margin-bottom: 10px;
+  }
+  
+  footer .information-links ul li a,
+  footer .support-links ul li a,
+  footer .shop-links ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .copyright {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  

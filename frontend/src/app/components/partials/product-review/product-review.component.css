@@ -1,0 +1,220 @@
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.review {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.review-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.review-content {
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.review-rating {
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.review-likes {
+    color: #666;
+    margin-bottom: 0;
+}
+
+.new-review-form {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width: 400px; 
+}
+
+.new-review-form h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.new-review-form label {
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.new-review-form input[type="text"],
+.new-review-form textarea,
+.new-review-form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.new-review-form button {
+    padding: 10px 20px;
+    background-color: #ff9800;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.new-review-form button:hover {
+    background-color: #f57c00;
+} */
+
+/* Contenedor principal */
+/* Contenedor principal */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Sección de revisiones */
+  .comments-section {
+    margin-top: 40px;
+    background-color: #333; /* Color de fondo oscuro que combina */
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilo para cada comentario */
+  .comment {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f8f8f8;
+    border-radius: 10px; /* Bordes suaves */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  }
+  
+  /* Título del comentario */
+  .comment h2 {
+    margin-bottom: 8px;
+    color: #333;
+    font-size: 1.1em;
+  }
+  
+  /* Contenido del comentario */
+  .comment p {
+    margin-bottom: 8px;
+    color: #666;
+  }
+  
+  /* Estrellas de valoración */
+  .stars {
+    font-size: 1.2em;
+    color: #ffc107; /* Color de las estrellas llenas */
+    margin-bottom: 8px;
+  }
+  
+  /* Estrella llena */
+  .stars .filled-star {
+    color: #ffc107; /* Color de las estrellas llenas */
+  }
+  
+  /* Estrella vacía */
+  .stars .empty-star {
+    color: #ccc; /* Color de las estrellas vacías */
+  }
+  
+  .review {
+    background-color: rgba(255, 255, 255, 0.9); /* Fondo ligeramente transparente */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
+    margin-bottom: 20px; /* Margen inferior */
+    width: 350px; /* Ancho del 30% de la pantalla */
+  }
+  
+  .review-title {
+    color: #333333; /* Color del título */
+    font-size: 24px; /* Tamaño de fuente del título */
+    margin-bottom: 10px; /* Margen inferior del título */
+  }
+  
+  .review-content {
+    color: #666666; /* Color del contenido */
+    font-size: 16px; /* Tamaño de fuente del contenido */
+    margin-bottom: 10px; /* Margen inferior del contenido */
+  }
+  
+  .review-rating {
+    color: #999999; /* Color de la valoración */
+    font-size: 14px; /* Tamaño de fuente de la valoración */
+    margin-bottom: 5px; /* Margen inferior de la valoración */
+  }
+  
+  .review-likes {
+    color: #999999; /* Color de los likes */
+    font-size: 14px; /* Tamaño de fuente de los likes */
+    margin-bottom: 0; /* Margen inferior de los likes */
+  }
+  
+
+  .new-review-form {
+    background-color: rgba(255, 255, 255, 0.9); /* Fondo ligeramente transparente */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
+    margin: 20px auto; /* Margen exterior */
+    width: 350px; /* Ancho del 30% de la pantalla */
+  }
+  
+  .new-review-form h2 {
+    color: #333333; /* Color del título */
+    font-size: 24px; /* Tamaño de fuente del título */
+    margin-bottom: 20px; /* Margen inferior del título */
+  }
+  
+  .new-review-form label {
+    color: #666666; /* Color de las etiquetas */
+    font-size: 16px; /* Tamaño de fuente de las etiquetas */
+    margin-bottom: 5px; /* Margen inferior de las etiquetas */
+  }
+  
+  .new-review-form input[type="text"],
+  .new-review-form textarea,
+  .new-review-form select {
+    width: 100%; /* Ancho completo */
+    padding: 10px; /* Espaciado interno */
+    margin-bottom: 10px; /* Margen inferior */
+    border: 1px solid #cccccc; /* Borde */
+    border-radius: 5px; /* Bordes redondeados */
+    box-sizing: border-box; /* Box-sizing */
+  }
+  
+  .new-review-form button {
+    padding: 10px 20px; /* Espaciado del botón */
+    background-color: #4a90e2; /* Color de fondo del botón (azul claro) */
+    border: none; /* Sin borde */
+    color: #ffffff; /* Color del texto del botón */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cursor */
+  }
+  
+  .new-review-form button:hover {
+    background-color: #357dbf; /* Color de fondo del botón al pasar el ratón (azul más oscuro) */
+  }
+  
+  #loggedOut {
+    color: #999999; /* Color del texto para el usuario desconectado */
+  }
+  

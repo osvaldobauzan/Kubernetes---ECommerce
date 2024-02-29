@@ -1,0 +1,77 @@
+
+
+<nav style="padding-top: 100px;">
+    <h1> Hola {{ user.name }} </h1>
+    <ul>
+      <li><a routerLink="/user-reviews" style="color: aliceblue;">Ver Reseñas</a></li>
+      <li><a routerLink="/profile" style="color: aliceblue;">Modificar Perfil</a></li>
+      <li><a routerLink="/change-password" style="color: aliceblue;">Actualizar contraseña</a></li>
+      <li>
+        <a routerLink="/orders-history" routerLinkActive="active" style="--i:2; color: aliceblue;">Ver compras</a>
+        </li>
+    </ul>
+  </nav>
+
+<!-- ACTUALIZAR PERFIL -->
+<h1>Actualizar Perfil</h1>
+** Añadir foto **
+<form (submit)="updateProfile()" class="profile-form">
+    <div class="form-group">
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" [(ngModel)]="user.email" name="email" required>
+    </div>
+    
+    <div class="form-group">
+        <label for="name">Nombres:</label>
+        <input type="text" id="name" [(ngModel)]="user.name" name="name" required>
+    </div>
+    
+    <div class="form-group">
+        <label for="lastname">Apellidos:</label>
+        <input type="text" id="lastname" [(ngModel)]="user.lastname" name="lastname">
+    </div>
+    
+    <div class="form-group">
+        <label for="phone">Teléfono:</label>
+        <input type="text" id="phone" [(ngModel)]="user.phone" name="phone">
+    </div>
+    
+    <div class="form-group">
+        <label for="address">Dirección:</label>
+        <input type="text" id="address" [(ngModel)]="user.address" name="address">
+    </div>
+    <div class="form-group">
+        <label for="address">Código Postal:</label>
+        <input type="text" id="postalCode" [(ngModel)]="user.postalCode" name="postalCode">
+    </div>
+    
+    <div class="form-group">
+        <label for="community">Ciudad:</label>
+        <select id="community" [(ngModel)]="user.community" name="community">
+            <option *ngFor="let community of communities" [value]="community.id">{{ community['name'] }}</option>
+        </select>
+    </div>
+    <!-- <div class="form-group">
+        <label for="newPassword">Nueva Contraseña:</label>
+        <input type="password" id="newPassword">
+    </div>
+    
+    <div class="form-group">
+        <label for="confirmPassword">Confirme Contraseña:</label>
+        <input type="password" id="confirmPassword">
+    </div> -->
+    
+    <div class="form-group">
+        <button type="submit">Modificar perfil</button>
+    </div>
+</form>
+
+<!-- ACTUALIZAR PASSWORD -->
+<section id="change-password">
+    <app-change-password></app-change-password>
+</section>
+
+<!-- REVIEWS DEL USUARIO-->
+<section id="user-reviews">
+    <app-user-reviews></app-user-reviews>
+</section>

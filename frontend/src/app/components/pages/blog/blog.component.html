@@ -1,0 +1,26 @@
+<h1>Blog</h1>
+<mat-list role="list">
+    <mat-list-item role="listitem" *ngFor="let article of articles | slice:from:to">
+      <div class="product-item">
+        <div class="image">
+          <label>image</label>
+        </div>
+        <div class="info">
+          <div class="title">
+            <a [routerLink]="['/blog-article', article['id']]">{{ article['title'] }}</a><br>
+          </div>
+          <div class="category">
+            {{ article['description'] }}<br>
+          </div>
+          <!-- <div class="description">
+            {{ product['description'] }} <br>
+          </div> -->
+        </div>
+      </div>
+    </mat-list-item>
+  </mat-list>
+  <div>
+    <mat-paginator [length]="pages" [pageSize]="pageSize" (page)="changePage($event)" aria-label="Select page">
+    </mat-paginator>
+  </div>
+  

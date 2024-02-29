@@ -1,0 +1,25 @@
+<div class="container">
+    <div *ngIf="existReviews; else noexist">
+    <div *ngFor="let review of reviews" class="review">
+        <h2 class="review-title">{{ review.title }}</h2>
+        <div class="review-rating">
+              <span class="stars">
+                <ng-container *ngFor="let i of getStarsArray(5)">
+                  <span *ngIf="i <= review.rating" class="star filled-star">&#9733;</span>
+                  <ng-container *ngIf="i > review.rating && i - 1 < review.rating" class="star filled-star">&#9734;</ng-container>
+                  <span *ngIf="i > review.rating && i - 1 >= review.rating" class="star empty-star">&#9734;</span>
+                </ng-container>
+              </span>
+          </div>
+        <p class="review-content">{{ review.review }}</p>
+        <p class="review-content">
+            <a [routerLink]="['/shop-product', review['productId']]">Ver Producto</a>
+            </p>
+        <!-- <p class="review-rating">Valoración: {{ review.rating }}/5</p> -->
+        <!-- <p class="review-likes">Likes: {{ review.likes }}</p> -->
+    </div>
+</div>
+<ng-template #noexist>
+    <h1>No tiene reseñas</h1>
+</ng-template>
+</div>

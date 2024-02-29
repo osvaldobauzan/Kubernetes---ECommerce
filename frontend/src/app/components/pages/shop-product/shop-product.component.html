@@ -1,0 +1,52 @@
+<div class="div-body">
+    <section class="content">
+        <article class="gallery">
+            <div class="gallery__image-container">
+                <img *ngIf="product['image'] ; else noimage " src="{{ product['image'][0] }}" alt="Perfume">
+                <ng-template #noimage>
+                    <img src="assets/images/perfume.jpg" alt="Perfume">
+                </ng-template>
+            </div>
+        </article>
+
+        <article class="details">
+            <form (submit)="addItem()">
+                <h2 class="details__company">{{ product['brand'] }}</h2>
+                <h2 class="details__title">{{ product['name'] }}</h2>
+                <p>{{ product['category'] }}<br></p>
+                <p class="details__description"> {{ product['description'] }} <br> L'Homme de Prada es una fragancia de
+                    la familia olfativa Amaderada Chipre
+                    para Hombres. Prada L'Homme se lanzó en 2016. La Nariz detrás de esta fragrancia es Daniela (Roche)
+                    Andrier. Las Notas de Salida son neroli, pimienta negra, cardamomo y semillas de zanahoria; las
+                    Notas de
+                    Corazón son iris, violeta, geranio y yerba mate; las Notas de Fondo son ámbar, cedro, sándalo y
+                    pachulí.
+                </p>
+
+                <div class="details__prices">
+                    <p class="details__now">{{ product['price'] }}€ <span class="details__discount">44%</span> </p>
+                    <p class="details__before">{{ (product['price'] + (100*44/(product['price'])))  | number:'1.2-2' }}€ </p>
+                </div>
+                <div class="details__product-quantity">
+                    <a class="quantity-button" (click)="decreaseQuantity()"><i
+                            class="fa-solid fa-minus"></i></a>
+                    <!-- <input type="" class="quantity" value="1" min="1"> -->
+                    <input type="number" class="quantity" name="quantity" [(ngModel)]="item.quantity" min="1"  readonly>
+                    <a class="quantity-button" (click)="increaseQuantity()"><i
+                            class="fa-solid fa-plus"></i></a>
+
+                    <button class="details__button"> <img src="./images/icon-cart-white.svg" alt=""><i
+                            class="fa-solid fa-cart-shopping"></i> Añadir a la cesta</button>
+                </div>
+                <div *ngIf="!!message" class="message-container" [ngClass]="{'message-container': true, 'message-fade-out': !message}">
+                    {{ this.message }}</div>
+            </form>
+        </article>
+        
+    </section>
+    <section class="content">
+        <app-product-review></app-product-review>
+        
+    </section>
+    
+</div>

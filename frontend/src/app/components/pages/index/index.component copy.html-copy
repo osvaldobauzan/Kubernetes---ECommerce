@@ -1,0 +1,26 @@
+<br>
+<!-- <div style="text-align: center;">INDEX.component.html</div> -->
+    <div class="featured-products">
+        <h1>Productos Destacados</h1>
+        <div class="product">
+            <img src="assets/images/perfume1.jpg" alt="Perfume 1" style="width: 100px; height: 100px;">
+            <h3>Perfume 1</h3>
+            <p>Descripción del perfume 1.</p>
+            <p>Precio: $XX.XX</p>
+            <button>Añadir al carrito</button>
+        </div>
+        <div class="product">
+            <img src="assets/images/perfume2.jpg" alt="Perfume 2" style="width: 100px; height: 100px;">
+            <h3>Perfume 2</h3>
+            <p>Descripción del perfume 2.</p>
+            <p>Precio: $XX.XX</p>
+            <button>Añadir al carrito</button>
+        </div>
+        <div class="product">
+            <img src="assets/images/perfume3.jpg" alt="Perfume 3" style="width: 100px; height: 100px;">
+            <h3>Perfume 3</h3>
+            <p>Descripción del perfume 3.</p>
+            <p>Precio: $XX.XX</p>
+            <button>Añadir al carrito</button>
+        </div>
+    </div>

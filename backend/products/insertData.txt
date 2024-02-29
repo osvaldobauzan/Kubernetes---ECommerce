@@ -1,0 +1,100 @@
+{
+    "name": "Brisa Marina",
+    "description": "Frescura oceánica con notas cítricas y un toque de salvia. Ideal para un día soleado.",
+    "category": "Mujer",
+    "brand":"Dior J'adore",
+    "price":"80",
+    "size":"100 ml"
+}
+
+{
+    "name": "Amanecer en el Bosque",
+    "description": "Fragancia verde y terrosa con notas de pino, cedro y musgo. Perfecta para un paseo por la naturaleza.",
+    "category": "Hombre",
+    "brand":"Dior J'adore",
+    "price":"88",
+    "size":"100 ml"
+}
+
+{
+    "name": " Jardín Secreto",
+    "description": "Aromas florales y frutales con toques de jazmín, rosa y melocotón. Ideal para una cita romántica.",
+    "category": "Hombre",
+    "brand":"Dior J'adore",
+    "price":"75",
+    "size":"150 ml"
+}
+
+{
+    "name": "Caricia de Vainilla",
+    "description": "Dulce y cálido aroma a vainilla con toques de haba tonka y almizcle. Perfecto para una noche especial.",
+    "category": "Mujer",
+    "brand":"Dior J'adore",
+    "price":"75",
+    "size":"150 ml"
+}
+
+{
+    "name": "Fuego Invernal",
+    "description": "Especiado y amaderado con notas de canela, jengibre y sándalo. Ideal para una noche fría.",
+    "category": "Mujer",
+    "brand":"Chanel",
+    "price":"120",
+    "size":"100 ml"
+}
+
+{
+    "name": "Lluvia de Verano",
+    "description": "Aroma fresco y limpio con notas de ozono, lirio de agua y pepino. Perfecto para un día lluvioso.",
+    "category": "Hombre",
+    "brand":"Chanel",
+    "price":"110",
+    "size":"100 ml"
+}
+
+{
+    "name": "Sol de Medianoche",
+    "description": "Fragancia cítrica y floral con notas de bergamota, azahar y jazmín. Ideal para un día de playa.",
+    "category": "Hombre",
+    "brand":"Chanel",
+    "price":"110",
+    "size":"200 ml"
+}
+
+{
+    "name": "Misterio Oriental",
+    "description": "Aromas exóticos y especiados con notas de incienso, mirra y pachulí. Perfecto para una ocasión especial.",
+    "category": "Mujer",
+    "brand":"Chanel",
+    "price":"120",
+    "size":"100 ml"
+}
+
+9. Centella de Limón: Fragancia fresca y energizante con notas de limón, pomelo y menta. Ideal para empezar el día.
+
+10. Sueño de Lavanda: Aroma relajante y floral con notas de lavanda, vainilla y almizcle. Perfecto para antes de dormir.
+
+11. Explosión Tropical: Fragancia frutal y vibrante con notas de piña, mango y papaya. Ideal para un día de fiesta.
+
+12. Nube de Algodón: Aroma dulce y suave con notas de algodón de azúcar, almizcle y vainilla. Perfecto para un día tranquilo.
+
+13. Bosque Encantado: Fragancia verde y amaderada con notas de pino, cedro y musgo. Perfecto para una escapada a la naturaleza.
+
+14. Brisa de Primavera: Aroma floral y fresco con notas de flores blancas, jazmín y lirio de los valles. Ideal para un día primaveral.
+
+15. Atardecer Dorado: Fragancia cálida y especiada con notas de ámbar, vainilla y canela. Perfecto para una noche otoñal.
+
+16. Danza de Flores: Aroma floral y femenino con notas de rosas, peonías y jazmín. Ideal para una ocasión especial.
+
+17. Toque de Menta: Fragancia fresca y energizante con notas de menta, eucalipto y pomelo. Ideal para un día caluroso.
+
+18. Caricia de Invierno: Aroma dulce y acogedor con notas de vainilla, canela y jengibre. Perfecto para una noche de invierno.
+
+19. Aventura Salvaje: Fragancia fresca y especiada con notas de bergamota, pimienta negra y vetiver. Ideal para un día de aventura.
+
+20. Luz de Luna: Aroma floral y misterioso con notas de jazmín, nardo y almizcle. Perfecto para una noche romántica.
+
+
+Dior
+Yves Saint Laurent
+Mugler

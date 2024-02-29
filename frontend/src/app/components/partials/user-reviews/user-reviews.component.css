@@ -1,0 +1,134 @@
+/* .container {
+    justify-content: center;
+    align-items: center;
+}
+
+.review {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.review-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.review-content {
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.review-rating {
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.review-likes {
+    color: #666;
+    margin-bottom: 0;
+}
+
+
+.new-review-form {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width: 400px; 
+}
+
+ */
+
+
+ .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Sección de revisiones */
+  .comments-section {
+    margin-top: 40px;
+    background-color: #333; /* Color de fondo oscuro que combina */
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilo para cada comentario */
+  .comment {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f8f8f8;
+    border-radius: 10px; /* Bordes suaves */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  }
+  
+  /* Título del comentario */
+  .comment h2 {
+    margin-bottom: 8px;
+    color: #333;
+    font-size: 1.1em;
+  }
+  
+  /* Contenido del comentario */
+  .comment p {
+    margin-bottom: 8px;
+    color: #666;
+  }
+  
+  /* Estrellas de valoración */
+  .stars {
+    font-size: 1.2em;
+    color: #ffc107; /* Color de las estrellas llenas */
+    margin-bottom: 8px;
+  }
+  
+  /* Estrella llena */
+  .stars .filled-star {
+    color: #ffc107; /* Color de las estrellas llenas */
+  }
+  
+  /* Estrella vacía */
+  .stars .empty-star {
+    color: #ccc; /* Color de las estrellas vacías */
+  }
+  
+  .review {
+    background-color: rgba(255, 255, 255, 0.9); /* Fondo ligeramente transparente */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
+    margin-bottom: 20px; /* Margen inferior */
+    width: 350px; /* Ancho del 30% de la pantalla */
+  }
+  
+  .review-title {
+    color: #333333; /* Color del título */
+    font-size: 24px; /* Tamaño de fuente del título */
+    margin-bottom: 10px; /* Margen inferior del título */
+  }
+  
+  .review-content {
+    color: #666666; /* Color del contenido */
+    font-size: 16px; /* Tamaño de fuente del contenido */
+    margin-bottom: 10px; /* Margen inferior del contenido */
+  }
+  
+  .review-rating {
+    color: #999999; /* Color de la valoración */
+    font-size: 14px; /* Tamaño de fuente de la valoración */
+    margin-bottom: 5px; /* Margen inferior de la valoración */
+  }
+  
+  .review-likes {
+    color: #999999; /* Color de los likes */
+    font-size: 14px; /* Tamaño de fuente de los likes */
+    margin-bottom: 0; /* Margen inferior de los likes */
+  }

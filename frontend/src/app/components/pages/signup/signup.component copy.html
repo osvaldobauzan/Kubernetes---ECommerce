@@ -1,0 +1,25 @@
+<!-- <div class="row">
+    <div class="col-md-4-mx-auto">
+        <div class="card">
+            <div class="card-header">
+                Registro
+            </div>
+            <div class="card-body">
+                asd
+            </div>
+        </div>
+    </div>
+</div> -->
+
+<h1>Registro</h1>
+
+<div>
+    <form (submit)="signup()">
+        <input type="text" name="email" [(ngModel)]="user.email" placeholder="email" required autofocus /> <br>
+        <input type="password" name="password" [(ngModel)]="user.password" placeholder="Password" required /> <br>
+
+        <button type="submit">Registro</button>
+    </form>
+</div>
+
+<br><br>

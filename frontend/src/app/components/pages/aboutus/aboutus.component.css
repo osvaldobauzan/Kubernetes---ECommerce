@@ -1,0 +1,29 @@
+#about-us {
+    margin-top: 80px;
+    background-color: transparent;
+    padding: 50px 0;
+    text-align: center;
+}
+
+#about-us .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);
+}
+
+#about-us h1 {
+    font-size: 45px;
+    color: white;
+    text-shadow: 2px 2px 4px black; /* Aquí se define el sombreado */
+    margin-bottom: 40px;
+}
+
+
+#about-us p {
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}

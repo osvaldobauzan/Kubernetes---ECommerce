@@ -1,0 +1,901 @@
+Categoria,Precio,Nombre_Perfume,Marca,Nombre_Cliente,Apellido_Cliente,Edad,Fecha_Compra,Email,Total,Cesta
+Mujer,182,Good Girl Supreme,Prada,Marta,Iglesias,42,2024-02-08,tenoriovenceslas@example.net,358,3
+Mujer,746,Idole Aura,Prada,Alicia,Vázquez,47,2024-02-05,ygiralt@example.com,108,17
+Mujer,262,Good Girl Blush,Zadig & Voltaire,Esther,Gonzalez del Olmo,51,2024-01-08,mhernandez@example.org,252,11
+Mujer,740,Paradoxe Intense,Bad Boy Elixir,Lorena,Castillo,70,2024-01-05,aceroaitor@example.com,801,10
+Mujer,361,Fleur D Oranger,Jean Paul Gaultier,Ana,Morales,30,2024-02-09,pacifica88@example.net,618,7
+Mujer,402,Black Opium over red,Jimmy Choo,Lucia,Luna,62,2024-02-24,luztomas@example.net,502,5
+Mujer,546,This is really her,Jimmy ChooCarolina Herrera,Rocio,Ramos,25,2024-01-26,alondraalarcon@example.com,553,22
+Mujer,494,Idole Aura,Marc Jacobs,Diana,Nunez,34,2024-02-24,germanarregui@example.org,671,9
+Mujer,56,Code Absolu woman,Marc Jacobs,Gloria,Lozano,54,2024-01-13,asdrubalcasanovas@example.com,648,21
+Mujer,274,Scandal Le Parfum,Georgio Armani,Verónica,Gutierrez,63,2024-02-23,pabloduilio@example.net,530,1
+Mujer,540,My Way Nectar,Dior,Raquel,Ortega,34,2024-01-13,jreyes@example.com,256,4
+Mujer,254,Olympea Solar,Georgio Armani,Julia,Marin,36,2024-01-17,dominguezpaco@example.net,577,17
+Mujer,191,Infusion de Figue,Adolfo Dominguez,Pilar,Suarez,49,2024-01-26,tecla05@example.com,217,5
+Mujer,452,Miss Dior,Chloe,Rosa,Castillo,37,2024-02-24,tatiana31@example.net,690,5
+Mujer,283,My Way Intense, Lancome,Carmen,Fernandez,31,2024-01-20,albino71@example.net,461,1
+Mujer,145,This is Her ,Chloe,Leticia,Suarez,38,2024-01-09,chelotorres@example.com,825,13
+Mujer,399,Good Girl,Cacharel,Teresa,Navarro,42,2024-01-11,rsainz@example.net,890,14
+Mujer,81,Pure Musc,Jimmy Choo,Nerea,Dominguez,67,2024-02-23,jose-luis17@example.com,616,4
+Mujer,120,Very Good Girl EDP,Jimmy ChooCarolina Herrera,Esther,Suarez,20,2024-01-12,yagolosada@example.net,662,24
+Mujer,530,Chloe absolute, Lancome,Carmen,Marin,64,2024-01-11,aitorcabezas@example.com,178,4
+Mujer,514,My Way Nectar,Georgio Armani,Isabel,Lozano,54,2024-02-18,vivesperlita@example.net,758,17
+Mujer,509,My Way Nectar, Lancome,Nerea,Guzman,50,2024-02-04,mirofabio@example.net,387,4
+Mujer,292,Idole nectar, Lancome,Esther,Gomez,28,2024-01-06,angelapatino@example.com,657,20
+Mujer,600,Poison EDP,Georgio Armani,Carmen,Torres,65,2024-01-20,consuelaprado@example.com,748,21
+Mujer,741,Q,Cacharel,Sandra,Montero,26,2024-02-11,pelaeztatiana@example.org,468,23
+Mujer,346,Very Good Girl EDP,Dior,Silvia,Molina,61,2024-01-18,carlitoaller@example.org,426,1
+Mujer,236,My Way Intense,Zadig & Voltaire,Teresa,Suarez,22,2024-01-27,bcanet@example.com,163,20
+Mujer,564,Daisy Love,Thierry Mugler,Maria,Dominguez,34,2024-02-27,annareig@example.org,81,19
+Mujer,707,Infusion de Figue,Zadig & Voltaire,Alicia,Calvo,54,2024-01-06,zcabanillas@example.net,186,16
+Mujer,278,Very Good Girl EDP,Prada,Rosa,Calvo,61,2024-01-08,zpla@example.com,808,2
+Mujer,104,Fleur D Oranger,Jimmy Choo,Raquel,Torres,23,2024-02-11,reynaatienza@example.net,886,16
+Mujer,343,This is really her,Jimmy ChooCarolina Herrera,Silvia,Cortes,60,2024-02-27,ruanoalvaro@example.com,857,6
+Mujer,687,Olympea Solar,Marc Jacobs,Sara,Ramírez,49,2024-02-03,solisjose-luis@example.com,343,22
+Mujer,501,Idole nectar,Marc Jacobs,Diana,Diaz,20,2024-01-30,relorza@example.com,294,2
+Mujer,534,Good Girl Blush,Jean Paul Gaultier,Esther,Navarro,22,2024-01-29,eligio06@example.net,856,8
+Mujer,320,Alien her,Chloe,Lucia,Herrera,28,2024-02-10,franciscoayllon@example.org,406,16
+Mujer,232,212 heroes her,Thierry Mugler,Silvia,Rubio,65,2024-01-18,cbuendia@example.net,365,11
+Mujer,660,The Scent Her,Chloe,Isabel,Gimenez,31,2024-01-17,maite52@example.net,247,19
+Mujer,377,Musc Noir for her,Jean Paul Gaultier,Verónica,Ramírez,47,2024-01-23,hmartorell@example.com,523,25
+Mujer,364,Femme intense,Bad Boy Elixir,Leticia,Montero,35,2024-01-13,sebastianleire@example.org,227,18
+Mujer,405,Femme Intense,Zadig & Voltaire,Elena,Perez,60,2024-02-06,marianazabaleta@example.org,867,12
+Mujer,380,Rose Passion,Georgio Armani,Sandra,Luna,56,2024-01-28,aalamo@example.net,233,12
+Mujer,389,Good Girl Blush,Adolfo Dominguez,Esther,Martinez,42,2024-02-12,ccapdevila@example.org,447,14
+Mujer,394,Lady Million,Marc Jacobs,Paula,Perez,31,2024-01-08,casesmaximiano@example.org,778,6
+Mujer,524,La Petite Noire Rose,Zadig & Voltaire,Monica,Navarro,61,2024-01-17,nildaalcala@example.org,108,20
+Mujer,278,Lady Million,Georgio Armani,Nerea,Rodriguezi,34,2024-02-09,abellapaca@example.org,111,19
+Mujer,566,This is really her,Adolfo Dominguez,Patricia,Ramos,34,2024-01-09,ricardaballester@example.net,624,6
+Mujer,108,Black Opium extreme,Thierry Mugler,Teresa,Nunez,23,2024-01-20,zhoz@example.net,181,18
+Mujer,384,Code Absolu woman,Cacharel,Nerea,Guerrero,63,2024-01-08,barraleusebio@example.net,669,6
+Mujer,129,Black Opium green,Prada,Vanessa,Morales,50,2024-02-17,canizaresvanesa@example.org,769,23
+Mujer,403,Good Girl Supreme,Marc Jacobs,Vanessa,Romero,40,2024-01-24,mvicente@example.com,383,18
+Mujer,197,Yes I Am,Bad Boy Elixir,Marta,Guzman,62,2024-02-01,arcoscoral@example.com,697,20
+Mujer,231,Code Absolu woman,Prada,Elena,Garcia,48,2024-01-28,teresacaballero@example.org,127,25
+Mujer,464,Mon G Bloom,Georgio Armani,Natalia,Ortega,63,2024-02-01,maura30@example.org,862,12
+Mujer,52,Femme Intense,Zadig & Voltaire,Carolina,Gutierrez,60,2024-01-15,vguerra@example.net,291,13
+Mujer,133,Dior Addict,Dior,Ines,Ortega,36,2024-02-06,santos45@example.org,412,12
+Mujer,425,This is Her ,Marc Jacobs,Miriam,Diaz,70,2024-02-12,eutimiohierro@example.net,258,3
+Mujer,267,The only one her,Jimmy Choo,Diana,Gimenez,19,2024-02-08,guillermofarre@example.org,635,11
+Mujer,246,Infusion de Figue,Georgio Armani,Natalia,Molina,28,2024-02-15,tbermudez@example.com,299,4
+Mujer,529,Musc Noir for her,Chloe,Vanessa,Rubio,55,2024-02-03,victor-manuel71@example.net,592,7
+Mujer,484,Good Girl,Jimmy ChooCarolina Herrera,Luisa,Guerrero,67,2024-02-09,guillermolara@example.net,505,6
+Mujer,233,Black Opium extreme,Chloe,Verónica,Santos,28,2024-01-16,bautistabustamante@example.com,175,6
+Mujer,418,Devotion,Dior,Esther,Fernandez,31,2024-02-01,fusterhortensia@example.org,594,20
+Mujer,202,Chloe absolute,Jimmy ChooCarolina Herrera,Sandra,Marin,23,2024-01-19,adelardo03@example.net,812,16
+Mujer,716,Lady Million,Prada,Lucia,Perez,52,2024-01-11,aiglesias@example.com,854,13
+Mujer,579,Poison EDT,Bad Boy Elixir,Raquel,Dominguez,22,2024-01-03,asuncionlluch@example.net,105,13
+Mujer,375,Imperatrice 3,Prada,Rocio,Cortes,46,2024-02-13,cloe90@example.com,31,4
+Mujer,436,Pure Musc,Cacharel,Diana,Ramírez,40,2024-01-04,rconesa@example.org,592,19
+Mujer,187,Idole nectar,Jean Paul Gaultier,Isabel,Ramírez,59,2024-01-19,bcoca@example.net,214,25
+Mujer,173,Libre Le Parfum,Georgio Armani,Sara,Suarez,39,2024-01-12,lucas20@example.org,700,11
+Mujer,714,Chloe absolute,Marc Jacobs,Isabel,Romero,30,2024-02-11,lasavictor@example.com,856,13
+Mujer,659,Si Passione,Zadig & Voltaire,Miriam,Luna,68,2024-02-02,albinopina@example.net,332,7
+Mujer,654,La Vie Est Belle Intense,Dior,Rosa,Martinez,18,2024-01-05,gutierrezfeliciana@example.net,371,24
+Mujer,630,The only one,Jimmy ChooCarolina Herrera,Luisa,Marin,70,2024-01-14,iniestapaulino@example.com,575,1
+Mujer,86,Rose Passion,Chloe,Natalia,Marin,24,2024-01-06,plafausto@example.com,245,18
+Mujer,234,Very Good Girl Glam,Bad Boy Elixir,Miriam,Gutierrez,19,2024-01-22,botellabonifacio@example.net,352,20
+Mujer,122,Imperatrice 3,Jimmy ChooCarolina Herrera,Raquel,Molina,62,2024-02-20,garayolimpia@example.org,820,25
+Mujer,580,Black Opium extreme,Zadig & Voltaire,Teresa,Ortega,58,2024-01-20,oliveheriberto@example.com,605,6
+Mujer,110,Good Girl Blush,Bad Boy Elixir,Patricia,Guzman,70,2024-01-30,vilanovamaura@example.com,341,12
+Mujer,458,Black Opium green,Adolfo Dominguez,Esther,Molina,38,2024-02-13,herreraedelmira@example.net,851,17
+Mujer,542,Very Good Girl EDP,Zadig & Voltaire,Verónica,Ortega,57,2024-02-19,pcarmona@example.org,661,15
+Mujer,188,Femme Parfum,Chloe,Pilar,Suarez,63,2024-01-06,agustipatricio@example.com,785,23
+Mujer,95,Black Opium over red,Chloe,Vanessa,Nunez,63,2024-01-24,victor-manuel43@example.org,282,12
+Mujer,480,212 heroes her,Jimmy Choo,Ana,Rubio,69,2024-01-30,edelmiromontalban@example.org,394,11
+Mujer,158,La Belle Garden , Lancome,Lucia,Gimenez,47,2024-01-19,fernanda70@example.org,770,11
+Mujer,251,Poison EDT,Georgio Armani,Silvia,Iglesias,49,2024-02-13,vivianaolmo@example.com,474,25
+Mujer,680,La Belle Parfum,Marc Jacobs,Esther,Calvo,19,2024-01-30,buenocristian@example.net,243,21
+Mujer,117,Femme Parfum,Marc Jacobs,Leticia,Perez,19,2024-01-27,zduque@example.net,796,8
+Mujer,483,La Belle Garden ,Zadig & Voltaire,Alicia,Luna,34,2024-02-07,albertamores@example.net,481,18
+Mujer,356,Devotion,Dior,Clara,Dominguez,50,2024-01-22,sofia79@example.org,676,8
+Mujer,530,La Belle Parfum,Prada,Silvia,Serrano,34,2024-02-08,ligia57@example.net,69,8
+Mujer,478,212 heroes her,Dior,Clara,Lozano,33,2024-01-29,gimenezremedios@example.com,159,17
+Mujer,574,This is really her,Bad Boy Elixir,Julia,Molina,30,2024-02-10,ysolano@example.org,71,9
+Mujer,348,Devotion,Chloe,Carmen,Rubio,42,2024-01-17,iadadia@example.org,336,23
+Mujer,495,Lady Million,Georgio Armani,Elena,Rodriguezi,60,2024-01-08,zalvarez@example.com,809,8
+Mujer,418,La Belle Garden ,Chloe,Ines,Gutierrez,25,2024-01-07,diegoadan@example.net,520,1
+Mujer,637,J Adore Infinissime,Cacharel,Pilar,Nunez,58,2024-01-20,mpalomino@example.org,136,8
+Mujer,64,Paradoxe Intense,Cacharel,Verónica,Garcia,46,2024-01-07,galloolivia@example.net,30,13
+Mujer,591,Imperatrice 3,Jean Paul Gaultier,Luisa,Gonzalez del Olmo,53,2024-02-01,zcoello@example.net,761,19
+Mujer,479,The only one,Jimmy ChooCarolina Herrera,Lucia,Alvarez,66,2024-01-30,icamacho@example.com,576,18
+Mujer,197,Femme Parfum,Zadig & Voltaire,Marina,Santos,35,2024-01-18,jessica47@example.org,328,8
+Mujer,317,Scandal Le Parfum,Jimmy ChooCarolina Herrera,Teresa,Fernandez,28,2024-02-13,patriciaayala@example.com,258,20
+Mujer,139,Miss Dior, Lancome,Isabel,Dominguez,21,2024-02-24,tpina@example.org,785,6
+Mujer,336,My Way Nectar,Prada,Alicia,Ortiz,49,2024-01-30,cobosclotilde@example.net,560,25
+Mujer,327,Olympea Solar,Zadig & Voltaire,Esther,Suarez,37,2024-02-13,waguilo@example.org,689,11
+Mujer,386,Lady Million,Jean Paul Gaultier,Leticia,Gutierrez,69,2024-01-15,batallaelisabet@example.com,733,11
+Mujer,380,Poison EDP,Thierry Mugler,Verónica,Suarez,62,2024-01-01,wcornejo@example.net,801,6
+Mujer,316,Good Girl,Marc Jacobs,Ines,Lozano,43,2024-01-31,hanglada@example.net,414,13
+Mujer,428,Black Opium green,Jean Paul Gaultier,Carolina,Torres,22,2024-02-15,nicolas02@example.org,60,6
+Mujer,145,Scandal Le Parfum,Chloe,Leticia,Herrera,19,2024-01-03,adolfoescudero@example.net,612,17
+Mujer,291,Idole nectar,Jimmy ChooCarolina Herrera,Cristina,Gonzalez del Olmo,47,2024-02-05,rberrocal@example.com,597,14
+Mujer,463,Idole Aura,Chloe,Paula,Molina,32,2024-01-27,hernandotristan@example.org,107,12
+Mujer,585,La Belle Parfum,Bad Boy Elixir,Beatriz,Ramos,23,2024-02-09,carpiojovita@example.com,138,12
+Mujer,699,La Petite Noire Rose,Jimmy ChooCarolina Herrera,Lorena,Torres,58,2024-01-31,jmartin@example.org,235,3
+Mujer,701,My Way Nectar, Lancome,Nerea,Gimenez,61,2024-02-13,sanchojose@example.com,600,25
+Mujer,330,Black Opium over red,Dior,Clara,Herrera,47,2024-02-13,egascon@example.org,805,22
+Mujer,358,Infusion de Figue,Georgio Armani,Rocio,Gutierrez,48,2024-01-30,rodapio@example.org,363,6
+Mujer,275,Rose Passion,Jean Paul Gaultier,Silvia,Guzman,49,2024-01-02,edmundo99@example.org,365,12
+Mujer,120,L Interdir Rouge,Zadig & Voltaire,Miriam,Gonzalez del Olmo,61,2024-01-02,lvillanueva@example.net,224,20
+Mujer,620,This is Her ,Adolfo Dominguez,Julia,Fernandez,44,2024-02-23,miguelaugarte@example.com,300,14
+Mujer,103,Alien her,Jean Paul Gaultier,Ana,Martinez,59,2024-02-27,adrianaguilo@example.net,598,13
+Mujer,629,Good Girl Blush,Jimmy Choo,Raquel,Garcia,62,2024-02-07,molesaroa@example.com,718,18
+Mujer,123,Imperatrice 3,Zadig & Voltaire,Leticia,Perez,56,2024-01-25,moreno15@example.org,321,24
+Mujer,501,Libre EDT,Thierry Mugler,Marta,Ramírez,18,2024-02-05,machadooctavia@example.org,208,10
+Mujer,87,Very Good Girl Glam,Chloe,Leticia,Fernandez,65,2024-02-22,eliseonunez@example.com,33,23
+Mujer,157,Code Absolu woman,Jean Paul Gaultier,Ana,Montero,48,2024-02-12,galanmartina@example.com,532,23
+Mujer,545,Rose Passion,Jimmy Choo,Maria,Perez,41,2024-01-10,vicenteadelardo@example.org,618,25
+Mujer,639,Femme Intense,Jimmy Choo,Sandra,Gomez,41,2024-02-19,pellicerrosalina@example.net,86,20
+Mujer,459,Q,Jean Paul Gaultier,Leticia,Santos,32,2024-01-03,camposrosalinda@example.net,479,22
+Mujer,413,This is Her ,Chloe,Verónica,Torres,46,2024-02-03,jonatan62@example.org,199,16
+Mujer,519,Very Good Girl EDP, Lancome,Teresa,Gimenez,62,2024-02-21,kripoll@example.net,841,21
+Mujer,586,Devotion,Georgio Armani,Rosa,Guzman,18,2024-01-25,gharo@example.org,180,22
+Mujer,173,Libre Le Parfum,Dior,Ana,Molina,70,2024-02-12,baltasarbenitez@example.org,460,9
+Mujer,457,Very Good Girl Glam,Dior,Julia,Castillo,64,2024-01-13,jose37@example.com,107,11
+Mujer,448,Lady Million,Zadig & Voltaire,Elena,Gomez,63,2024-02-27,concepcion23@example.org,319,19
+Mujer,269,The only one,Adolfo Dominguez,Vanessa,Rubio,69,2024-02-22,crespianastasio@example.org,832,19
+Mujer,443,Libre Absolu,Jimmy ChooCarolina Herrera,Diana,Lopez,68,2024-02-10,adolfo14@example.net,814,13
+Mujer,684,My Way Le Parfum,Bad Boy Elixir,Rosa,Navarro,61,2024-01-01,correafederico@example.com,286,9
+Mujer,450,Good Girl Blush,Bad Boy Elixir,Raquel,Cortes,55,2024-01-03,hsolana@example.net,584,17
+Mujer,678,The only one,Chloe,Pilar,Guerrero,69,2024-01-02,juan04@example.com,42,23
+Mujer,720,Black Opium green,Marc Jacobs,Beatriz,Diaz,57,2024-01-30,bespinosa@example.org,485,16
+Mujer,530,Devotion, Lancome,Rocio,Alvarez,34,2024-02-25,zherrera@example.com,762,25
+Mujer,279,Classique for her,Marc Jacobs,Alicia,Iglesias,35,2024-01-09,pinarosario@example.org,360,18
+Mujer,702,Yes I Am,Thierry Mugler,Monica,Rodriguezi,43,2024-01-12,nfarre@example.net,669,10
+Mujer,272,The only one,Marc Jacobs,Sara,Medina,28,2024-01-24,luis-angelvergara@example.com,45,14
+Mujer,155,Libre Le Parfum,Jean Paul Gaultier,Isabel,Morales,29,2024-02-07,carlavalcarcel@example.net,628,8
+Mujer,636,Fleur D Oranger,Jimmy Choo,Pilar,Perez,27,2024-01-18,ceciliaandres@example.com,325,6
+Mujer,120,Lady Million,Adolfo Dominguez,Gloria,Medina,34,2024-01-21,julio38@example.net,503,8
+Mujer,522,J Adore EDP, Lancome,Nuria,Martinez,61,2024-02-03,simodalila@example.net,445,3
+Mujer,530,Lady Million,Prada,Adriana,Molina,60,2024-01-31,martirio67@example.net,651,2
+Mujer,427,Fleur D Oranger,Jimmy Choo,Alicia,Rodriguezi,24,2024-02-08,ybarros@example.org,688,25
+Mujer,621,Olympea Solar,Marc Jacobs,Natalia,Alvarez,52,2024-02-08,feliciamayol@example.com,466,2
+Mujer,529,Paradoxe EDP,Cacharel,Alicia,Rodriguezi,33,2024-01-19,juan-joseortega@example.net,159,18
+Mujer,562,Pure Musc,Marc Jacobs,Leticia,Gimenez,56,2024-01-11,lucas78@example.com,359,25
+Mujer,600,Dior Addict,Jimmy ChooCarolina Herrera,Patricia,Lopez,42,2024-01-24,erasmoaguila@example.org,826,16
+Mujer,249,Divine,Jimmy ChooCarolina Herrera,Isabel,Morales,48,2024-01-08,javieraalegria@example.net,184,2
+Mujer,123,Good Girl Blush,Prada,Leticia,Alvarez,44,2024-02-05,canellasmario@example.net,139,3
+Mujer,554,Dior Addict,Chloe,Nuria,Ortiz,55,2024-02-21,galvezdionisia@example.org,77,19
+Mujer,599,Daisy Love,Marc Jacobs,Sara,Alvarez,64,2024-02-09,onofrehervas@example.net,76,7
+Mujer,590,Scandal Le Parfum,Jean Paul Gaultier,Vanessa,Navarro,54,2024-01-04,ascension69@example.net,234,20
+Mujer,530,J Adore EDP,Jimmy ChooCarolina Herrera,Cristina,Rodriguezi,37,2024-02-15,ufuente@example.net,295,7
+Mujer,609,Divine,Cacharel,Miriam,Lopez,67,2024-02-02,daller@example.net,537,5
+Mujer,536,Classique for her,Zadig & Voltaire,Leticia,Medina,47,2024-02-18,kpereira@example.net,546,8
+Mujer,716,Black Opium green,Dior,Lucia,Guzman,70,2024-01-01,isidorarodriguez@example.org,529,24
+Mujer,521,Devotion,Chloe,Isabel,Serrano,52,2024-01-30,bjorda@example.org,48,7
+Mujer,582,Libre Absolu,Zadig & Voltaire,Esther,Garcia,42,2024-02-19,leonciococa@example.com,545,15
+Mujer,270,Fleur D Oranger,Dior,Lucia,Castillo,47,2024-01-12,azaharazurita@example.net,292,3
+Mujer,402,The Scent Her,Georgio Armani,Pilar,Garcia,61,2024-01-04,teresamora@example.org,67,3
+Mujer,313,Femme Intense,Jean Paul Gaultier,Monica,Lopez,54,2024-02-03,almansaeric@example.net,426,7
+Mujer,133,Femme Intense,Jimmy Choo,Nuria,Ortega,34,2024-02-27,gcantero@example.net,766,4
+Mujer,208,Dior Addict,Georgio Armani,Pilar,Diaz,18,2024-02-14,sfrias@example.com,417,9
+Mujer,373,Daisy Love,Zadig & Voltaire,Gloria,Gimenez,29,2024-01-10,vargasjose-angel@example.net,246,23
+Mujer,501,Divine,Cacharel,Julia,Morales,23,2024-01-24,lalo55@example.net,840,14
+Mujer,377,The only one her,Jimmy ChooCarolina Herrera,Sandra,Rubio,63,2024-01-04,qpuga@example.com,73,23
+Mujer,731,Poison EDP,Marc Jacobs,Marta,Castillo,22,2024-01-17,manolofigueroa@example.com,444,8
+Mujer,256,Divine,Jimmy Choo,Adriana,Lopez,58,2024-01-12,planasjose-antonio@example.net,251,17
+Mujer,453,Good Girl Blush,Cacharel,Paula,Ortega,28,2024-01-22,zegea@example.com,60,1
+Mujer,304,212 heroes her,Chloe,Teresa,Lopez,22,2024-01-02,manuel98@example.org,117,9
+Mujer,670,Poison EDP,Bad Boy Elixir,Pilar,Diaz,66,2024-02-11,rosalinda71@example.org,30,21
+Mujer,529,Idole nectar,Marc Jacobs,Raquel,Ortiz,38,2024-02-01,baezhipolito@example.org,651,11
+Mujer,106,Idole Aura,Georgio Armani,Rosa,Ortiz,34,2024-01-13,palmiravila@example.com,693,5
+Mujer,108,La Petite Noire Rose, Lancome,Rosa,Calvo,63,2024-01-03,luiscid@example.com,156,8
+Mujer,575,Musc Noir for her,Dior,Lucia,Montero,42,2024-01-20,miguelcalista@example.org,210,13
+Mujer,517,Good Girl,Jean Paul Gaultier,Nuria,Rubio,68,2024-02-23,diego76@example.net,141,12
+Mujer,619,J Adore Infinissime,Georgio Armani,Teresa,Gonzalez del Olmo,28,2024-01-09,juan-antonio76@example.net,166,5
+Mujer,148,J Adore EDP,Dior,Marina,Cortes,51,2024-01-18,ascensionhidalgo@example.org,811,24
+Mujer,341,Musc Noir for her,Zadig & Voltaire,Miriam,Perez,37,2024-01-16,maricruz70@example.com,680,10
+Mujer,278,Musc Noir for her,Jimmy ChooCarolina Herrera,Esther,Lopez,28,2024-02-03,estebanllobet@example.com,551,2
+Mujer,216,Rose Passion,Jimmy Choo,Marta,Vázquez,44,2024-01-13,sdalmau@example.net,218,11
+Mujer,742,Good Girl Supreme,Georgio Armani,Nerea,Rodriguezi,37,2024-01-12,vergaramiguel@example.org,746,16
+Mujer,66,Mon G Bloom,Cacharel,Isabel,Morales,62,2024-02-23,romangabriela@example.org,179,20
+Mujer,586,La Belle Parfum,Dior,Gloria,Gomez,33,2024-01-03,fustersol@example.org,631,2
+Mujer,638,Black Opium over red,Zadig & Voltaire,Lucia,Alvarez,40,2024-02-19,boixlara@example.org,156,3
+Mujer,153,Yes I Am,Dior,Esther,Rodriguezi,36,2024-01-20,jovitarosado@example.com,257,19
+Mujer,414,La Petite Noire Rose,Chloe,Teresa,Guerrero,30,2024-02-15,amoreyes@example.com,93,20
+Mujer,293,Infusion de Figue, Lancome,Silvia,Alvarez,33,2024-02-02,blasbernad@example.org,875,19
+Mujer,437,L Interdir Rouge, Lancome,Patricia,Rubio,43,2024-01-15,xarco@example.org,586,11
+Mujer,715,Rose Passion,Cacharel,Lorena,Nunez,37,2024-02-02,zabalalorenza@example.com,207,7
+Mujer,504,Libre Absolu,Thierry Mugler,Marta,Torres,30,2024-01-24,ysegovia@example.net,142,13
+Mujer,570,Code Absolu woman, Lancome,Sandra,Suarez,61,2024-02-09,casanovalourdes@example.org,439,7
+Mujer,217,My Way Le Parfum,Jean Paul Gaultier,Lucia,Herrera,43,2024-01-23,eheras@example.com,31,1
+Mujer,74,Dior Addict,Georgio Armani,Leticia,Castillo,18,2024-01-21,mazaeugenio@example.com,836,7
+Mujer,270,Daisy Love,Prada,Leticia,Ramos,22,2024-02-06,inesleon@example.com,366,6
+Mujer,239,My Way Intense,Chloe,Luisa,Martinez,45,2024-01-01,pia26@example.com,189,5
+Mujer,393,Poison EDT,Cacharel,Nuria,Gimenez,26,2024-02-13,domitilarios@example.com,180,24
+Mujer,305,Black Opium over red,Dior,Julia,Calvo,65,2024-02-13,elisole@example.org,740,1
+Mujer,593,Yes I Am,Georgio Armani,Teresa,Lozano,22,2024-01-21,ffabra@example.com,470,11
+Mujer,225,Scandal Le Parfum,Marc Jacobs,Monica,Torres,18,2024-02-13,cuetopepita@example.net,842,11
+Mujer,679,Femme intense,Dior,Teresa,Dominguez,59,2024-01-16,emajaume@example.com,271,9
+Mujer,170,Libre EDT, Lancome,Raquel,Lozano,21,2024-02-24,lupejordan@example.org,714,18
+Mujer,252,The only one her,Jimmy Choo,Diana,Perez,22,2024-02-27,friaschus@example.org,754,14
+Mujer,259,Infusion de Figue,Georgio Armani,Rosa,Alvarez,62,2024-02-19,gracia33@example.com,327,7
+Mujer,464,Olympea Solar,Thierry Mugler,Sandra,Cortes,33,2024-02-23,velascodesiderio@example.org,617,8
+Mujer,130,Q,Marc Jacobs,Paula,Alvarez,18,2024-02-13,ana-belenhoz@example.net,669,1
+Mujer,285,Mon G Bloom, Lancome,Raquel,Suarez,42,2024-02-26,cescamilla@example.com,750,1
+Mujer,662,Classique for her,Marc Jacobs,Diana,Fernandez,21,2024-01-18,maria-teresaecheverria@example.net,550,13
+Mujer,198,La Belle Parfum,Jimmy ChooCarolina Herrera,Marina,Marin,60,2024-01-15,melisapages@example.net,416,2
+Mujer,254,Scandal Le Parfum,Adolfo Dominguez,Carmen,Perez,52,2024-01-13,montenegroruperto@example.org,71,9
+Mujer,729,Musc Noir for her,Dior,Monica,Nunez,52,2024-02-12,guardioladora@example.com,657,24
+Mujer,675,Good Girl Blush,Cacharel,Silvia,Medina,26,2024-01-06,salvadorabril@example.com,734,22
+Mujer,241,Poison EDP,Georgio Armani,Luisa,Rubio,43,2024-01-09,epareja@example.org,412,24
+Mujer,617,La Vie Est Belle Intense,Marc Jacobs,Carmen,Diaz,20,2024-02-03,srovira@example.org,300,8
+Mujer,482,Dior Addict,Georgio Armani,Sandra,Cortes,20,2024-02-06,estradamarc@example.net,382,15
+Mujer,394,Good Girl Supreme,Bad Boy Elixir,Alicia,Martinez,68,2024-01-01,plaruperta@example.com,168,15
+Mujer,198,Q,Georgio Armani,Rosa,Lozano,48,2024-02-24,eva-mariariera@example.com,833,24
+Mujer,119,Yes I Am,Georgio Armani,Lorena,Calvo,64,2024-01-11,teobaldopozuelo@example.org,719,7
+Mujer,149,Chloe absolute,Jimmy ChooCarolina Herrera,Laura,Iglesias,29,2024-01-14,mateabril@example.org,530,20
+Mujer,359,Olympea Solar,Georgio Armani,Natalia,Torres,23,2024-02-27,julia57@example.com,68,11
+Mujer,633,Q,Zadig & Voltaire,Lorena,Torres,37,2024-02-26,julio-cesar67@example.net,635,1
+Mujer,571,The only one,Jimmy Choo,Maria,Dominguez,39,2024-01-04,sbarbera@example.net,157,10
+Mujer,162,Rose Passion,Cacharel,Verónica,Rodriguezi,33,2024-02-11,adrian83@example.com,702,14
+Mujer,352,Femme intense,Marc Jacobs,Raquel,Navarro,42,2024-01-13,heracliosegovia@example.org,533,19
+Mujer,236,Femme intense,Georgio Armani,Marta,Rubio,49,2024-02-14,arielvega@example.org,581,2
+Mujer,374,La Belle Garden ,Chloe,Rocio,Ortiz,47,2024-02-14,maricruz29@example.com,131,7
+Mujer,53,La Belle Parfum,Thierry Mugler,Clara,Medina,49,2024-02-01,regina87@example.net,891,23
+Mujer,246,Code Absolu woman,Chloe,Pilar,Guzman,53,2024-01-11,isaias30@example.com,779,24
+Mujer,150,My Way Le Parfum,Georgio Armani,Ines,Martinez,23,2024-01-18,ztorre@example.net,209,13
+Mujer,87,Alien her,Marc Jacobs,Lorena,Ortiz,42,2024-01-23,gutierrezjeronimo@example.net,320,8
+Mujer,278,Imperatrice 3,Thierry Mugler,Sara,Calvo,31,2024-01-31,pricart@example.net,440,9
+Mujer,569,La Petite Noire Rose,Chloe,Monica,Santos,25,2024-01-02,tsosa@example.org,851,24
+Mujer,343,Rose Passion,Prada,Monica,Gutierrez,61,2024-02-17,ribanez@example.net,176,16
+Mujer,453,Classique for her,Cacharel,Teresa,Garcia,36,2024-01-07,poncereyes@example.net,439,18
+Mujer,376,Black Opium green,Bad Boy Elixir,Carolina,Nunez,36,2024-02-18,emiliacatala@example.net,888,10
+Mujer,504,This is really her,Jimmy Choo,Raquel,Morales,62,2024-01-04,rgalan@example.com,101,15
+Mujer,740,Black Opium green,Adolfo Dominguez,Diana,Navarro,31,2024-01-25,qrovira@example.net,449,13
+Mujer,169,Femme intense,Zadig & Voltaire,Nerea,Gimenez,46,2024-02-02,fortunata68@example.net,498,10
+Mujer,400,Scandal Le Parfum,Marc Jacobs,Vanessa,Fernandez,40,2024-02-23,tserrano@example.org,210,2
+Mujer,272,Black Opium extreme,Jimmy Choo,Patricia,Ortiz,21,2024-01-06,sclavero@example.org,153,19
+Mujer,163,The only one her,Chloe,Marta,Martinez,53,2024-02-21,graciacarretero@example.org,100,20
+Mujer,656,The only one,Jean Paul Gaultier,Ines,Garcia,35,2024-02-12,nplana@example.org,534,2
+Mujer,174,Idole nectar,Marc Jacobs,Lorena,Montero,32,2024-01-31,portillovictor-manuel@example.org,158,7
+Mujer,519,La Belle Parfum,Chloe,Patricia,Ortiz,46,2024-01-31,vgrande@example.net,129,23
+Mujer,113,Good Girl Blush,Marc Jacobs,Natalia,Ortega,60,2024-02-26,eperez@example.com,325,11
+Mujer,719,Good Girl Supreme,Adolfo Dominguez,Esther,Lopez,45,2024-01-07,umayo@example.org,184,14
+Mujer,586,Si Passione,Zadig & Voltaire,Elena,Ortiz,43,2024-01-03,sansreina@example.org,186,3
+Mujer,261,This is Her ,Dior,Rosa,Cortes,47,2024-01-29,maribelarranz@example.org,164,10
+Mujer,369,The Scent Her,Adolfo Dominguez,Vanessa,Lozano,64,2024-01-02,ruth14@example.net,372,5
+Mujer,155,Code Absolu woman,Thierry Mugler,Leticia,Gimenez,50,2024-02-03,ovidio45@example.com,70,19
+Mujer,615,Poison EDP,Dior,Monica,Romero,28,2024-02-17,verduhilario@example.net,278,20
+Mujer,708,Poison EDP,Cacharel,Adriana,Rubio,54,2024-02-05,moises42@example.org,263,23
+Mujer,569,L Interdir Rouge,Thierry Mugler,Natalia,Lozano,62,2024-02-14,qalberdi@example.net,208,15
+Mujer,662,Mon G Bloom,Zadig & Voltaire,Sara,Perez,45,2024-02-20,atilio36@example.org,369,18
+Mujer,673,Good Girl,Georgio Armani,Luisa,Gimenez,34,2024-02-01,cristianrojas@example.com,439,25
+Mujer,651,Devotion,Dior,Maria,Molina,23,2024-02-20,amoresjuana@example.com,146,24
+Mujer,555,The only one,Prada,Rosa,Gomez,44,2024-02-24,cvidal@example.org,329,21
+Mujer,692,My Way Intense,Thierry Mugler,Gloria,Cortes,37,2024-02-10,ngaliano@example.org,167,8
+Mujer,181,Good Girl Supreme, Lancome,Marina,Medina,22,2024-02-20,harofederico@example.net,74,20
+Mujer,204,Good Girl Supreme,Prada,Isabel,Garcia,47,2024-02-09,salazaramaya@example.org,314,14
+Mujer,442,Imperatrice 3,Marc Jacobs,Miriam,Diaz,59,2024-01-13,cristina93@example.org,723,5
+Mujer,528,Libre Absolu,Georgio Armani,Pilar,Garcia,26,2024-02-17,arcogalo@example.org,212,21
+Mujer,698,Devotion, Lancome,Miriam,Serrano,60,2024-02-20,edelmironavarrete@example.org,203,12
+Mujer,736,Q,Marc Jacobs,Gloria,Iglesias,39,2024-01-28,lourdescastells@example.net,194,10
+Mujer,558,Libre EDT,Jimmy ChooCarolina Herrera,Nerea,Montero,69,2024-01-14,susanita84@example.org,92,16
+Mujer,313,Daisy Love, Lancome,Pilar,Marin,27,2024-01-08,ybastida@example.net,560,10
+Mujer,54,Libre Absolu,Dior,Ana,Rodriguezi,19,2024-01-05,rpaez@example.com,594,10
+Mujer,287,212 heroes her,Jimmy Choo,Lucia,Lozano,43,2024-02-08,vtormo@example.org,729,24
+Mujer,159,Lady Million,Chloe,Sandra,Fernandez,52,2024-01-24,felixrey@example.net,679,22
+Mujer,337,Lady Million,Prada,Marina,Lopez,39,2024-01-14,gracia21@example.org,592,3
+Mujer,63,Devotion,Jimmy Choo,Ines,Guerrero,26,2024-02-09,rolando26@example.com,91,1
+Mujer,197,Rose Passion,Jimmy ChooCarolina Herrera,Nerea,Calvo,53,2024-02-20,leocadiamontes@example.org,296,20
+Mujer,140,Divine,Georgio Armani,Carmen,Lopez,69,2024-01-18,halcaraz@example.com,296,18
+Mujer,175,Black Opium over red,Bad Boy Elixir,Paula,Martinez,53,2024-02-26,hbarros@example.com,609,13
+Mujer,388,Lady Million,Jimmy ChooCarolina Herrera,Ana,Herrera,28,2024-01-04,aguedanavarrete@example.net,705,12
+Mujer,78,Chloe absolute,Georgio Armani,Teresa,Morales,27,2024-02-13,amarilispalacios@example.com,163,20
+Mujer,446,This is really her,Thierry Mugler,Verónica,Marin,41,2024-01-01,malena48@example.org,413,12
+Mujer,507,Classique for her,Jimmy Choo,Miriam,Cortes,59,2024-01-06,anastasiadonoso@example.com,562,20
+Mujer,163,Good Girl,Bad Boy Elixir,Miriam,Perez,30,2024-01-25,melerolucio@example.org,559,20
+Mujer,708,Yes I Am,Prada,Natalia,Perez,60,2024-01-25,danilo36@example.org,234,22
+Mujer,197,My Way Le Parfum,Chloe,Paula,Luna,52,2024-01-18,villanuevaguiomar@example.net,762,18
+Mujer,503,This is Her ,Chloe,Marina,Ramos,55,2024-02-05,oliverevangelina@example.com,802,11
+Mujer,448,Libre EDT,Jean Paul Gaultier,Leticia,Ortiz,70,2024-02-19,modesto98@example.net,861,7
+Mujer,463,Lady Million,Prada,Marina,Navarro,46,2024-02-02,rosalindamoliner@example.org,632,17
+Mujer,749,This is really her, Lancome,Pilar,Cortes,32,2024-02-07,dario96@example.org,450,13
+Mujer,419,The only one,Dior,Natalia,Cortes,30,2024-01-03,yhigueras@example.com,53,6
+Mujer,485,La Vie Est Belle Intense, Lancome,Nuria,Nunez,20,2024-01-05,jose-ignacio53@example.org,715,14
+Mujer,152,Idole nectar,Marc Jacobs,Monica,Montero,42,2024-02-14,jroldan@example.org,841,2
+Mujer,412,My Way Intense,Dior,Carmen,Cortes,27,2024-01-19,elodia10@example.net,269,7
+Mujer,188,Poison EDT,Cacharel,Nerea,Castillo,65,2024-01-18,cerdanjuan-francisco@example.net,754,2
+Mujer,309,Mon G Bloom,Marc Jacobs,Ines,Dominguez,43,2024-02-14,nereidamonreal@example.org,662,14
+Mujer,416,The only one her,Marc Jacobs,Alicia,Gutierrez,64,2024-01-03,nduque@example.org,157,21
+Mujer,92,This is Her ,Zadig & Voltaire,Clara,Serrano,47,2024-01-13,pcervera@example.org,462,22
+Mujer,67,Fleur D Oranger,Zadig & Voltaire,Leticia,Rodriguezi,28,2024-01-10,vilmaaragon@example.net,353,14
+Mujer,696,Femme intense, Lancome,Sandra,Romero,24,2024-02-15,ricarda78@example.net,129,23
+Mujer,161,Libre Le Parfum,Cacharel,Adriana,Gomez,65,2024-01-20,guiomar89@example.com,717,19
+Mujer,70,Black Opium over red,Cacharel,Teresa,Luna,41,2024-01-22,bienvenida01@example.net,416,18
+Mujer,252,My Way Le Parfum, Lancome,Laura,Diaz,35,2024-02-26,ibadia@example.net,281,21
+Mujer,525,Mon G Bloom,Bad Boy Elixir,Diana,Navarro,22,2024-01-01,santosfiol@example.net,50,11
+Mujer,695,The Scent Her,Dior,Ines,Gonzalez del Olmo,65,2024-01-13,ruperta24@example.org,627,24
+Mujer,347,Poison EDP,Jimmy Choo,Luisa,Diaz,34,2024-01-05,vicentacabrero@example.com,419,21
+Mujer,357,My Way Le Parfum,Georgio Armani,Julia,Medina,35,2024-01-28,chervas@example.com,64,24
+Mujer,145,Good Girl Supreme,Zadig & Voltaire,Ines,Lozano,63,2024-02-05,narciso34@example.com,309,14
+Mujer,257,Miss Dior,Thierry Mugler,Lorena,Serrano,27,2024-01-01,vcamps@example.net,635,13
+Mujer,548,La Belle Parfum, Lancome,Nuria,Cortes,20,2024-01-01,casandra80@example.org,418,2
+Mujer,397,Dior Addict,Zadig & Voltaire,Elena,Medina,61,2024-01-01,alsinamireia@example.org,522,19
+Mujer,611,Lady Million,Thierry Mugler,Beatriz,Marin,39,2024-01-21,acunaroque@example.org,35,24
+Mujer,285,Infusion de Figue,Thierry Mugler,Sandra,Medina,61,2024-01-11,qbonet@example.net,329,9
+Mujer,154,The Scent Her,Jean Paul Gaultier,Paula,Rodriguezi,54,2024-01-10,pradoofelia@example.org,778,5
+Mujer,337,Alien her,Zadig & Voltaire,Maria,Luna,50,2024-02-15,ipuerta@example.com,872,17
+Mujer,677,La Petite Noire Rose,Marc Jacobs,Sara,Ramos,70,2024-01-11,catalina77@example.net,412,1
+Mujer,118,Si Passione,Jimmy Choo,Silvia,Gutierrez,43,2024-02-04,estrellacastilla@example.org,496,20
+Mujer,589,This is really her,Thierry Mugler,Vanessa,Nunez,58,2024-01-04,ariel63@example.com,395,25
+Mujer,222,This is Her ,Zadig & Voltaire,Cristina,Luna,27,2024-01-01,ananevado@example.org,281,3
+Mujer,503,Very Good Girl EDP,Georgio Armani,Luisa,Rodriguezi,57,2024-02-26,leon49@example.org,156,1
+Mujer,740,Fleur D Oranger,Zadig & Voltaire,Leticia,Garcia,69,2024-01-18,bienvenida96@example.com,780,18
+Mujer,237,Si Passione,Jean Paul Gaultier,Verónica,Herrera,32,2024-01-24,martirio82@example.com,335,6
+Mujer,430,Poison EDP,Zadig & Voltaire,Carolina,Ramírez,43,2024-02-14,qsantamaria@example.org,133,13
+Mujer,711,Divine,Zadig & Voltaire,Raquel,Gutierrez,35,2024-01-04,marcianoramirez@example.net,36,7
+Mujer,225,Very Good Girl Glam,Jimmy Choo,Leticia,Lopez,25,2024-01-08,alberdirafa@example.com,883,8
+Mujer,449,Libre Le Parfum,Georgio Armani,Clara,Cortes,64,2024-01-15,santosmarino@example.org,192,17
+Mujer,409,The only one her,Thierry Mugler,Nerea,Rubio,33,2024-01-29,pastora60@example.net,546,4
+Mujer,531,Pure Musc,Jean Paul Gaultier,Teresa,Gomez,48,2024-02-13,ubayona@example.org,648,21
+Mujer,124,Libre Absolu,Jimmy ChooCarolina Herrera,Diana,Romero,46,2024-02-21,blucena@example.net,33,12
+Mujer,142,My Way Le Parfum,Jimmy ChooCarolina Herrera,Rocio,Herrera,43,2024-01-30,jose-luiszamora@example.org,733,1
+Mujer,542,Poison EDT, Lancome,Isabel,Serrano,60,2024-01-28,felipa49@example.net,252,20
+Mujer,202,Poison EDP,Jimmy Choo,Diana,Romero,58,2024-02-19,xjauregui@example.net,508,5
+Mujer,306,Pure Musc, Lancome,Carmen,Diaz,36,2024-01-06,hildafeliu@example.net,706,24
+Mujer,90,Good Girl,Chloe,Luisa,Medina,40,2024-01-04,inespol@example.org,592,25
+Mujer,253,Femme Intense,Thierry Mugler,Alicia,Fernandez,26,2024-01-05,elodiabauza@example.com,250,7
+Mujer,402,Libre Le Parfum,Georgio Armani,Nuria,Alvarez,39,2024-01-01,morenacastaneda@example.net,307,5
+Mujer,630,Femme Parfum,Cacharel,Marina,Iglesias,28,2024-01-22,celestinasantana@example.org,106,23
+Mujer,737,The Scent Her,Jimmy Choo,Carolina,Luna,38,2024-01-02,panchonicolau@example.org,387,22
+Mujer,383,Alien her,Dior,Natalia,Castillo,26,2024-02-08,araceli35@example.net,103,5
+Mujer,626,Q,Prada,Julia,Serrano,66,2024-02-27,ruy93@example.org,585,22
+Mujer,747,My Way Nectar, Lancome,Ana,Torres,29,2024-01-08,anita86@example.net,883,10
+Mujer,450,Mon G Bloom,Jimmy Choo,Gloria,Dominguez,63,2024-02-04,mariabas@example.com,227,5
+Mujer,364,Paradoxe EDP,Thierry Mugler,Leticia,Rubio,36,2024-01-23,farteaga@example.com,884,3
+Mujer,547,Idole Aura,Prada,Gloria,Nunez,36,2024-01-31,fulgencio67@example.net,197,9
+Mujer,177,Infusion de Figue,Jean Paul Gaultier,Pilar,Gutierrez,39,2024-01-12,larreajenaro@example.com,348,12
+Mujer,463,The only one,Dior,Cristina,Santos,54,2024-02-02,zespana@example.com,667,2
+Mujer,184,Very Good Girl Glam,Jimmy Choo,Leticia,Diaz,66,2024-02-13,benjaminluque@example.com,114,10
+Mujer,142,Poison EDP,Jimmy ChooCarolina Herrera,Clara,Gutierrez,39,2024-01-06,micaela52@example.net,521,13
+Mujer,366,L Interdir Rouge,Bad Boy Elixir,Marta,Romero,44,2024-02-05,felixcrespo@example.org,272,17
+Mujer,343,Idole nectar,Jean Paul Gaultier,Beatriz,Alvarez,63,2024-02-24,benjamin66@example.com,695,4
+Mujer,278,Rose Passion,Bad Boy Elixir,Monica,Gonzalez del Olmo,43,2024-02-24,juliepena@example.org,695,24
+Mujer,110,The only one her,Prada,Nuria,Santos,67,2024-02-11,epifanio26@example.com,440,25
+Mujer,410,Lady Million,Chloe,Pilar,Diaz,34,2024-02-10,amarilisferrero@example.net,510,11
+Mujer,619,Scandal Le Parfum,Georgio Armani,Ines,Lozano,65,2024-01-10,sosaberto@example.org,446,6
+Mujer,626,Very Good Girl EDP,Adolfo Dominguez,Marina,Torres,48,2024-02-09,bautistabenito@example.net,430,19
+Mujer,267,Paradoxe Intense,Dior,Isabel,Iglesias,23,2024-01-09,asdrubal18@example.net,440,5
+Mujer,68,Black Opium extreme,Cacharel,Lorena,Rodriguezi,28,2024-02-24,dalcalde@example.com,414,24
+Mujer,629,Femme Intense,Zadig & Voltaire,Rocio,Gutierrez,28,2024-01-09,asdrubalballester@example.org,524,1
+Mujer,215,Olympea Solar,Thierry Mugler,Paula,Guerrero,20,2024-02-23,alvaradoeliseo@example.org,73,18
+Mujer,505,Black Opium extreme,Cacharel,Diana,Cortes,43,2024-02-19,vsierra@example.com,559,21
+Mujer,320,Good Girl,Chloe,Maria,Ortiz,51,2024-02-26,verdejoponcio@example.net,339,24
+Mujer,224,Paradoxe EDP,Jean Paul Gaultier,Lorena,Iglesias,51,2024-01-01,cerdamontserrat@example.com,347,13
+Mujer,447,La Vie Est Belle Intense,Chloe,Clara,Ortiz,51,2024-02-25,silviaabad@example.net,751,7
+Mujer,120,Very Good Girl Glam,Cacharel,Diana,Molina,51,2024-02-18,xcarrera@example.com,623,23
+Mujer,690,Code Absolu woman,Cacharel,Rocio,Guerrero,58,2024-01-21,llamasaurea@example.com,182,5
+Mujer,559,Paradoxe Intense,Cacharel,Rosa,Lozano,41,2024-02-15,xbermudez@example.com,75,1
+Mujer,334,My Way Nectar,Dior,Ines,Molina,46,2024-02-13,leonel37@example.org,784,1
+Mujer,673,La Belle Garden ,Cacharel,Diana,Serrano,19,2024-02-16,ferrandezsalome@example.com,839,14
+Mujer,54,Femme Intense,Bad Boy Elixir,Paula,Nunez,18,2024-02-13,teobaldobustos@example.net,85,22
+Mujer,532,L Interdir Rouge,Jimmy Choo,Beatriz,Navarro,69,2024-02-15,martinernesto@example.net,105,12
+Mujer,732,Si Passione,Dior,Miriam,Garcia,24,2024-01-11,benjamin90@example.com,407,13
+Mujer,118,Si Passione,Thierry Mugler,Laura,Alvarez,70,2024-02-14,hmanuel@example.net,399,10
+Mujer,243,La Belle Garden ,Jimmy Choo,Lucia,Alvarez,67,2024-02-20,zalmansa@example.org,624,6
+Mujer,284,Libre EDT,Jimmy Choo,Vanessa,Gimenez,19,2024-02-12,julio40@example.net,70,2
+Mujer,134,Infusion de Figue,Cacharel,Verónica,Iglesias,65,2024-01-26,lucia02@example.net,50,20
+Mujer,676,Olympea Solar,Adolfo Dominguez,Vanessa,Herrera,46,2024-02-23,bibiana04@example.com,767,21
+Mujer,389,Imperatrice 3,Marc Jacobs,Elena,Santos,38,2024-01-23,wllano@example.net,513,25
+Mujer,380,Fleur D Oranger,Dior,Rocio,Lopez,51,2024-02-18,jordannazaret@example.net,255,24
+Mujer,725,Libre EDT,Chloe,Maria,Dominguez,63,2024-01-12,salgadonadia@example.com,665,5
+Mujer,316,Black Opium over red,Jimmy Choo,Rosa,Navarro,45,2024-01-20,samanta72@example.net,870,8
+Mujer,355,Paradoxe EDP,Chloe,Rosa,Calvo,65,2024-01-23,carlos95@example.net,218,10
+Mujer,576,J Adore EDP,Jean Paul Gaultier,Isabel,Gutierrez,43,2024-01-27,cornejomarcia@example.org,351,5
+Mujer,660,Black Opium over red,Jean Paul Gaultier,Sara,Rubio,60,2024-02-27,espejojose-carlos@example.org,519,18
+Mujer,341,Miss Dior,Zadig & Voltaire,Verónica,Molina,47,2024-02-17,fuerteslina@example.com,707,18
+Mujer,710,Black Opium over red,Jean Paul Gaultier,Carolina,Morales,25,2024-02-26,albanooliver@example.net,782,18
+Mujer,746,The only one,Chloe,Julia,Garcia,52,2024-02-23,hernandopetrona@example.net,401,3
+Mujer,227,Idole Aura,Bad Boy Elixir,Diana,Gutierrez,49,2024-01-17,areyes@example.net,314,17
+Mujer,525,Paradoxe Intense,Jimmy Choo,Elena,Molina,36,2024-01-22,francisco-jose70@example.net,702,22
+Mujer,678,Si Passione,Dior,Alicia,Ortiz,44,2024-01-28,marcioduque@example.org,154,11
+Mujer,314,Good Girl Supreme, Lancome,Gloria,Cortes,63,2024-02-05,gvergara@example.org,140,21
+Mujer,566,La Belle Parfum,Jean Paul Gaultier,Diana,Montero,38,2024-01-13,anitalosa@example.net,494,21
+Mujer,611,My Way Intense,Bad Boy Elixir,Leticia,Romero,50,2024-02-07,carmelitarios@example.org,815,7
+Mujer,473,My Way Nectar,Jean Paul Gaultier,Beatriz,Gomez,26,2024-02-02,leonorcarrera@example.com,165,6
+Mujer,292,The Scent Her,Jean Paul Gaultier,Ines,Santos,55,2024-02-09,marcochaparro@example.org,194,23
+Mujer,390,Black Opium over red, Lancome,Miriam,Torres,61,2024-02-22,isauralanda@example.com,451,14
+Mujer,256,Black Opium extreme,Dior,Julia,Iglesias,51,2024-02-02,pratadrian@example.org,728,11
+Mujer,747,Good Girl Blush,Georgio Armani,Nuria,Rubio,54,2024-02-07,wcasanovas@example.net,472,25
+Mujer,578,Idole Aura, Lancome,Silvia,Guerrero,42,2024-01-25,rodaroque@example.com,683,6
+Mujer,480,Chloe absolute,Jean Paul Gaultier,Marta,Castillo,19,2024-01-04,pilaralcalde@example.com,271,2
+Mujer,498,My Way Nectar,Jimmy ChooCarolina Herrera,Nerea,Fernandez,69,2024-02-04,franciscogabriela@example.com,512,11
+Mujer,422,Paradoxe EDP,Dior,Ines,Alvarez,36,2024-01-07,gloriasandoval@example.com,838,1
+Mujer,282,Femme Intense,Chloe,Paula,Lopez,68,2024-02-03,mateo70@example.net,838,14
+Mujer,424,J Adore EDP,Jimmy Choo,Clara,Iglesias,70,2024-01-24,ecuesta@example.org,669,22
+Mujer,102,My Way Intense,Jean Paul Gaultier,Lorena,Alvarez,38,2024-02-03,marcialrocha@example.net,699,12
+Mujer,157,La Petite Noire Rose,Dior,Raquel,Lozano,33,2024-01-24,eusebionunez@example.net,855,8
+Mujer,372,The only one her,Prada,Rocio,Rodriguezi,56,2024-02-14,humberto72@example.net,506,23
+Mujer,172,Classique for her, Lancome,Alicia,Perez,51,2024-02-04,nromero@example.net,571,6
+Mujer,270,La Vie Est Belle Intense,Georgio Armani,Cristina,Montero,50,2024-01-20,dmorera@example.org,161,21
+Mujer,327,La Belle Garden ,Jimmy ChooCarolina Herrera,Alicia,Lozano,33,2024-02-23,fpujol@example.com,896,6
+Mujer,339,Musc Noir for her,Thierry Mugler,Lucia,Herrera,65,2024-01-02,hrios@example.net,857,9
+Mujer,267,Dior Addict,Chloe,Rocio,Garcia,59,2024-02-14,bienvenidagallego@example.com,834,7
+Mujer,307,Femme Intense,Jimmy Choo,Rosa,Lozano,39,2024-01-05,augustorivero@example.net,824,9
+Mujer,362,Poison EDP,Adolfo Dominguez,Natalia,Ortiz,36,2024-02-09,tvilla@example.net,719,19
+Mujer,628,Miss Dior,Jean Paul Gaultier,Rocio,Alvarez,24,2024-01-09,adelaida19@example.com,168,1
+Mujer,199,Black Opium green,Prada,Elena,Lopez,60,2024-01-17,armando56@example.net,129,7
+Mujer,243,Very Good Girl EDP,Adolfo Dominguez,Carolina,Martinez,57,2024-01-02,ceferinocardona@example.com,194,18
+Mujer,234,Poison EDP,Chloe,Carmen,Montero,19,2024-02-16,mcanales@example.com,866,16
+Mujer,145,This is Her ,Jimmy ChooCarolina Herrera,Rocio,Nunez,70,2024-02-12,maximo69@example.net,402,15
+Mujer,128,Chloe absolute,Georgio Armani,Marta,Rodriguezi,55,2024-01-08,caballeroestefania@example.org,447,12
+Mujer,255,Si Passione,Dior,Alicia,Gomez,45,2024-02-13,fcoloma@example.org,52,16
+Mujer,379,La Belle Garden ,Dior,Carmen,Dominguez,33,2024-01-03,haroldo82@example.com,791,17
+Mujer,704,Q,Dior,Rosa,Alvarez,18,2024-02-10,hvalero@example.org,279,7
+Mujer,147,Olympea Solar,Jimmy ChooCarolina Herrera,Teresa,Ortega,69,2024-02-22,anoriega@example.org,886,18
+Mujer,525,Q,Chloe,Sara,Molina,18,2024-02-23,lamasdaniel@example.com,138,3
+Mujer,191,Fleur D Oranger,Bad Boy Elixir,Clara,Rodriguezi,59,2024-01-28,ribalazaro@example.org,824,1
+Mujer,612,Idole nectar,Chloe,Carmen,Nunez,25,2024-01-14,sancho78@example.org,868,10
+Mujer,714,Rose Passion, Lancome,Beatriz,Santos,41,2024-01-13,padillaangelino@example.com,473,20
+Mujer,172,Poison EDP,Bad Boy Elixir,Lucia,Ortega,49,2024-01-09,carmela17@example.org,818,16
+Mujer,603,Poison EDP,Dior,Lucia,Medina,63,2024-01-21,belenlara@example.org,221,22
+Mujer,510,Pure Musc,Dior,Gloria,Molina,29,2024-02-02,paniaguaarmida@example.net,415,16
+Mujer,134,La Petite Noire Rose,Prada,Nuria,Guerrero,24,2024-01-11,linopujol@example.org,519,13
+Mujer,342,Femme Intense,Zadig & Voltaire,Esther,Torres,70,2024-02-08,andresbarcena@example.com,561,22
+Mujer,51,Femme intense,Dior,Beatriz,Montero,63,2024-02-01,gracianamerino@example.net,87,4
+Mujer,472,L Interdir Rouge,Thierry Mugler,Teresa,Guzman,29,2024-02-22,cepedaguadalupe@example.com,724,2
+Mujer,579,Miss Dior,Prada,Paula,Marin,40,2024-01-18,leandrobarba@example.org,39,3
+Mujer,656,Good Girl,Jimmy Choo,Miriam,Garcia,64,2024-02-12,saritaaznar@example.net,612,10
+Mujer,76,212 heroes her,Adolfo Dominguez,Isabel,Molina,50,2024-01-14,sebastian86@example.org,377,17
+Mujer,539,Good Girl Supreme,Dior,Pilar,Ramírez,69,2024-01-05,cgarzon@example.org,122,11
+Mujer,359,Libre EDT,Chloe,Julia,Gomez,32,2024-01-27,qpastor@example.net,47,6
+Mujer,136,The only one her,Adolfo Dominguez,Gloria,Guerrero,61,2024-01-16,conchaherranz@example.net,532,15
+Mujer,492,The Scent Her,Jimmy Choo,Clara,Romero,66,2024-01-27,adadiaafrica@example.com,177,1
+Mujer,656,My Way Nectar, Lancome,Carmen,Marin,25,2024-01-22,adelia33@example.net,823,22
+Mujer,605,Divine,Jean Paul Gaultier,Alicia,Vázquez,24,2024-01-19,oliveignacio@example.org,150,19
+Mujer,488,Black Opium over red,Dior,Leticia,Serrano,49,2024-02-25,arielizaguirre@example.com,391,4
+Mujer,260,Si Passione,Prada,Alicia,Herrera,63,2024-02-27,walba@example.net,890,23
+Mujer,646,Very Good Girl EDP,Jimmy Choo,Maria,Suarez,67,2024-01-22,viviana09@example.com,96,4
+Mujer,339,My Way Nectar,Cacharel,Luisa,Gimenez,19,2024-02-03,gvillalobos@example.com,128,5
+Mujer,613,Infusion de Figue,Jean Paul Gaultier,Patricia,Gomez,45,2024-02-11,cruz78@example.org,737,10
+Mujer,750,Lady Million,Jean Paul Gaultier,Gloria,Luna,54,2024-02-07,javieramenendez@example.org,867,10
+Mujer,384,La Vie Est Belle Intense,Prada,Carmen,Vázquez,59,2024-02-13,barraldorita@example.net,52,25
+Mujer,710,Musc Noir for her,Dior,Miriam,Suarez,33,2024-01-25,adalbertopalomares@example.net,204,24
+Mujer,491,Good Girl,Jimmy ChooCarolina Herrera,Lorena,Martinez,51,2024-02-22,macarena74@example.com,425,6
+Mujer,722,Miss Dior,Jimmy Choo,Pilar,Gonzalez del Olmo,27,2024-01-03,cecilia74@example.com,785,6
+Mujer,629,Femme intense,Adolfo Dominguez,Patricia,Medina,24,2024-02-27,bartolomepaco@example.com,127,18
+Mujer,383,Musc Noir for her,Zadig & Voltaire,Nerea,Garcia,26,2024-02-05,juliana86@example.org,117,2
+Mujer,627,This is Her ,Adolfo Dominguez,Natalia,Nunez,33,2024-01-15,vivianariba@example.net,582,2
+Mujer,181,Divine,Jimmy Choo,Natalia,Herrera,37,2024-01-04,aurelianocampo@example.com,562,2
+Mujer,659,Devotion,Jimmy ChooCarolina Herrera,Laura,Ramírez,58,2024-02-16,tpintor@example.com,833,8
+Mujer,435,Paradoxe Intense,Bad Boy Elixir,Maria,Perez,62,2024-01-11,nbenavent@example.org,534,14
+Mujer,193,Poison EDT,Dior,Paula,Dominguez,67,2024-02-08,peinadopaula@example.net,564,24
+Mujer,313,Divine,Marc Jacobs,Raquel,Ramos,29,2024-02-11,wjimenez@example.com,462,9
+Mujer,200,212 heroes her,Thierry Mugler,Isabel,Gimenez,63,2024-01-23,ema57@example.com,733,14
+Mujer,398,Q,Marc Jacobs,Natalia,Rubio,67,2024-02-22,mvicens@example.org,532,24
+Mujer,697,Good Girl Supreme,Dior,Lorena,Lopez,54,2024-02-17,maxi05@example.org,182,18
+Mujer,685,My Way Nectar,Marc Jacobs,Sandra,Luna,45,2024-01-04,bnino@example.org,616,10
+Mujer,386,Femme intense,Georgio Armani,Pilar,Navarro,57,2024-01-26,colomemiliana@example.com,778,6
+Mujer,162,Good Girl,Zadig & Voltaire,Nerea,Rodriguezi,63,2024-02-16,qaguirre@example.org,465,2
+Mujer,658,My Way Intense,Zadig & Voltaire,Gloria,Lopez,35,2024-02-25,esperanza94@example.net,786,2
+Mujer,476,Q, Lancome,Monica,Romero,53,2024-02-17,faustino37@example.com,572,1
+Mujer,708,Black Opium green,Cacharel,Elena,Guzman,52,2024-01-12,fontruy@example.org,559,6
+Mujer,636,Black Opium over red,Bad Boy Elixir,Patricia,Marin,38,2024-02-14,gaspar42@example.org,736,23
+Mujer,327,Femme Parfum,Marc Jacobs,Natalia,Guzman,47,2024-01-20,expositojosue@example.net,52,2
+Mujer,403,Paradoxe EDP,Prada,Lorena,Romero,27,2024-02-09,pastorcalatayud@example.net,101,20
+Mujer,170,Yes I Am,Zadig & Voltaire,Lucia,Garcia,55,2024-01-23,julieta60@example.net,854,13
+Mujer,707,Femme Intense,Cacharel,Carmen,Navarro,27,2024-01-21,penalverulises@example.net,427,16
+Mujer,435,Imperatrice 3,Jean Paul Gaultier,Rocio,Fernandez,38,2024-02-16,felisaripoll@example.com,216,21
+Mujer,488,Si Passione, Lancome,Carolina,Diaz,59,2024-01-01,antonia68@example.net,491,12
+Mujer,463,Devotion,Cacharel,Cristina,Suarez,36,2024-01-27,nsalas@example.org,726,14
+Mujer,679,Femme Intense,Marc Jacobs,Lucia,Herrera,18,2024-01-19,gayabenjamin@example.com,715,15
+Mujer,671,La Belle Garden ,Cacharel,Vanessa,Alvarez,41,2024-02-01,eloyrosales@example.com,650,21
+Mujer,94,Classique for her,Cacharel,Teresa,Ramos,51,2024-01-01,joan89@example.org,818,19
+Mujer,219,Femme intense,Jimmy Choo,Beatriz,Rodriguezi,56,2024-01-16,fabiolacabeza@example.net,530,19
+Mujer,326,The Scent Her,Dior,Silvia,Gutierrez,62,2024-02-18,ncerro@example.net,437,14
+Mujer,500,L Interdir Rouge,Marc Jacobs,Monica,Diaz,27,2024-01-04,duranalondra@example.org,116,24
+Mujer,217,Very Good Girl EDP,Zadig & Voltaire,Rocio,Dominguez,19,2024-02-11,chelo39@example.org,287,9
+Mujer,259,La Petite Noire Rose,Dior,Maria,Perez,26,2024-01-23,amilcaralcala@example.org,339,25
+Mujer,112,Femme Parfum,Thierry Mugler,Elena,Diaz,42,2024-02-09,evitallorente@example.com,34,11
+Mujer,326,Libre EDT,Jimmy Choo,Raquel,Calvo,47,2024-01-17,jordaitziar@example.net,814,11
+Mujer,374,Good Girl Supreme,Jean Paul Gaultier,Paula,Morales,37,2024-01-09,irma86@example.com,350,15
+Mujer,510,Lady Million,Chloe,Teresa,Calvo,63,2024-01-28,maxiverdugo@example.org,830,5
+Mujer,524,Paradoxe Intense,Jean Paul Gaultier,Carmen,Ortega,54,2024-01-29,ponceisaias@example.net,399,7
+Mujer,553,La Belle Garden ,Bad Boy Elixir,Clara,Suarez,64,2024-01-19,ramossandra@example.org,706,6
+Mujer,721,Q,Zadig & Voltaire,Ana,Suarez,66,2024-02-08,amarilis18@example.com,331,1
+Mujer,624,Good Girl, Lancome,Beatriz,Romero,38,2024-02-18,querollara@example.com,576,5
+Mujer,165,Q,Jimmy Choo,Adriana,Gonzalez del Olmo,33,2024-01-18,aureasala@example.net,235,20
+Mujer,586,Black Opium extreme,Jimmy Choo,Marina,Iglesias,50,2024-01-19,rmayoral@example.com,679,7
+Mujer,628,Devotion,Dior,Lorena,Rubio,19,2024-01-24,aitanafabra@example.org,770,11
+Mujer,566,Paradoxe EDP,Cacharel,Luisa,Gonzalez del Olmo,43,2024-01-04,soleraaurea@example.net,882,10
+Mujer,225,Femme intense,Marc Jacobs,Lucia,Ortiz,69,2024-01-09,ymartinez@example.org,738,8
+Mujer,109,J Adore EDP, Lancome,Vanessa,Castillo,48,2024-02-10,elvira23@example.com,834,16
+Mujer,356,Very Good Girl Glam,Adolfo Dominguez,Ana,Navarro,49,2024-02-09,jenriquez@example.org,471,14
+Mujer,206,L Interdir Rouge,Chloe,Cristina,Calvo,68,2024-01-16,tono37@example.net,101,9
+Mujer,602,La Belle Garden ,Chloe,Nuria,Serrano,64,2024-02-24,tiradonazaret@example.net,706,12
+Mujer,251,Classique for her,Jean Paul Gaultier,Nerea,Romero,34,2024-01-04,cristiangodoy@example.net,259,19
+Mujer,467,Olympea Solar,Cacharel,Silvia,Vázquez,36,2024-02-12,cristian11@example.net,127,12
+Mujer,524,Femme intense,Dior,Clara,Ortiz,69,2024-01-19,tamayomelisa@example.net,346,23
+Mujer,74,Black Opium over red,Thierry Mugler,Nuria,Vázquez,33,2024-02-05,pfrias@example.org,234,12
+Mujer,442,Very Good Girl Glam,Jimmy Choo,Lucia,Herrera,29,2024-02-15,maribeluribe@example.org,826,11
+Mujer,121,Black Opium green,Jimmy ChooCarolina Herrera,Monica,Dominguez,54,2024-01-09,candelas39@example.org,495,2
+Mujer,105,La Vie Est Belle Intense, Lancome,Cristina,Ortega,70,2024-01-21,wcorrea@example.net,300,15
+Mujer,624,Good Girl Blush,Georgio Armani,Verónica,Gonzalez del Olmo,19,2024-01-04,damianvives@example.net,587,22
+Mujer,617,Femme intense,Dior,Marina,Montero,18,2024-02-10,duilio55@example.com,148,17
+Mujer,533,Good Girl Supreme,Adolfo Dominguez,Teresa,Morales,67,2024-01-18,aroa01@example.org,319,3
+Mujer,301,Good Girl,Cacharel,Esther,Ortega,30,2024-02-11,suarezascension@example.com,326,4
+Mujer,454,Good Girl,Jimmy ChooCarolina Herrera,Esther,Iglesias,38,2024-02-14,barrancoamor@example.org,433,10
+Mujer,516,Good Girl Blush,Adolfo Dominguez,Paula,Martinez,61,2024-01-31,sofialuis@example.net,568,9
+Mujer,86,J Adore EDP,Jean Paul Gaultier,Silvia,Fernandez,23,2024-02-16,maria-teresa47@example.com,235,11
+Mujer,194,La Belle Garden ,Marc Jacobs,Carmen,Lopez,39,2024-02-07,amandabaena@example.org,31,15
+Mujer,527,Classique for her,Jean Paul Gaultier,Diana,Cortes,52,2024-02-26,nhigueras@example.com,193,24
+Mujer,702,Rose Passion,Zadig & Voltaire,Laura,Santos,27,2024-01-12,bienvenidanunez@example.net,810,10
+Mujer,568,Classique for her,Jimmy ChooCarolina Herrera,Paula,Torres,70,2024-02-03,mendezrodrigo@example.com,73,9
+Mujer,342,Miss Dior, Lancome,Vanessa,Suarez,53,2024-01-22,rosellofeliciana@example.org,767,13
+Mujer,126,Scandal Le Parfum,Zadig & Voltaire,Lucia,Gomez,46,2024-02-01,bejaranotoribio@example.org,161,8
+Mujer,664,Black Opium over red,Georgio Armani,Julia,Ortiz,28,2024-02-27,ainaratoro@example.org,462,9
+Mujer,560,Fleur D Oranger,Prada,Nerea,Rodriguezi,51,2024-01-02,ramisnereida@example.com,216,11
+Mujer,527,Pure Musc,Cacharel,Verónica,Diaz,38,2024-01-24,qpolo@example.net,480,6
+Mujer,699,My Way Le Parfum,Dior,Ana,Torres,39,2024-02-12,becerrarocio@example.org,103,24
+Mujer,146,L Interdir Rouge,Jimmy ChooCarolina Herrera,Ana,Ramos,19,2024-01-29,artemiofuentes@example.net,460,1
+Mujer,160,Poison EDP,Prada,Adriana,Marin,69,2024-01-23,chitamolins@example.com,474,19
+Mujer,628,Pure Musc,Cacharel,Natalia,Fernandez,25,2024-01-01,rozasirene@example.org,799,8
+Mujer,700,Very Good Girl EDP,Dior,Paula,Gutierrez,20,2024-01-26,abelladelia@example.org,536,3
+Mujer,320,Olympea Solar,Adolfo Dominguez,Gloria,Ramos,55,2024-02-17,genoveva35@example.org,317,6
+Mujer,421,La Vie Est Belle Intense,Jimmy Choo,Elena,Martinez,33,2024-01-23,maiteperello@example.org,343,18
+Mujer,483,Daisy Love,Jean Paul Gaultier,Ana,Ramírez,41,2024-02-09,alonsojose-angel@example.com,519,10
+Mujer,171,Divine, Lancome,Marina,Navarro,61,2024-01-18,galo40@example.net,878,15
+Mujer,561,Libre Le Parfum,Zadig & Voltaire,Gloria,Martinez,21,2024-02-01,haroldogonzalez@example.net,398,9
+Mujer,311,Femme intense, Lancome,Alicia,Diaz,69,2024-02-22,orianaalcala@example.net,110,22
+Mujer,390,Paradoxe Intense,Cacharel,Rocio,Herrera,44,2024-01-09,abellaremedios@example.org,443,9
+Mujer,229,Good Girl Supreme,Zadig & Voltaire,Rosa,Santos,40,2024-02-21,quirinoibarra@example.net,328,19
+Mujer,397,La Petite Noire Rose,Cacharel,Maria,Gomez,33,2024-01-09,leocadiomoliner@example.org,845,9
+Mujer,708,Libre Le Parfum,Zadig & Voltaire,Adriana,Guerrero,26,2024-01-26,lucioduenas@example.org,467,13
+Mujer,473,Fleur D Oranger,Chloe,Luisa,Dominguez,25,2024-01-15,valeroaleman@example.net,208,18
+Mujer,119,The Scent Her,Adolfo Dominguez,Sandra,Guerrero,22,2024-02-09,lmiranda@example.org,620,25
+Mujer,705,Q, Lancome,Nerea,Perez,37,2024-01-31,carrionluciano@example.org,131,17
+Mujer,743,Yes I Am,Jean Paul Gaultier,Beatriz,Diaz,55,2024-01-02,vinicio42@example.org,109,6
+Mujer,604,Femme Intense,Adolfo Dominguez,Patricia,Ramos,29,2024-01-11,nsancho@example.org,272,19
+Mujer,147,Black Opium over red,Chloe,Carolina,Fernandez,68,2024-01-26,marcia14@example.com,717,7
+Mujer,147,The only one her,Chloe,Marta,Calvo,32,2024-01-23,fabregatgeraldo@example.net,542,21
+Mujer,174,Imperatrice 3, Lancome,Marina,Luna,31,2024-01-07,josefinafernandez@example.net,813,25
+Mujer,267,L Interdir Rouge, Lancome,Beatriz,Suarez,33,2024-01-19,galanvanesa@example.com,678,23
+Mujer,354,Paradoxe Intense,Prada,Adriana,Santos,27,2024-02-13,arturojulia@example.com,394,7
+Mujer,200,Femme Intense,Thierry Mugler,Luisa,Gimenez,33,2024-01-26,jose-carlos24@example.org,716,17
+Mujer,97,Lady Million,Georgio Armani,Carmen,Castillo,37,2024-02-12,blasiniguez@example.net,852,15
+Mujer,698,Paradoxe EDP,Zadig & Voltaire,Ana,Gomez,21,2024-02-01,qrovira@example.net,576,13
+Mujer,110,J Adore Infinissime,Cacharel,Nerea,Castillo,36,2024-02-03,teofila63@example.org,813,18
+Mujer,107,Daisy Love,Prada,Carolina,Dominguez,40,2024-01-30,manuel16@example.net,266,18
+Mujer,554,Imperatrice 3,Georgio Armani,Carmen,Guzman,60,2024-02-23,alegreangelica@example.net,74,22
+Mujer,575,Si Passione,Cacharel,Carolina,Garcia,67,2024-02-10,oprat@example.org,177,20
+Mujer,198,Olympea Solar,Thierry Mugler,Gloria,Torres,31,2024-01-16,kbriones@example.net,635,12
+Mujer,518,Good Girl, Lancome,Rocio,Fernandez,64,2024-01-10,fortunato20@example.net,403,1
+Mujer,63,Imperatrice 3,Marc Jacobs,Carolina,Gimenez,68,2024-01-19,pacocuesta@example.com,795,2
+Mujer,403,Black Opium green,Chloe,Carolina,Fernandez,39,2024-01-30,luzbernat@example.com,198,10
+Mujer,94,Olympea Solar,Dior,Isabel,Guzman,41,2024-01-12,hbayon@example.org,58,10
+Mujer,532,Si Passione, Lancome,Nuria,Nunez,61,2024-01-05,cverdu@example.org,535,14
+Mujer,475,Libre EDT,Dior,Pilar,Perez,41,2024-01-15,lsolera@example.net,863,22
+Mujer,683,Good Girl Supreme,Jimmy ChooCarolina Herrera,Lucia,Martinez,67,2024-02-12,bellidosilvio@example.net,589,1
+Mujer,546,The only one her, Lancome,Cristina,Castillo,42,2024-01-23,maria-josemenendez@example.net,879,14
+Mujer,174,Black Opium green,Chloe,Vanessa,Torres,33,2024-01-07,dimasropero@example.com,334,10
+Mujer,430,Very Good Girl Glam,Jimmy Choo,Lorena,Serrano,62,2024-02-22,prudencia96@example.org,354,19
+Mujer,314,Idole nectar,Adolfo Dominguez,Pilar,Guerrero,25,2024-01-13,nmachado@example.net,650,21
+Mujer,83,Daisy Love,Dior,Pilar,Serrano,62,2024-02-13,amancio29@example.net,369,7
+Mujer,651,Infusion de Figue,Jimmy Choo,Esther,Santos,40,2024-02-15,felicianaoller@example.org,731,17
+Mujer,744,Good Girl Supreme,Prada,Rosa,Castillo,28,2024-01-14,valenzuelafilomena@example.com,305,22
+Mujer,165,The Scent Her, Lancome,Vanessa,Iglesias,51,2024-01-26,catalina53@example.com,679,19
+Mujer,292,212 heroes her, Lancome,Isabel,Medina,49,2024-01-16,evangelinaferrera@example.com,513,4
+Mujer,292,The Scent Her,Georgio Armani,Gloria,Gomez,46,2024-01-30,parejamariano@example.com,609,14
+Mujer,235,Alien her,Thierry Mugler,Julia,Ortega,45,2024-01-04,vilanovajulian@example.org,650,24
+Mujer,430,Paradoxe Intense,Jimmy Choo,Leticia,Calvo,28,2024-02-16,godofredotena@example.com,535,15
+Mujer,238,My Way Le Parfum,Dior,Sara,Torres,61,2024-01-21,nestoranglada@example.org,522,7
+Mujer,85,Mon G Bloom,Adolfo Dominguez,Paula,Guzman,48,2024-02-25,adanvaleria@example.com,770,17
+Mujer,676,L Interdir Rouge,Jimmy ChooCarolina Herrera,Silvia,Medina,66,2024-01-04,wyuste@example.org,813,3
+Mujer,690,Musc Noir for her,Jimmy Choo,Paula,Vázquez,67,2024-01-10,claramiro@example.net,381,15
+Mujer,586,Dior Addict,Zadig & Voltaire,Sara,Alvarez,29,2024-02-16,ramiro69@example.com,150,23
+Mujer,65,L Interdir Rouge,Georgio Armani,Ines,Santos,22,2024-01-22,fabian04@example.net,63,5
+Mujer,211,Good Girl,Thierry Mugler,Alicia,Perez,67,2024-02-11,fernandovall@example.org,753,13
+Mujer,300,La Petite Noire Rose,Bad Boy Elixir,Vanessa,Ortega,52,2024-02-12,zalcalde@example.org,288,17
+Mujer,638,Si Passione,Chloe,Carmen,Dominguez,50,2024-01-13,severiano28@example.org,606,10
+Mujer,369,My Way Le Parfum,Prada,Monica,Rubio,49,2024-02-26,vinicioabad@example.org,832,17
+Mujer,205,Poison EDT, Lancome,Rocio,Santos,53,2024-01-09,fsaez@example.com,805,1
+Mujer,317,Femme Intense,Dior,Sandra,Gutierrez,38,2024-02-12,prudencio31@example.org,248,5
+Mujer,730,Imperatrice 3,Bad Boy Elixir,Vanessa,Ramos,27,2024-01-02,ciriacomontoya@example.net,797,14
+Mujer,312,Paradoxe EDP,Cacharel,Lucia,Luna,50,2024-02-23,ani66@example.org,468,6
+Mujer,515,Scandal Le Parfum,Cacharel,Luisa,Calvo,61,2024-01-04,pinillaleyre@example.net,333,22
+Mujer,528,Code Absolu woman,Bad Boy Elixir,Teresa,Gonzalez del Olmo,28,2024-02-13,palomohermenegildo@example.org,820,18
+Mujer,68,Idole nectar, Lancome,Natalia,Lozano,52,2024-01-12,blancamanolo@example.com,570,17
+Mujer,237,Divine,Georgio Armani,Miriam,Medina,35,2024-02-11,pereirafausto@example.org,534,16
+Mujer,516,Libre Le Parfum, Lancome,Esther,Gomez,50,2024-01-08,tviana@example.com,94,24
+Mujer,124,Black Opium extreme,Dior,Adriana,Fernandez,46,2024-02-27,qmartorell@example.net,351,14
+Mujer,89,Divine,Jean Paul Gaultier,Rosa,Guerrero,18,2024-02-12,nereaportero@example.net,207,14
+Mujer,559,Musc Noir for her,Zadig & Voltaire,Patricia,Alvarez,41,2024-02-08,jimena47@example.net,529,20
+Mujer,277,Rose Passion,Marc Jacobs,Nerea,Gimenez,56,2024-02-03,xiomarafortuny@example.com,455,6
+Mujer,647,The only one her,Jimmy Choo,Luisa,Perez,24,2024-01-08,anabel27@example.com,267,11
+Mujer,467,Miss Dior,Adolfo Dominguez,Marta,Santos,52,2024-02-09,condeana@example.org,101,13
+Mujer,54,My Way Le Parfum,Chloe,Carolina,Guerrero,31,2024-02-11,luis-miguelvillegas@example.net,324,7
+Mujer,300,Q,Georgio Armani,Clara,Guerrero,29,2024-02-08,olmofrancisca@example.com,660,18
+Mujer,179,L Interdir Rouge,Jimmy Choo,Nuria,Rodriguezi,49,2024-02-15,baldomeronoguera@example.net,354,24
+Mujer,108,This is Her ,Dior,Pilar,Guerrero,50,2024-02-25,marianevado@example.com,416,25
+Mujer,620,Q, Lancome,Paula,Montero,19,2024-01-02,rtamayo@example.net,190,1
+Mujer,446,Good Girl Blush,Cacharel,Clara,Alvarez,60,2024-01-07,nadalmorena@example.org,191,14
+Mujer,497,Miss Dior,Jimmy ChooCarolina Herrera,Nerea,Calvo,43,2024-02-17,beldamartina@example.com,85,11
+Mujer,466,Chloe absolute,Dior,Laura,Navarro,43,2024-02-19,ipedrero@example.org,746,18
+Mujer,397,La Belle Parfum,Jimmy ChooCarolina Herrera,Cristina,Martinez,34,2024-01-11,wgarate@example.com,575,4
+Mujer,516,Good Girl Blush,Zadig & Voltaire,Luisa,Torres,70,2024-01-15,jose71@example.org,291,10
+Mujer,662,Good Girl, Lancome,Ines,Diaz,37,2024-02-09,hescudero@example.com,380,16
+Mujer,143,Good Girl Supreme,Jimmy Choo,Lucia,Guzman,46,2024-02-19,cuadradomartin@example.org,765,22
+Mujer,207,Infusion de Figue, Lancome,Silvia,Ortiz,40,2024-01-03,carlacases@example.org,649,7
+Mujer,716,Libre EDT,Cacharel,Silvia,Calvo,41,2024-01-31,rafaelvila@example.com,250,23
+Mujer,450,Olympea Solar,Bad Boy Elixir,Alicia,Ortiz,60,2024-01-07,toribio40@example.com,438,5
+Mujer,175,Libre Absolu,Zadig & Voltaire,Marina,Suarez,52,2024-02-21,jpalomares@example.com,749,15
+Mujer,440,Alien her,Marc Jacobs,Pilar,Cortes,23,2024-01-26,isabela42@example.org,139,16
+Mujer,417,J Adore EDP,Marc Jacobs,Elena,Alvarez,26,2024-01-04,lfrias@example.org,787,5
+Mujer,566,Femme Parfum,Adolfo Dominguez,Monica,Guerrero,56,2024-02-25,veralledo@example.net,123,4
+Mujer,383,Femme Parfum,Jimmy Choo,Natalia,Serrano,57,2024-01-04,jose-carlos15@example.org,583,21
+Mujer,120,J Adore Infinissime,Adolfo Dominguez,Gloria,Castillo,35,2024-02-10,zapatanatividad@example.org,67,15
+Mujer,437,Idole nectar,Thierry Mugler,Pilar,Fernandez,34,2024-02-19,encarna16@example.net,779,22
+Mujer,661,Black Opium extreme,Chloe,Adriana,Ortiz,37,2024-01-31,montserrat56@example.com,514,8
+Mujer,608,Chloe absolute,Jimmy Choo,Cristina,Gonzalez del Olmo,54,2024-01-09,pverdejo@example.com,192,13
+Mujer,54,Black Opium extreme,Chloe,Rosa,Molina,34,2024-02-26,trinidad14@example.org,119,9
+Mujer,514,Poison EDP,Chloe,Esther,Cortes,54,2024-02-20,urrutiaaura@example.org,498,14
+Mujer,412,Mon G Bloom,Zadig & Voltaire,Carmen,Santos,40,2024-02-20,fernandapalomar@example.com,101,6
+Mujer,568,This is really her,Jean Paul Gaultier,Natalia,Torres,57,2024-01-11,nconesa@example.com,382,6
+Mujer,748,Libre Le Parfum,Prada,Lucia,Cortes,70,2024-01-10,ramonpinto@example.org,195,22
+Mujer,332,Devotion,Chloe,Laura,Guerrero,68,2024-02-23,alondra87@example.com,327,23
+Mujer,649,Alien her, Lancome,Ines,Marin,49,2024-01-14,lupequerol@example.com,848,22
+Mujer,230,Idole Aura,Chloe,Luisa,Suarez,29,2024-01-24,segismundo96@example.org,193,25
+Mujer,524,Pure Musc, Lancome,Marina,Lopez,47,2024-02-14,desiderio80@example.org,284,7
+Mujer,378,212 heroes her,Chloe,Miriam,Montero,67,2024-01-26,etelvina67@example.org,785,11
+Mujer,315,This is Her ,Adolfo Dominguez,Ines,Cortes,40,2024-01-01,ztomas@example.org,339,3
+Mujer,623,Olympea Solar,Jean Paul Gaultier,Lucia,Iglesias,21,2024-01-05,proman@example.net,380,4
+Mujer,89,Very Good Girl Glam,Adolfo Dominguez,Alicia,Luna,46,2024-02-10,estela54@example.net,457,7
+Mujer,365,Paradoxe EDP,Cacharel,Lucia,Cortes,32,2024-01-13,pontlaura@example.com,344,15
+Mujer,580,Daisy Love,Prada,Isabel,Alvarez,66,2024-01-30,gregorio76@example.org,393,24
+Mujer,612,Alien her,Dior,Paula,Ramírez,59,2024-01-17,wtovar@example.com,564,6
+Mujer,221,Mon G Bloom,Adolfo Dominguez,Marina,Serrano,39,2024-01-29,jose-manuelmillan@example.net,573,13
+Mujer,77,La Belle Garden ,Marc Jacobs,Marta,Vázquez,44,2024-02-24,violetaporcel@example.net,190,20
+Mujer,702,Paradoxe Intense,Bad Boy Elixir,Patricia,Ramírez,63,2024-02-23,arizaazeneth@example.net,882,21
+Mujer,104,212 heroes her,Cacharel,Patricia,Romero,64,2024-02-23,nacho89@example.net,349,5
+Mujer,209,Rose Passion,Chloe,Lorena,Vázquez,56,2024-02-16,saturnina07@example.org,248,15
+Mujer,623,Code Absolu woman,Zadig & Voltaire,Esther,Diaz,48,2024-02-23,riosezequiel@example.org,727,16
+Mujer,632,Miss Dior,Thierry Mugler,Alicia,Lozano,46,2024-02-16,guillermo94@example.com,322,7
+Mujer,156,Si Passione,Chloe,Vanessa,Ortega,69,2024-01-07,crios@example.org,898,7
+Mujer,277,Rose Passion,Jean Paul Gaultier,Miriam,Luna,35,2024-02-21,gilhernandez@example.org,465,23
+Mujer,320,212 heroes her,Cacharel,Lorena,Garcia,61,2024-02-10,diegosalinas@example.com,851,7
+Mujer,583,Divine,Chloe,Sandra,Diaz,53,2024-02-27,herberto61@example.org,295,19
+Mujer,664,Very Good Girl EDP,Bad Boy Elixir,Lorena,Suarez,61,2024-02-22,olalla35@example.org,556,7
+Mujer,522,Good Girl Supreme, Lancome,Vanessa,Garcia,58,2024-02-25,ovaldes@example.net,856,6
+Mujer,569,Black Opium over red,Bad Boy Elixir,Clara,Martinez,49,2024-01-16,epifanioduque@example.com,773,2
+Mujer,642,The only one her,Marc Jacobs,Sandra,Torres,46,2024-02-27,gmanjon@example.net,67,19
+Mujer,82,Alien her,Jean Paul Gaultier,Alicia,Morales,24,2024-01-01,riberaevita@example.com,33,17
+Mujer,725,La Petite Noire Rose,Jimmy Choo,Gloria,Torres,34,2024-01-17,casanovaamanda@example.com,339,20
+Mujer,144,Divine,Thierry Mugler,Carmen,Romero,44,2024-02-27,silvestre99@example.net,225,11
+Mujer,562,Alien her,Chloe,Nuria,Gimenez,25,2024-01-08,wbuendia@example.org,640,10
+Mujer,477,Very Good Girl Glam,Dior,Leticia,Torres,43,2024-01-21,ylarrea@example.com,647,21
+Mujer,302,Black Opium over red,Jimmy ChooCarolina Herrera,Marina,Gonzalez del Olmo,43,2024-02-14,ciriaco18@example.net,326,14
+Mujer,90,J Adore Infinissime,Bad Boy Elixir,Verónica,Montero,38,2024-01-12,bocana@example.org,692,13
+Mujer,460,Paradoxe EDP,Cacharel,Verónica,Ramírez,21,2024-02-12,ulises84@example.org,242,4
+Mujer,325,La Petite Noire Rose, Lancome,Lorena,Medina,18,2024-01-30,galo95@example.com,534,17
+Mujer,486,L Interdir Rouge,Dior,Miriam,Rodriguezi,36,2024-01-19,nicolasa68@example.org,101,8
+Mujer,607,Good Girl Blush,Adolfo Dominguez,Cristina,Montero,39,2024-01-22,zaragozalina@example.org,274,3
+Mujer,511,Femme Parfum,Adolfo Dominguez,Nuria,Ortega,69,2024-01-11,salome34@example.com,784,8
+Mujer,619,Lady Million,Adolfo Dominguez,Alicia,Ortega,67,2024-02-27,fcriado@example.net,44,15
+Mujer,268,J Adore Infinissime,Cacharel,Nerea,Marin,58,2024-02-27,ferrandizroman@example.net,118,17
+Mujer,628,Pure Musc,Prada,Maria,Ramos,46,2024-01-22,xcoca@example.com,39,21
+Mujer,122,Good Girl,Marc Jacobs,Leticia,Romero,45,2024-01-28,efont@example.net,796,22
+Mujer,410,Good Girl Supreme,Thierry Mugler,Marta,Montero,34,2024-01-05,amor08@example.com,73,16
+Mujer,256,Imperatrice 3,Dior,Lorena,Ramos,34,2024-02-12,hidalgoamerica@example.org,609,22
+Mujer,495,Q,Dior,Beatriz,Alvarez,45,2024-02-13,miguel70@example.net,542,4
+Mujer,179,La Petite Noire Rose,Dior,Sara,Luna,64,2024-02-20,regulo64@example.net,302,9
+Mujer,363,Devotion,Jimmy ChooCarolina Herrera,Luisa,Martinez,44,2024-02-22,kberenguer@example.net,567,22
+Mujer,587,Black Opium over red,Bad Boy Elixir,Sandra,Calvo,61,2024-02-12,ksebastian@example.net,38,9
+Mujer,148,Femme intense,Zadig & Voltaire,Luisa,Vázquez,29,2024-01-12,campseli@example.org,895,2
+Mujer,598,Infusion de Figue,Georgio Armani,Monica,Gomez,33,2024-01-26,sarabiaamador@example.org,48,18
+Mujer,463,Musc Noir for her,Dior,Maria,Rubio,26,2024-02-17,soriaaitana@example.com,79,11
+Mujer,304,J Adore Infinissime,Thierry Mugler,Marta,Castillo,44,2024-02-04,busquetspancho@example.org,757,9
+Mujer,252,This is Her ,Dior,Sara,Medina,23,2024-01-10,emiliana24@example.com,688,14
+Mujer,541,Si Passione,Jimmy Choo,Alicia,Lopez,24,2024-02-23,lorenzo54@example.org,809,18
+Mujer,658,Black Opium extreme,Thierry Mugler,Carmen,Gonzalez del Olmo,38,2024-02-15,apoloniagimenez@example.org,595,9
+Mujer,533,This is really her,Cacharel,Lucia,Nunez,39,2024-02-24,zacariasdiego@example.net,428,17
+Mujer,585,212 heroes her,Thierry Mugler,Beatriz,Molina,61,2024-01-18,valeroguardiola@example.net,590,23
+Mujer,663,Musc Noir for her,Georgio Armani,Sandra,Santos,61,2024-02-26,florencio55@example.net,789,17
+Mujer,376,Imperatrice 3,Jimmy Choo,Rocio,Luna,69,2024-01-04,dalsina@example.net,420,24
+Mujer,482,Dior Addict,Thierry Mugler,Sandra,Calvo,30,2024-01-29,wcorominas@example.com,838,1
+Mujer,430,Daisy Love,Thierry Mugler,Marina,Diaz,34,2024-01-18,cramis@example.net,239,22
+Mujer,716,Libre Le Parfum,Georgio Armani,Ines,Molina,30,2024-01-11,fabioartigas@example.com,707,16
+Mujer,572,Chloe absolute,Jimmy ChooCarolina Herrera,Patricia,Diaz,29,2024-02-03,arocarosalia@example.com,364,3
+Mujer,470,Femme Intense,Thierry Mugler,Rocio,Perez,49,2024-01-01,tomeonofre@example.com,536,4
+Mujer,715,Olympea Solar,Dior,Paula,Torres,41,2024-01-31,ibelda@example.org,874,17
+Mujer,198,Good Girl,Marc Jacobs,Nuria,Gomez,55,2024-01-10,leyreenriquez@example.net,640,10
+Mujer,690,Poison EDT, Lancome,Nuria,Romero,61,2024-02-15,rnovoa@example.com,299,13
+Mujer,691,Chloe absolute, Lancome,Lorena,Cortes,67,2024-02-27,canalscelestino@example.net,273,11
+Mujer,680,Femme Parfum,Cacharel,Raquel,Ramos,59,2024-02-23,rosaura49@example.net,544,2
+Mujer,436,Lady Million,Georgio Armani,Rosa,Calvo,47,2024-01-19,uferrando@example.org,184,17
+Mujer,67,Q,Marc Jacobs,Alicia,Torres,29,2024-01-15,valerafanny@example.net,756,12
+Mujer,88,My Way Le Parfum,Thierry Mugler,Cristina,Herrera,60,2024-02-16,jflores@example.net,433,17
+Mujer,299,Idole Aura,Prada,Pilar,Guzman,46,2024-02-14,isaiassolana@example.com,60,10
+Mujer,628,My Way Nectar,Dior,Gloria,Ortega,62,2024-01-17,aguirreevangelina@example.com,631,3
+Mujer,623,Idole Aura,Bad Boy Elixir,Nuria,Gimenez,27,2024-01-29,lazaro75@example.net,399,12
+Mujer,521,Imperatrice 3,Jimmy Choo,Patricia,Martinez,42,2024-02-08,pinillamontserrat@example.com,715,11
+Mujer,656,Si Passione,Chloe,Carolina,Lopez,30,2024-02-10,jordimarquez@example.net,401,24
+Mujer,540,Olympea Solar,Jimmy ChooCarolina Herrera,Beatriz,Santos,18,2024-01-02,juanmoreno@example.com,569,1
+Mujer,553,Lady Million,Dior,Carmen,Ortega,62,2024-01-04,almamacias@example.org,274,17
+Mujer,501,Imperatrice 3, Lancome,Diana,Ortiz,49,2024-01-09,barbaileana@example.com,254,4
+Mujer,683,Daisy Love,Prada,Gloria,Nunez,45,2024-01-26,jvalenzuela@example.net,624,21
+Mujer,324,Dior Addict,Cacharel,Marta,Guzman,70,2024-01-04,guadalupepaniagua@example.org,239,4
+Mujer,354,212 heroes her,Cacharel,Natalia,Fernandez,70,2024-01-06,polyesica@example.net,128,8
+Mujer,564,Yes I Am,Chloe,Verónica,Ortiz,32,2024-02-17,spalau@example.org,113,1
+Mujer,94,La Belle Garden ,Dior,Adriana,Serrano,61,2024-01-04,mateosedmundo@example.net,548,4
+Mujer,738,La Petite Noire Rose,Thierry Mugler,Elena,Molina,48,2024-01-07,aalsina@example.net,468,25
+Mujer,518,Pure Musc,Marc Jacobs,Verónica,Castillo,70,2024-01-18,pepitaiglesia@example.com,387,9
+Mujer,169,Paradoxe Intense,Chloe,Pilar,Medina,53,2024-02-15,smorell@example.com,308,3
+Mujer,464,La Belle Garden ,Prada,Lorena,Fernandez,56,2024-01-04,rosalvaolivera@example.org,69,19
+Mujer,301,Chloe absolute, Lancome,Cristina,Alvarez,41,2024-01-20,heliodoro02@example.net,142,7
+Mujer,476,212 heroes her,Bad Boy Elixir,Adriana,Ramos,37,2024-02-22,llorensfelipa@example.com,793,18
+Mujer,437,Femme Parfum,Jean Paul Gaultier,Nerea,Vázquez,66,2024-01-27,crespobruno@example.com,111,25
+Mujer,610,Pure Musc,Jean Paul Gaultier,Nerea,Gonzalez del Olmo,66,2024-02-14,lramirez@example.org,625,7
+Mujer,362,Mon G Bloom,Cacharel,Patricia,Serrano,69,2024-02-25,mnicolas@example.org,643,23
+Mujer,193,Q, Lancome,Pilar,Ortega,18,2024-02-15,serafinaarmengol@example.com,900,17
+Mujer,538,My Way Le Parfum,Adolfo Dominguez,Maria,Gimenez,28,2024-01-31,lmanzanares@example.com,566,5
+Mujer,410,Libre EDT,Marc Jacobs,Clara,Santos,20,2024-01-10,isaacurrutia@example.net,533,13
+Mujer,744,Imperatrice 3,Jean Paul Gaultier,Natalia,Marin,68,2024-02-15,wcaro@example.net,651,18
+Mujer,106,Chloe absolute,Zadig & Voltaire,Isabel,Martinez,57,2024-01-08,oasenjo@example.com,817,14
+Mujer,309,Classique for her,Bad Boy Elixir,Adriana,Luna,23,2024-02-25,gabrielchico@example.com,629,12
+Mujer,435,Q, Lancome,Pilar,Serrano,55,2024-01-19,maximilianocornejo@example.org,302,10
+Mujer,696,Classique for her, Lancome,Vanessa,Torres,66,2024-01-06,casalsjose-luis@example.com,614,17
+Mujer,76,The only one her,Thierry Mugler,Teresa,Navarro,61,2024-01-27,minguezestefania@example.net,248,4
+Mujer,649,The Scent Her,Jimmy ChooCarolina Herrera,Clara,Herrera,48,2024-02-02,rocamoraalberto@example.net,306,23
+Mujer,236,212 heroes her,Chloe,Adriana,Medina,36,2024-01-17,acevedovictoria@example.net,784,15
+Mujer,502,Femme Intense,Marc Jacobs,Patricia,Diaz,19,2024-02-25,josepgalan@example.com,812,7
+Mujer,588,Very Good Girl EDP,Zadig & Voltaire,Patricia,Fernandez,29,2024-02-17,reyesbonilla@example.net,111,16
+Mujer,443,The only one,Jimmy ChooCarolina Herrera,Isabel,Montero,42,2024-01-31,lperera@example.net,725,14
+Mujer,370,Dior Addict,Jean Paul Gaultier,Raquel,Gomez,65,2024-01-19,camaya@example.org,232,16
+Mujer,318,Femme Intense,Zadig & Voltaire,Julia,Gomez,26,2024-02-26,atilio03@example.org,748,22
+Mujer,712,Mon G Bloom,Jimmy ChooCarolina Herrera,Carmen,Rubio,68,2024-01-31,adelina27@example.com,538,9
+Mujer,584,La Belle Parfum,Jean Paul Gaultier,Cristina,Rubio,43,2024-01-08,gvilla@example.com,345,21
+Mujer,385,Femme Intense,Adolfo Dominguez,Elena,Morales,64,2024-01-18,valeriosantana@example.com,696,9
+Mujer,516,Classique for her,Marc Jacobs,Esther,Fernandez,46,2024-02-22,luis-angeltejero@example.net,824,11
+Mujer,289,Very Good Girl EDP,Georgio Armani,Paula,Ortiz,42,2024-01-15,nmartorell@example.com,559,2
+Mujer,319,Miss Dior,Jimmy Choo,Elena,Gomez,62,2024-02-01,ferranpiedad@example.org,532,11
+Mujer,750,Paradoxe EDP,Cacharel,Beatriz,Guerrero,54,2024-01-13,maria-jesusandres@example.net,578,25
+Mujer,93,Infusion de Figue,Jimmy ChooCarolina Herrera,Marta,Herrera,60,2024-02-14,jessica07@example.net,198,18
+Mujer,191,My Way Le Parfum,Dior,Cristina,Cortes,55,2024-01-31,jvigil@example.net,835,18
+Mujer,466,La Belle Garden ,Zadig & Voltaire,Ana,Perez,59,2024-02-12,gfonseca@example.net,337,13
+Mujer,380,Code Absolu woman,Jimmy Choo,Lorena,Cortes,69,2024-02-20,baqueromaura@example.net,577,11
+Mujer,418,Good Girl,Dior,Nerea,Suarez,20,2024-01-26,vivianapolo@example.net,92,11
+Mujer,358,My Way Le Parfum,Chloe,Julia,Calvo,40,2024-01-25,ktovar@example.com,308,13
+Mujer,574,Miss Dior, Lancome,Natalia,Morales,47,2024-02-13,micaela12@example.com,583,9
+Mujer,551,The only one,Bad Boy Elixir,Ines,Ramos,28,2024-02-21,sosimoroldan@example.net,108,22
+Mujer,703,Lady Million,Prada,Vanessa,Gimenez,41,2024-01-28,iiniguez@example.com,516,11
+Mujer,207,Miss Dior,Adolfo Dominguez,Sandra,Gonzalez del Olmo,65,2024-01-18,humberto63@example.com,317,15
+Mujer,740,Idole Aura,Thierry Mugler,Rosa,Luna,22,2024-02-16,isabel03@example.com,536,23
+Mujer,634,Black Opium extreme, Lancome,Clara,Romero,48,2024-02-26,abel87@example.net,777,3
+Mujer,576,212 heroes her,Adolfo Dominguez,Adriana,Alvarez,53,2024-01-13,becerraildefonso@example.org,319,12
+Mujer,602,Mon G Bloom,Adolfo Dominguez,Elena,Cortes,46,2024-01-02,adalberto30@example.org,543,9
+Mujer,150,Chloe absolute,Prada,Natalia,Ortega,31,2024-01-04,qfrancisco@example.net,401,1
+Mujer,680,Dior Addict,Cacharel,Carmen,Marin,47,2024-01-02,paca72@example.com,851,11
+Mujer,182,Paradoxe Intense,Jimmy Choo,Nuria,Suarez,56,2024-01-14,canalesnatanael@example.net,739,17
+Mujer,477,Mon G Bloom,Dior,Marina,Suarez,59,2024-02-21,iniguezana@example.com,641,19
+Mujer,597,Scandal Le Parfum,Jimmy ChooCarolina Herrera,Ana,Vázquez,57,2024-01-23,rlorenzo@example.net,442,15
+Mujer,113,Dior Addict,Dior,Julia,Ramos,63,2024-01-05,roblesadriana@example.org,306,5
+Mujer,56,Libre EDT,Thierry Mugler,Laura,Molina,32,2024-01-26,abigailsalcedo@example.net,384,14
+Mujer,656,Fleur D Oranger,Cacharel,Raquel,Romero,23,2024-01-27,sruiz@example.org,392,25
+Mujer,78,This is really her,Marc Jacobs,Nerea,Alvarez,63,2024-02-13,salamancajeronimo@example.org,752,14
+Mujer,550,Daisy Love,Dior,Pilar,Garcia,34,2024-01-20,zcastell@example.com,657,20
+Mujer,403,Black Opium over red,Prada,Leticia,Dominguez,61,2024-02-07,fernandezazahara@example.org,558,12
+Mujer,182,Black Opium green,Thierry Mugler,Silvia,Santos,43,2024-01-18,adelaidazorrilla@example.com,734,6
+Mujer,635,Olympea Solar,Bad Boy Elixir,Silvia,Castillo,58,2024-01-26,teclapazos@example.com,334,20
+Mujer,236,Dior Addict,Cacharel,Leticia,Dominguez,18,2024-01-09,tamara84@example.net,623,14
+Mujer,727,212 heroes her,Adolfo Dominguez,Vanessa,Romero,64,2024-02-22,ktorres@example.net,164,12
+Mujer,390,Devotion,Chloe,Monica,Medina,57,2024-02-01,cidsoledad@example.com,101,10
+Mujer,217,Black Opium over red,Zadig & Voltaire,Julia,Calvo,29,2024-02-15,diazeusebia@example.net,122,13
+Mujer,747,Fleur D Oranger,Adolfo Dominguez,Ines,Alvarez,29,2024-01-30,romeuevangelina@example.org,736,1
+Mujer,596,Poison EDT,Georgio Armani,Pilar,Iglesias,23,2024-01-16,srojas@example.net,893,9
+Mujer,135,Infusion de Figue,Chloe,Miriam,Fernandez,26,2024-01-19,camilaparejo@example.net,427,8
+Mujer,507,Yes I Am,Jimmy Choo,Rocio,Alvarez,46,2024-02-12,benigno23@example.com,127,5
+Mujer,121,Poison EDT, Lancome,Nerea,Rubio,23,2024-02-20,salvadorflores@example.org,246,18
+Mujer,408,Infusion de Figue, Lancome,Maria,Torres,57,2024-02-01,asolana@example.org,761,18
+Mujer,151,Poison EDP, Lancome,Miriam,Nunez,56,2024-01-26,olivia67@example.org,335,9
+Mujer,327,La Petite Noire Rose,Zadig & Voltaire,Teresa,Montero,26,2024-01-27,almeidagraciano@example.org,158,20
+Mujer,639,Chloe absolute,Cacharel,Sara,Romero,48,2024-02-15,claudiobenitez@example.com,508,15
+Mujer,200,Black Opium green,Cacharel,Elena,Santos,45,2024-01-05,espanolsilvio@example.com,140,18
+Mujer,199,My Way Le Parfum,Chloe,Gloria,Guzman,40,2024-02-13,socorrocampillo@example.net,200,22
+Mujer,118,Dior Addict,Zadig & Voltaire,Gloria,Montero,69,2024-02-21,jose-carloscanales@example.net,41,6
+Mujer,75,My Way Nectar,Bad Boy Elixir,Gloria,Santos,38,2024-01-11,borja38@example.net,494,6
+Mujer,475,La Belle Parfum,Adolfo Dominguez,Vanessa,Ortiz,37,2024-02-12,evaristovaldes@example.org,476,20
+Mujer,144,Paradoxe Intense, Lancome,Clara,Guerrero,45,2024-01-07,nbarriga@example.net,513,7
+Mujer,281,Rose Passion,Zadig & Voltaire,Alicia,Ramos,47,2024-02-24,marcomarcia@example.net,233,10
+Mujer,705,Femme Parfum,Jimmy Choo,Patricia,Rodriguezi,54,2024-02-07,zbravo@example.com,885,4
+Mujer,561,The Scent Her,Jimmy Choo,Vanessa,Dominguez,33,2024-02-17,lluchcruz@example.com,620,5
+Mujer,265,My Way Intense,Marc Jacobs,Esther,Garcia,62,2024-02-27,lupe51@example.net,101,1
+Mujer,97,Miss Dior,Jimmy Choo,Alicia,Romero,29,2024-01-19,efrainmariscal@example.com,874,7
+Mujer,503,J Adore Infinissime,Jean Paul Gaultier,Laura,Castillo,70,2024-02-25,aitana85@example.com,102,20
+Mujer,102,My Way Nectar,Bad Boy Elixir,Vanessa,Dominguez,55,2024-02-23,salomon83@example.net,546,18
+Mujer,246,Good Girl,Adolfo Dominguez,Marina,Rodriguezi,18,2024-02-04,titogranados@example.com,174,9
+Mujer,649,Q,Marc Jacobs,Cristina,Santos,29,2024-02-21,ainoacasares@example.com,517,24
+Mujer,149,Femme Parfum, Lancome,Ana,Marin,34,2024-01-25,sugarte@example.org,690,3
+Mujer,454,Good Girl Blush,Cacharel,Beatriz,Medina,24,2024-01-20,iferrera@example.org,165,18
+Mujer,306,Very Good Girl EDP,Bad Boy Elixir,Raquel,Suarez,48,2024-02-16,xcueto@example.com,160,7
+Mujer,677,Q,Zadig & Voltaire,Verónica,Navarro,49,2024-02-03,candres@example.org,267,21
+Mujer,172,Chloe absolute,Thierry Mugler,Carolina,Luna,68,2024-02-09,che13@example.com,802,2
+Mujer,536,My Way Nectar,Adolfo Dominguez,Raquel,Nunez,70,2024-02-07,chicoblas@example.org,592,2
+Mujer,406,L Interdir Rouge,Bad Boy Elixir,Cristina,Iglesias,56,2024-01-18,anaalmagro@example.com,715,7
+Mujer,718,Femme Parfum,Bad Boy Elixir,Pilar,Lozano,57,2024-01-03,simon35@example.com,757,16
+Mujer,699,Daisy Love,Thierry Mugler,Sandra,Garcia,64,2024-02-04,tguzman@example.net,777,18
+Mujer,622,Idole Aura, Lancome,Silvia,Montero,60,2024-01-19,asuncion15@example.net,897,5
+Mujer,591,La Vie Est Belle Intense,Jean Paul Gaultier,Esther,Guzman,48,2024-02-15,jrivero@example.com,513,23
+Mujer,442,Dior Addict,Jean Paul Gaultier,Adriana,Nunez,42,2024-01-11,splana@example.com,159,25
+Mujer,198,Si Passione,Bad Boy Elixir,Sandra,Martinez,51,2024-02-14,macaria09@example.org,464,3
+Mujer,508,Very Good Girl EDP,Jimmy Choo,Pilar,Martinez,52,2024-01-03,osunatomas@example.com,754,4
+Mujer,121,Q,Zadig & Voltaire,Elena,Lozano,27,2024-02-25,david82@example.net,214,15
+Mujer,183,Libre EDT,Cacharel,Maria,Fernandez,66,2024-01-12,calistopazos@example.org,870,8
+Mujer,470,La Belle Garden ,Cacharel,Cristina,Rodriguezi,24,2024-02-02,pia91@example.com,251,15
+Mujer,592,Libre Le Parfum,Marc Jacobs,Monica,Herrera,70,2024-01-23,yferrandez@example.org,118,17
+Mujer,706,Lady Million,Thierry Mugler,Elena,Vázquez,64,2024-02-22,ernesto25@example.org,533,6
+Mujer,255,Si Passione,Jimmy Choo,Gloria,Morales,65,2024-01-09,venceslashurtado@example.org,758,19
+Mujer,720,La Petite Noire Rose, Lancome,Lucia,Rubio,21,2024-01-31,zbernal@example.net,892,8
+Mujer,94,Mon G Bloom,Jean Paul Gaultier,Sandra,Suarez,29,2024-02-20,montesinoscintia@example.net,87,15
+Mujer,211,Mon G Bloom,Dior,Clara,Gutierrez,52,2024-02-18,pamador@example.org,321,14
+Mujer,264,La Vie Est Belle Intense,Chloe,Esther,Diaz,36,2024-01-10,artigasdominga@example.org,440,15
+Mujer,107,Imperatrice 3,Prada,Gloria,Alvarez,51,2024-02-02,alvaro48@example.com,853,24
+Mujer,478,Idole nectar,Thierry Mugler,Maria,Medina,47,2024-01-06,maximafajardo@example.org,475,17
+Mujer,364,Femme intense,Chloe,Esther,Romero,69,2024-01-19,epalomares@example.com,658,20
+Mujer,283,Good Girl Supreme,Adolfo Dominguez,Miriam,Lozano,42,2024-01-26,montserratfausto@example.com,673,15
+Mujer,411,212 heroes her,Jimmy Choo,Silvia,Castillo,42,2024-01-22,caminodora@example.com,874,23
+Mujer,348,Code Absolu woman,Zadig & Voltaire,Julia,Guzman,60,2024-02-06,bbarroso@example.com,83,8
+Mujer,547,Very Good Girl Glam,Thierry Mugler,Sara,Garcia,27,2024-02-05,sandra64@example.com,604,20
+Mujer,174,Chloe absolute,Jean Paul Gaultier,Gloria,Ortiz,57,2024-02-23,bcordero@example.org,492,15
+Mujer,545,La Belle Garden ,Georgio Armani,Rosa,Molina,59,2024-01-15,adoraciontudela@example.com,161,19
+Mujer,516,Yes I Am,Georgio Armani,Marta,Gutierrez,34,2024-01-21,tjuan@example.org,344,17
+Mujer,198,My Way Nectar,Jimmy ChooCarolina Herrera,Nerea,Dominguez,27,2024-01-13,sevillasara@example.net,120,13
+Mujer,370,Infusion de Figue,Dior,Lorena,Montero,46,2024-01-10,ngarmendia@example.org,267,1
+Mujer,376,Libre Le Parfum, Lancome,Beatriz,Diaz,68,2024-01-07,inesquevedo@example.com,621,25
+Mujer,290,Yes I Am,Prada,Diana,Ortiz,21,2024-01-30,amanda08@example.org,561,13
+Mujer,389,J Adore EDP,Adolfo Dominguez,Rosa,Perez,20,2024-02-12,juliaroldan@example.net,249,19
+Mujer,147,Musc Noir for her,Marc Jacobs,Ana,Navarro,49,2024-01-06,iarteaga@example.com,285,5
+Mujer,688,Scandal Le Parfum,Jimmy ChooCarolina Herrera,Teresa,Martinez,48,2024-02-14,sanmiguelcamila@example.net,86,10
+Mujer,653,Idole Aura,Dior,Sandra,Rodriguezi,29,2024-02-01,juana06@example.org,770,9
+Mujer,170,Very Good Girl Glam,Prada,Nerea,Luna,47,2024-02-08,yzabala@example.com,812,8
+Mujer,628,Chloe absolute,Dior,Pilar,Morales,60,2024-01-15,rmorillo@example.net,65,11
+Mujer,576,My Way Nectar,Cacharel,Carmen,Morales,56,2024-02-18,ledesmanoelia@example.net,794,24
+Mujer,718,Poison EDP,Zadig & Voltaire,Luisa,Morales,42,2024-01-17,yustelorenza@example.net,573,9
+Mujer,77,Classique for her,Adolfo Dominguez,Elena,Ramírez,44,2024-02-02,banosefrain@example.com,631,23
+Mujer,272,My Way Nectar,Cacharel,Marina,Rodriguezi,48,2024-02-24,eloisapenalver@example.com,388,8
+Mujer,413,La Belle Garden ,Bad Boy Elixir,Teresa,Morales,44,2024-01-03,urenajuanita@example.net,626,21
+Mujer,506,212 heroes her,Jimmy ChooCarolina Herrera,Raquel,Marin,67,2024-02-14,barbararosell@example.net,458,24
+Mujer,734,My Way Le Parfum,Jean Paul Gaultier,Raquel,Rodriguezi,69,2024-01-27,vocana@example.net,296,22
+Mujer,682,212 heroes her,Zadig & Voltaire,Lucia,Ramos,43,2024-01-13,donosoalbano@example.com,164,17
+Mujer,236,Idole nectar,Cacharel,Laura,Diaz,60,2024-01-23,dafne82@example.net,898,4
+Mujer,504,Olympea Solar,Zadig & Voltaire,Natalia,Rodriguezi,50,2024-01-17,torralbavictoria@example.org,252,20
+Mujer,403,Libre EDT,Zadig & Voltaire,Julia,Ortiz,70,2024-02-26,rjara@example.org,772,8
+Mujer,337,Libre Le Parfum,Jimmy ChooCarolina Herrera,Paula,Rubio,60,2024-02-24,thurtado@example.org,498,2
+Mujer,321,Divine,Thierry Mugler,Marta,Dominguez,27,2024-01-31,crescencia72@example.org,877,9
+Mujer,54,Good Girl Blush,Jean Paul Gaultier,Paula,Gimenez,64,2024-01-01,mosqueraramona@example.com,227,10
+Mujer,116,Poison EDP,Jimmy ChooCarolina Herrera,Marina,Montero,19,2024-02-18,coral84@example.org,462,5
+Mujer,340,Paradoxe EDP,Marc Jacobs,Sara,Ortega,36,2024-02-09,marcelaguillen@example.org,683,12
+Mujer,342,Divine,Chloe,Diana,Martinez,19,2024-02-05,arteagaplinio@example.com,37,11
+Mujer,166,Black Opium extreme,Dior,Clara,Gomez,59,2024-01-27,salomon28@example.com,569,9
+Mujer,590,Libre Absolu,Jimmy Choo,Elena,Perez,66,2024-02-21,eulalia56@example.net,450,17
+Mujer,354,Devotion,Thierry Mugler,Nerea,Rodriguezi,26,2024-02-24,zbenitez@example.org,822,12
+Mujer,492,Good Girl Blush,Dior,Laura,Luna,22,2024-02-10,berto26@example.org,884,16
+Mujer,79,Q,Marc Jacobs,Patricia,Lopez,54,2024-02-23,ruben88@example.org,646,18
+Mujer,730,L Interdir Rouge,Chloe,Gloria,Alvarez,20,2024-01-10,nereidasalom@example.org,353,20
+Mujer,219,Code Absolu woman,Chloe,Esther,Herrera,29,2024-01-22,iolivares@example.net,156,24
+Mujer,104,Paradoxe Intense,Georgio Armani,Lucia,Santos,25,2024-01-19,carbonellema@example.net,476,6
+Mujer,364,Daisy Love,Thierry Mugler,Lucia,Calvo,45,2024-02-13,candido11@example.net,759,6
+Mujer,723,Mon G Bloom,Cacharel,Sandra,Castillo,39,2024-02-09,leandra76@example.com,786,6
+Mujer,110,Classique for her, Lancome,Lorena,Serrano,50,2024-02-01,emaldonado@example.com,528,10
+Mujer,378,Libre Le Parfum,Jimmy Choo,Gloria,Marin,24,2024-01-07,apolinaralsina@example.org,383,4
+Mujer,521,Poison EDT,Zadig & Voltaire,Pilar,Garcia,56,2024-01-25,gomezcustodio@example.net,489,12
+Mujer,404,Si Passione,Bad Boy Elixir,Silvia,Medina,25,2024-01-30,ruedanacio@example.net,855,17
+Mujer,699,Femme Parfum,Jimmy ChooCarolina Herrera,Sandra,Santos,31,2024-01-26,eric97@example.net,123,4
+Mujer,409,Code Absolu woman,Chloe,Lucia,Rubio,41,2024-01-15,tbeltran@example.org,432,11
+Mujer,600,Libre Absolu,Bad Boy Elixir,Carolina,Rodriguezi,64,2024-02-19,cocavalentin@example.org,31,14
+Mujer,462,Poison EDP,Jimmy ChooCarolina Herrera,Sandra,Gonzalez del Olmo,40,2024-02-05,tristanmaldonado@example.com,418,8
+Mujer,118,The only one,Marc Jacobs,Clara,Alvarez,19,2024-01-10,vlozano@example.com,451,21
+Mujer,479,Libre Absolu,Chloe,Julia,Gomez,54,2024-01-09,sanslola@example.net,219,3
+Mujer,553,Yes I Am,Zadig & Voltaire,Julia,Gimenez,30,2024-01-10,martinamador@example.com,561,1
+Mujer,599,The only one,Prada,Ana,Romero,22,2024-01-20,posadaamarilis@example.com,204,10
+Mujer,461,Alien her,Dior,Adriana,Gutierrez,33,2024-02-26,dorita23@example.com,733,12
+Mujer,547,Good Girl,Jimmy ChooCarolina Herrera,Adriana,Perez,30,2024-02-02,estevezgenoveva@example.net,333,20
+Mujer,744,My Way Nectar,Jimmy ChooCarolina Herrera,Nerea,Guerrero,18,2024-01-31,horacio68@example.com,727,1
+Mujer,126,My Way Intense,Jimmy ChooCarolina Herrera,Paula,Gomez,50,2024-01-02,amparosabater@example.net,490,5
+Mujer,507,Good Girl, Lancome,Monica,Gonzalez del Olmo,30,2024-02-22,floreva-maria@example.net,82,10
+Mujer,279,Femme Parfum,Prada,Sara,Gonzalez del Olmo,21,2024-02-04,navasrocio@example.com,746,2
+Mujer,89,Lady Million,Prada,Nerea,Gomez,45,2024-01-08,saurahortensia@example.com,723,14
+Mujer,604,Paradoxe EDP,Marc Jacobs,Sara,Cortes,21,2024-01-06,pascualgilabert@example.net,452,21
+Mujer,148,La Belle Garden ,Cacharel,Carolina,Herrera,47,2024-01-04,juan-antonio47@example.net,885,8
+Mujer,699,J Adore Infinissime,Jimmy Choo,Clara,Perez,45,2024-01-16,ncanovas@example.org,98,16

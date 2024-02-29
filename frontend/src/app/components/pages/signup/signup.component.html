@@ -1,0 +1,76 @@
+<!-- <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+</head> -->
+
+<body>
+
+    <div class="fondo">
+        <form (submit)="signup()">
+
+            <h1>Registro</h1>
+
+            <div class="input-box">
+                <input type="text" name="name" [(ngModel)]="user.name" placeholder="Nombre (*)" autofocus required>
+                <i class="bx bxs-user"></i>
+                <div *ngIf="!user.name && submitted" class="error-message">Este campo es obligatorio</div>
+            </div>
+            <div class="input-box">
+                <input type="text" name="lastname" [(ngModel)]="user.lastname" placeholder="Apellido (*)" required>
+                <i class="bx bxs-user"></i>
+                <div *ngIf="!user.lastname&& submitted" class="error-message">Este campo es obligatorio</div>
+            </div>
+            <div class="input-box">
+                <input type="text" id="phone" [(ngModel)]="user.phone" name="phone" placeholder="Teléfono móvil (*)" pattern="[0-9]*" 
+                title="Por favor, ingrese solo números" required>
+                <i class="bx bxs-phone"></i>
+                <!-- <input type="text" id="phone" [(ngModel)]="user.phone" name="phone" placeholder="Teléfono móvil"  required> -->
+                <div *ngIf="!user.phone && submitted" class="error-message">Este campo es obligatorio</div>
+            </div>
+            <div class="input-box">
+                <input type="text" name="address" [(ngModel)]="user.address" placeholder="Domicilio">
+                <i class="bx bxs-home"></i>
+            </div>
+            <div class="input-box">
+                <input type="text" id="postalCode" [(ngModel)]="user.postalCode" placeholder="Código Postal" name="postalCode">
+                <i class="bx bx-package"></i>
+            </div>
+            <div class="input-box">
+                <select id="community" [(ngModel)]="user.community" name="community" required>
+                    <option value="" disabled selected>Seleccione Comunidad (*)</option>
+                    <option *ngFor="let community of communities" [value]="community.id">{{ community['name'] }}</option>
+                </select>
+                <i class="bx bx-package"></i>
+                <div *ngIf="!user.community && submitted" class="error-message">Este campo es obligatorio</div>
+            </div>
+            <div class="input-box">
+                <input type="email" name="email" [(ngModel)]="user.email" placeholder="Email (*)" required>
+                <i class='bx bx-envelope'></i>
+                <div *ngIf="!user.email && submitted" class="error-message">Este campo es obligatorio</div>
+            </div>
+            <div class="input-box">
+                <input type="password" name="password1" [(ngModel)]="user.password" placeholder="Contraseña (*)" required>
+                <i class="bx bxs-lock-alt"></i>
+                <div *ngIf="!user.password && submitted" class="error-message">Este campo es obligatorio</div>
+            </div>
+            <div class="input-box">
+                <input type="password" name="password2" [(ngModel)]="user.password2" placeholder="Confirme Contraseña (*)" required>
+                <i class="bx bxs-lock-alt"></i>
+            </div>
+            <div *ngIf="passwordsNotMatch" class="error-message">
+                Las contraseñas no coinciden.
+            </div>
+              
+              
+
+            <button type="submit" class="btn">Registrar</button>
+
+        </form>
+    </div>
+</body>
+<!-- </html> -->

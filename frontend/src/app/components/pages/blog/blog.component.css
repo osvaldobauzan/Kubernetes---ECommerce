@@ -1,0 +1,45 @@
+/* Estilos para los elementos dentro de cada mat-list-item */
+h1 {
+  text-align: center; /* Centra el texto horizontalmente */
+  font-family: Arial, sans-serif; /* Fuente similar a la del footer */
+  color: #333; /* Color de texto similar al del footer */
+  border-bottom: 2px solid #ff9800; /* Línea inferior con color similar al botón */
+  padding-bottom: 10px; /* Espacio entre el texto y la línea */
+  margin-bottom: 20px; /* Espacio inferior para separarlo del formulario */
+}
+
+.product-item {
+  display: flex; /* Utiliza Flexbox */
+  align-items: center; /* Centra verticalmente los elementos */
+}
+
+/* Estilos para cada sección */
+.image {
+  padding: 10px; /* Espaciado interno */
+}
+
+.image label {
+  font-size: 14px; /* Tamaño de la fuente */
+  color: #999; /* Color de texto más suave */
+}
+
+.info {
+  flex: 1; /* Distribuye el espacio disponible de manera equitativa */
+  display: flex; /* Utiliza Flexbox */
+  flex-direction: column; /* Coloca los elementos en columna */
+}
+
+.title,
+.category,
+.description {
+  padding: 10px; /* Espaciado interno */
+}
+
+.title a {
+  font-weight: bold; /* Texto en negrita */
+  text-decoration: none; /* Elimina el subrayado del enlace */
+}
+
+.category {
+  color: #666; /* Color de texto más suave */
+}

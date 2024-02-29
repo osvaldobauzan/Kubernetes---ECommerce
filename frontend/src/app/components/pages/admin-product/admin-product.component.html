@@ -1,0 +1,53 @@
+<p>admin-product works!</p>
+<div>
+    <h1>Crear Nuevo Producto</h1>
+    <form (ngSubmit)="submitProduct()" class="new-review-form">
+
+        <label for="name">Nombre:</label><br>
+        <input type="text" [(ngModel)]="product.name" name="name" required>
+
+        <br>
+
+        <label for="description">Descripción:</label><br>
+        <textarea [(ngModel)]="product.description"  id="description" name="description" rows="4" required></textarea><br><br>
+
+        <label for="category">Categoría:</label><br>
+        <select [(ngModel)]="product.category" name="category" required>
+            <option value="Mujer">Mujer</option>
+            <option value="Hombre">Hombre</option>
+            <option value="Unisex">Unisex</option>
+        </select>
+        <br>
+
+        <label for="brand">Marca:</label><br>
+        <input type="text" [(ngModel)]="product.brand" id="brand" name="brand" required><br><br>
+
+        <label for="price">Precio:</label><br>
+        <input type="number" [(ngModel)]="product.price" id="price" name="price" step="0.01" required><br><br>
+
+        <label for="size">Tamaño:</label><br>
+        <input type="text" [(ngModel)]="product.size"id="size" name="size" required><br><br>
+
+        <label for="stock">Stock:</label><br>
+        <input type="number" [(ngModel)]="product.stock" id="stock" name="stock" required><br><br>
+
+        <label for="image">Imagen1:</label><br>
+        <div>
+            <input type="file" (change)="addFile($event)" >
+        </div>
+        <label for="image">Imagen2:</label><br>
+        <div>
+            <input type="file" (change)="addFile($event)">
+        </div>
+        <label for="image">Imagen3:</label><br>
+        <div>
+            <input type="file" (change)="addFile($event)">
+        </div>
+        <label for="image">Imagen4:</label><br>
+        <div>
+            <input type="file" (change)="addFile($event)">
+        </div>
+
+        <button type="submit">Crear Producto</button>
+    </form>
+</div>

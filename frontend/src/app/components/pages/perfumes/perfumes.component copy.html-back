@@ -1,0 +1,60 @@
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"> -->
+<div class="welcome">
+    <span class="text1" id="welcomeText">Perfumes {{category}}</span>
+</div>
+
+<!-- <section class="noticias" style="padding-top: 50px;"> -->
+<section class="noticias">
+    <div class="noticia" *ngFor="let product of products">
+        <a [routerLink]="['/shop-product', product['id']]"
+            style="text-decoration: none; color: inherit; cursor: pointer;">
+            <img *ngIf="product['image'] ; else noimage " src="{{ product['image'][0] }}">
+            <ng-template #noimage>
+                <img src="assets/images/perfumearticle.jpg" alt="Noticia 1">
+            </ng-template>
+
+            <!-- <h2><a [routerLink]="['/blog-article', article['id']]">{{ article['title'] }}</a></h2> -->
+            <h2>{{ product['name'] }}</h2>
+            {{ product['brand'] }}
+            <h5>{{ product['description'] }}</h5>
+            <!-- <h4><em>{{ article['description'] }}</em></h4> -->
+            <p></p>
+            <p>Categoría: {{ product['category'] }}</p>
+            <p>Precio: {{ product['price'] }} €</p>
+            <!-- <p>Marca: {{ product['brand'] }}</p> -->
+            <!-- <a href="#">Leer más</a> -->
+            <!-- <a [routerLink]="['/blog-article', article['id']]"> Leer más...</a> -->
+        </a>
+    </div>
+</section>
+<!-- <br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<mat-list role="list">
+    <mat-list-item role="listitem" *ngFor="let product of products | slice:from:to">
+        <div class="product-item">
+            <div class="image">
+
+                <img *ngIf="product['image'] ; else noimage " src="{{ product['image'][0] }}"
+                    style="width: 150px; height: 100px;">
+                <ng-template #noimage>
+                    <label>image</label>
+                </ng-template>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <a [routerLink]="['/shop-product', product['id']]">{{ product['name'] }}</a><br>
+                </div>
+                <div class="category">
+                    Para: {{ product['category'] }}<br>
+                </div>
+                <div class="description">
+                    {{ product['description'] }} <br>
+                </div>
+            </div>
+        </div>
+    </mat-list-item>
+</mat-list>
+<div>
+    <mat-paginator [length]="pages" [pageSize]="pageSize" (page)="changePage($event)" aria-label="Select page">
+    </mat-paginator>
+</div> -->

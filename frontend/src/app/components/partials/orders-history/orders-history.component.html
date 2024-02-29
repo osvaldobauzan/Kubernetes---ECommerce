@@ -1,0 +1,32 @@
+<div class="orders-container">
+    <h2>Compras</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>ID Seguimiento</th>
+          <th>Ordenado</th>
+          <th>Enviado</th>
+          <th>Pagado</th>
+          <th>Total</th>
+          <th>Estado Orden</th>
+          <th>Estado de Pago</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Aquí puedes iterar sobre tus órdenes y mostrar cada una en una fila de la tabla -->
+        <!-- Ejemplo de fila para una orden -->
+        <tr *ngFor="let order of orders">
+            <td> <a [routerLink]="['/orders-detail', order['id']]"> {{ order.id }} </a> </td>
+            <td> {{ order.orderedAt }} </td>
+            <td> {{ order.sendedAt }} </td>
+            <td> {{ order.paidAt }} </td>
+            <td> {{ order.total }} </td>
+            <td> {{ order.statusOrder }} </td>
+            <td> {{ order.paymentStatus }} </td>
+        </tr>
+        <!-- Puedes repetir esta estructura para cada orden -->
+      </tbody>
+    </table>
+  </div>
+
+  

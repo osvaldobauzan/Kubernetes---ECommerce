@@ -1,0 +1,22 @@
+steps:
+  # Paso para construir la imagen de Docker
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/handy-position-413808/github.com/eingaruca/devops-ecommerce/shop:latest', 'backend/shop/']
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+        - push
+        - 'gcr.io/handy-position-413808/github.com/eingaruca/devops-ecommerce/shop:latest'
+  # Despliegue en GKE
+  - name: 'gcr.io/cloud-builders/gcloud'
+    id: Deploy
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+          PROJECT=$$(gcloud config get-value core/project)          
+          gke-gcloud-auth-plugin --version
+          export USE_GKE_GCLOUD_AUTH_PLUGIN=True
+          gcloud container clusters get-credentials betaroma --zone us-central1-a --project handy-position-413808 
+          kubectl delete -f kubernetes/dp-shop.yaml
+          kubectl apply -f kubernetes/dp-shop.yaml

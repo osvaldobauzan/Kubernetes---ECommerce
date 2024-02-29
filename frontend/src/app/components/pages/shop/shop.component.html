@@ -1,0 +1,54 @@
+<h1>Tienda</h1>
+<!-- <mat-list role="list">
+    <mat-list-item role="listitem" *ngFor="let product of products | slice:from:to">
+        <div>
+            <div class="title">
+                <a [routerLink]="['/shop-product', product['id']]">{{ product['name'] }}</a><br>
+            </div>
+            <div class="category">
+                Para: {{ product['category'] }}<br>
+            </div>
+            <div class="description">
+                {{ product['description'] }} <br>
+            </div>
+            <div class="image">
+                <label>image</label>
+            </div>
+        </div>
+    </mat-list-item>
+</mat-list>
+<div>
+    <mat-paginator [length]="pages" [pageSize]="pageSize" (page)="changePage($event)" aria-label="Select page">
+    </mat-paginator>
+
+
+</div> -->
+<mat-list role="list">
+  <mat-list-item role="listitem" *ngFor="let product of products | slice:from:to">
+    <div class="product-item">
+      <div class="image">
+
+        <img *ngIf="product['image'] ; else noimage " src="{{ product['image'][0] }}"
+          style="width: 150px; height: 100px;">
+        <ng-template #noimage>
+          <label>image</label>
+        </ng-template>
+      </div>
+      <div class="info">
+        <div class="title">
+          <a [routerLink]="['/shop-product', product['id']]">{{ product['name'] }}</a><br>
+        </div>
+        <div class="category">
+          Para: {{ product['category'] }}<br>
+        </div>
+        <div class="description">
+          {{ product['description'] }} <br>
+        </div>
+      </div>
+    </div>
+  </mat-list-item>
+</mat-list>
+<div>
+  <mat-paginator [length]="pages" [pageSize]="pageSize" (page)="changePage($event)" aria-label="Select page">
+  </mat-paginator>
+</div>
