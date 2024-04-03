@@ -1,25 +1,26 @@
-# BetAroma E-Shop
+# Overview
 
-## 1. Proyecto 
-   - Concepto: Un e-commerce especializado en la venta de perfumes comercial y de nicho, aquellos difíciles de encontrar en tiendas físicas o perfumerías tradicionales.
-   - Público objetivo: Amantes de la perfumería, coleccionistas de fragancias, personas que buscan aromas únicos y diferenciadores.
-   - Vamos a diseñar una plataforma e-commerce propia con un diseño atractivo, intuitivo y fácil de usar.
-   
-## 2. Integrantes equipo Beta:
-   - Eldo Ingaruca
-   - Andrés Bravo
-   - Patricia García
+This e-commerce dedicated to the sale of perfumes was made with Java Script and different frameworks, but the most important thing about it is how it is built in microservices, I invite you to go deeper and study the code, the microservices are surprising and I am sure that you will take away a surprise.
 
-## 3. Alcance
-   El proyecto abarcará diferentes fases de un e-commerce real.
-   - Módulo de Usuarios y opiniones
-   - Módulo de Ventas
-   - Módulo de Noticias/Novedades
-   - Módulo de Pago
-   - Módulo de estadísticas y recomendación (* Posible fase 2 *)
+[Software Demo Video](https://www.youtube.com/watch?v=nF3guNTCSCE&ab_channel=OsvaldoBauzan)
 
-## 4. Software utilizado
-   - Html / CSS / Sass
-   - Node.js 
-   - MySql
-   - Google Cloud Platform
+# Development Environment
+
+Java Script
+Node 
+React 
+Vite (CSS)
+Kubernetes
+Google Cloud (GKE)
+
+
+# Useful Websites
+
+- [Kubernetes](https://kubernetes.io/es/)
+- [GKE](https://cloud.google.com/learn/what-is-kubernetes?hl=es-419)
+
+# Future Work
+
+Design
+
+It can be better designed
